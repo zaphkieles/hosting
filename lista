@@ -1,0 +1,837 @@
+﻿{
+  "name": "Zaphkiel_ES",
+  "author": "Zaphkiel_ES - Actualizado: 22-03-2023 - 23:00",
+  "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
+  "image": "https://lh3.googleusercontent.com/a/AEdFTp4J0iA7MhUlhjDTK3TetovGbAa21DtkUDFEidEvLg=s96-c-rg-br100",
+  "imageScale": "",
+  "telegram": "Zaphkiel_ES",
+  "info": "Lista Eventos Deportivos",
+
+  "groups": [
+
+    {
+      "name": "Eventos del día",
+      "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
+      "groups": [
+         {
+          "name": "⚽️ LaLiga Santander (sin eventos)",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "⚽️ LaLiga SmartBank (sin eventos)",
+          "image": "",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "⚽️ Copa del Rey (sin eventos)",
+          "image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "⚽️ Bundesliga (sin eventos)",
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "⚽️ Serie A Italia (sin eventos)",
+          "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
+          "info": "",
+          "stations": [
+          {
+            "name": "",
+            "image": "",
+            "info": "",
+            "url": ""
+          }
+          ]
+        },
+        {
+          "name": "⚽️ Championship (sin eventos)",
+          "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+	{
+          "name": "⚽️ Champions League (sin eventos)",
+          "image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+  {
+          "name": "⚽️ Europa League (sin eventos)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+	{
+          "name": "⚽️ Copa de la Reina (sin eventos)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Copa_de_la_Reina_2021.png",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+
+        {
+          "name": "⚽️ FA CUP (sin eventos)",
+          "image": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "⚽️ Premier League (sin eventos)",
+          "image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "⚽️ Carabao Cup (sin eventos)",
+          "image": "https://www.themillers.co.uk/siteassets/image/efl/efl-logos/carabao-cup-2018-19.jpg",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "⚽️ Ligue 1 Francia (sin eventos)",
+          "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Enlaces AceStream",
+        "image": "https://play-lh.googleusercontent.com/T0HTeaijUgoKa_FAIL5lGve_H6bSmzuwiP5uNLIqqVkou7fMXHKnWTsNruSE868ss7A",
+        "groups": [
+           {
+            "name": "Buscador enlaces acestream",
+            "image": "https://avanzaeninternet.com/wp-content/uploads/2018/05/17033192489_c7964c32cc_b.jpg",
+            "info": "No Info",
+            "stations": [
+              {
+                "name": "Buscador",
+                "image": "",
+                "url": "https://acestreamsearch.net/",
+                "embed": true
+              }
+            ]
+          },
+          {
+            "name": "Varios",
+            "image": "https://logos.flamingtext.com/Word-Logos/varios-design-sketch-name.png",
+            "info": "No Info",
+            "stations": [
+              {
+                "name": "GOL PLAY",
+                "image": "",
+                "url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"
+              },
+              {
+                "name": "Sport TV 1 1080p",
+                "image": "",
+                "url": "acestream://c95422bc904378be0b035eba721d5e6a004f7d79"
+              },
+              {
+                "name": "Sport TV 2",
+                "image": "",
+                "url": "acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541"
+              },
+              {
+                "name": "Sport TV 3",
+                "image": "",
+                "url": "acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff"
+              },
+              {
+                "name": "Sorts 3 GEO CAT",
+                "image": "",
+                "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132"
+              },
+              {
+                "name": "Sorts 3 GEO CAT",
+                "image": "",
+                "url": "acestream://cda71664828814773985908db1c74935984a0956"
+              },
+              {
+                "name": "ESPN",
+                "image": "",
+                "url": "acestream://7f8d128f090347c48b7eb608a7037a2998a743ba"
+              },
+              {
+                "name": "ESPN2 US",
+                "image": "",
+                "url": "acestream://664eb5fe460b96941aed633959a845b185cd8394"
+              },
+              {
+                "name": "ESPN2",
+                "image": "",
+                "url": "acestream://14127d51559ef194c5c98998a90d2f686a01402b"
+              },
+              {
+                "name": "ESPN2 Uruguay",
+                "image": "",
+                "url": "acestream://e40b29774fdfd953751a71f5695f647726623b9d"
+              },
+              {
+                "name": "ESPN3 Uruguay",
+                "image": "",
+                "url": "acestream://b97f5975dbd067655432512d4693b417bc85a714"
+              },
+              {
+                "name": "Eleven 1",
+                "image": "",
+                "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
+              },
+              {
+                "name": "Eleven Sports 1 HD [PL]",
+                "image": "",
+                "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
+              },
+              {
+                "name": "Eleven Sports 2 HD [PL]",
+                "image": "",
+                "url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"
+              },
+              {
+                "name": "Eleven Sports 3 HD [PL]",
+                "image": "",
+                "url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"
+              },
+              {
+                "name": "Eleven Sports 4 HD [PL]",
+                "image": "",
+                "url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"
+              },
+              {
+                "name": "BT Sport 1 (UK)",
+                "image": "",
+                "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
+              },
+              {
+                "name": "BT Sport 2 (UK)",
+                "image": "",
+                "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
+              },
+              {
+                "name": "BT Sport 3 (UK)",
+                "image": "",
+                "url": "acestream://5f966c123759de46dff29c379266b7a403452033"
+              },
+              {
+                "name": "BT Sport 4 (UK)",
+                "image": "",
+                "url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"
+              },
+              {
+                "name": "Match Football 1",
+                "image": "",
+                "url": "acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf"
+              },
+              {
+                "name": "TVG Galicia",
+                "image": "",
+                "url": "acestream://aa9e353457d273108ec57dc1a449d66defb66b6a"
+              },
+              {
+                "name": "TVG 2",
+                "image": "",
+                "url": "acestream://dfbeae99e6da47a8f10be96e28ae1ba600cd84bc"
+              },
+              {
+                "name": "EuroSport 1 1080",
+                "image": "",
+                "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2"
+              },
+              {
+                "name": "EuroSport 2",
+                "image": "",
+                "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
+              },
+              {
+                "name": "EuroSport 2",
+                "image": "",
+                "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
+              },
+              {
+                "name": "TDP (Teledeporte)",
+                "image": "",
+                "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
+              },
+              {
+                "name": "beIN Sports 1",
+                "image": "",
+                "url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
+              },
+              {
+                "name": "beIN Sports ñ",
+                "image": "",
+                "url": "acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d"
+              },
+              {
+                "name": "Polsat Sport Premium 1 (PL)",
+                "image": "",
+                "url": "acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f"
+              },
+              {
+                "name": "Polsat Sport Premium 2 (PL)",
+                "image": "",
+                "url": "acestream://3147c586346aee00c005d1caa55204d38678c95f"
+              },
+              {
+                "name": "Setanta Sports 2",
+                "image": "",
+                "url": "acestream://02ab7a40891a8cc1aa7e29e0eff279abc4a4188e"
+              },
+              {
+                "name": "Ziggo Sport Select [BE]",
+                "image": "",
+                "url": "acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a"
+              }
+            ]
+          },  
+          {
+            "name": "M+ Golf",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/800px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
+            "info": "No Info",
+            "stations": [
+              {
+                "name": "M. Golf 1080",
+                "image": "",
+                "url": "acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122"
+              }
+            ]
+          },
+          {
+            "name": "M+ #0",
+            "image": "https://sincroguia-tv.expansion.com/uploads/images/0/j/p/0.jpg",
+            "info": "No Info",
+            "stations": [
+              {
+                "name": "M+ #0",
+                "image": "",
+                "url": "acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2"
+              }
+            ]
+          },
+          {
+            "name": "M+ #Vamos",
+            "image": "https://www.mundoplus.tv/wp-content/uploads/2021/04/vamosplu-s-_.gif",
+            "info": "No Info",
+            "stations": [
+              {
+                "name": "#Vamos",
+                "image": "",
+                "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+              },
+              {
+                "name": "#Vamos 720p",
+                "image": "",
+                "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+              }
+            ]
+          },
+          {
+            "name": "M+ Deportes",
+            "image": "https://miguia.tv/channels/big_32@2x.png",
+            "info": "No Info",
+            "stations": [
+  	      {
+                "name": "M+ Deportes",
+                "image": "",
+                "url": "acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c"
+              },
+              {
+                "name": "M+ Deportes 1080p",
+                "image": "",
+                "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
+              },
+              {
+                "name": "M+ Deportes 720p",
+                "image": "",
+                "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+              },
+              {
+                "name": "M+ Deportes 2 1080p",
+                "image": "",
+                "url": "acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5"
+              }       
+            ]
+          },
+          {
+            "name": "M+ La Liga",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/800px-Movistar_LaLiga.svg.png",
+            "info": "No Info",
+            "stations": [
+              {
+                "name": "M+ La Liga TV multiaudio (dial 52)",
+                "image": "",
+                "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+              },
+              {
+                "name": "M+ La Liga TV multiaudio (dial 52)",
+                "image": "",
+                "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
+              },
+              {
+                "name": "M+ La Liga TV (dial 52)",
+                "image": "",
+                "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
+              },              
+              {
+                "name": "M+ La Liga SmartBank Multiaudio (dial 54)",
+                "image": "",
+                "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+              },
+              {
+                "name": "M+ La Liga SmartBank (dial 54)",
+                "image": "",
+                "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
+              },
+              {
+                "name": "M+ La Liga SmartBank TV M2 (dial 177)",
+                "image": "",
+                "url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342"
+              },
+              {
+                "name": "M+ La Liga SmartBank TV M2 (dial 177)",
+                "image": "",
+                "url": "acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
+              }
+            ]
+          },
+          {
+            "name": "M+ Liga de Campeones",
+            "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=73a021&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc.png",
+            "info": "No Info",
+            "stations": [
+              {
+                "name": "M+ Liga campeones 1080p multiaudio (dial 56)",
+                "image": "",
+                "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+              },
+              {
+                "name": "M+ Liga de Campeones (dial 56)",
+                "image": "",
+                "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
+              },
+              {
+                "name": "M+ Liga de Campeones 2 (dial 57)",
+                "image": "",
+                "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+              },
+              {
+                "name": "M+ Liga de Campeones 2 (dial 57)",
+                "image": "",
+                "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
+              },
+              {
+                "name": "M+ Liga de Campeones 3 (dial 58)",
+                "image": "",
+                "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
+              },
+              {
+                "name": "M+ Liga de Campeones 3 (dial 58)",
+                "image": "",
+                "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+              },
+              {
+                "name": "M+ Liga de Campeones 4 (dial 180)",
+                "image": "",
+                "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
+              },
+              {
+                "name": "M+ Liga de Campeones 5 (dial 182)",
+                "image": "",
+                "url": "acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d"
+              },
+              {
+                "name": "M+ Liga de Campeones 6 (dial 183)",
+                "image": "",
+                "url": "acestream://e9950ec551124c490ecbc2526a83d2c5a4516293"
+              }
+            ]
+          },
+          {
+            "name": "DAZN",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/245px-DAZN_Logo_Master.svg.png",
+            "info": "No Info",
+            "stations": [
+             {
+                "name": "DAZN1 (dial 64)",
+                "image": "",
+                "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
+              },
+              {
+                "name": "DAZN1 (dial 64)",
+                "image": "",
+                "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
+              },
+              {
+                "name": "DAZN1 Bar HD [DE]",
+                "image": "",
+                "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+              },
+              {
+                "name": "DAZN Liga Multiaudio (dial 53)",
+                "image": "",
+                "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
+              },
+              {
+                "name": "DAZN Liga Multiaudio (dial 53)",
+                "image": "",
+                "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
+              },
+              {
+                "name": "DAZN2",
+                "image": "",
+                "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
+              },
+              {
+                "name": "DAZN2",
+                "image": "",
+                "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
+              },
+              {
+                "name": "DAZN3",
+                "image": "",
+                "url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a"
+              },
+              {
+                "name": "DAZN4",
+                "image": "",
+                "url": "acestream://149a38e333de920753f1388c43247283bdb05f5b"
+              },
+              {
+                "name": "DAZN Liga",
+                "image": "",
+                "url": "acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6"
+              },
+              {
+                "name": "DAZN1 (enlace web)",
+                "image": "",
+                "url": "https://nosequewea.tk/dazn1",
+                "ishost": true
+              },
+              {
+                "name": "DAZN2 (enlace web)",
+                "image": "",
+                "url": "https://nosequewea.tk/dazn2",
+                "embed": true
+              },
+              {
+                "name": "DAZN LaLiga (enlace web)",
+                "image": "",
+                "url": "https://nosequewea.tk/daznlaliga",
+                "embed": true
+              },            
+              {
+                "name": "DAZN F1 (enlace web)",
+                "image": "",
+                "url": "https://nosequewea.tk/daznf1",
+                "embed": true
+              }
+            ]          
+          }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+    
+    {
+      "name": "Canales TV",
+      "image": "https://e7.pngegg.com/pngimages/881/51/png-clipart-iptv-television-channel-canal-smart-tv-iptv-television-text-thumbnail.png",
+      "info": "No Info",
+      "stations": [
+        {
+          "name": "SFNTV (necesita activar VPN)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_sfn_logo_step_repeat.png",
+          "url": "https://bit.ly/3WybDzd?r=lp",
+          "embed": true
+        },
+        {
+          "name": "ITELEFLIX",
+          "image": "https://iteleflix.com/archivos/logo-iteleflix.png",
+          "url": "https://bit.ly/3D3Lzoq?r=lp",
+          "embed": true
+        },
+        {
+          "name": "TDTChannels | canales de TV y Radio IPTV",
+          "image": "https://www.tdtchannels.com/tdtchannels_android_tv_1.png",
+          "url": "https://bit.ly/3JzYXo5?r=lp",
+          "embed": true
+        },
+        {
+          "name": "PHOTOCALL (necesita activar VPN)",
+          "image": "https://www.adslzone.net/app/uploads-adslzone.net/2021/12/photocall-1.jpg",
+          "url": "https://photocall.tv",
+          "embed": true
+        }
+      ]
+    },
+    {
+      "name": "Listas para Wiseplay (Click y copiar dirección del enlace, después abrir en Wiseplay)",
+      "image": "https://storage.googleapis.com/bitly-image-upload/Imcteu0Yez0",
+      "info": "No Info",
+      "stations": [
+        {
+          "name": "Zaphkiel_ES | Añadir Lista",
+          "image": "https://storage.googleapis.com/bitly-image-upload/Imcteu0Yez0",
+          "url": "https://bit.ly/3jELNuY?r=lp",
+          "import": true
+        }
+      ]
+    },
+    {
+      "name": "Programación de Deportes Diaria",
+      "image": "https://e7.pngegg.com/pngimages/451/478/png-clipart-white-and-blue-calendar-illustartion-calendar-giphy-academic-year-calendar-holidays-lights-thumbnail.png",
+      "info": "No Info",
+      "stations": [
+        {
+          "name": "Futbolenlatv",
+          "image": "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/304738168_453857293428230_1944059037746216274_n.png?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=yK86Ej5kwVYAX-h3JhP&_nc_ht=scontent-mad1-1.xx&oh=00_AfCjnUKZhIJ2BC6_rF3AMH9_mn1o9_LKEHuBnPWpzyVjJA&oe=63B32ED1",
+          "url": "https://bit.ly/3UHzvyM?r=lp",
+          "embed": true
+        }
+      ]
+    },
+    {
+      "name": "Apps",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwZa4VjMffi8FN7QKgkm064Q4QJ-G1rki6g&usqp=CAU",
+      "info": "clic descargar | abrir en navegador",
+      "stations": [
+        {
+          "name": "Archivo de Apps",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmwijA2Cf7yNZwRjFF8uaapwwsb1PcnAAbew&usqp=CAU",
+          "url": "https://mega.nz/folder/hph10LaC#qTla0fSejaMGDoSfz5uD-Q",
+          "info": "clic descargar carpeta de Apps | abrir en navegador",
+          "embed": true
+        },
+        {
+          "name": "VPN",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://mega.nz/file/944R1ZwK#4XTUs71UuMfZasN4MG759zstmq_FXFnLFD8cX4cdipw",
+          "info": "clic descargar | abrir archivo",
+          "embed": true
+        },
+        {
+          "name": "AceStream Media 3.1.32",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://mega.nz/file/s05SUB4Y#X8ygNZCwVk90-Cz41PynnaCY0Ff3M1EHimbxwYxFjOc",
+          "info": "clic descargar | abrir archivo",
+          "embed": true
+        },
+        {
+          "name": "AceStream Media | PC",
+          "image": "https://www.info-computer.com/modules/dbblog/views/img/uploads/2017/07/programas-ordenador.jpg",
+          "url": "https://www.acestream.org/#",
+          "info": "clic descargar | abrir archivo",
+          "embed": true
+        },
+        {
+          "name": "AceStream TVBox",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://mega.nz/file/YwRzVLhC#3T7gpiTyTFK5Rxz-wNPmHhi26BJgNXejxJHEc6bjHWM",
+          "info": "clic descargar | abrir archivo",
+          "embed": true
+        },
+        {
+          "name": "Acestream Engine | Android",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://mega.nz/file/0oZAkbBC#dn0T0jMbJ47qJAgVthjWxGoumJfeE2fzajULysOq_1k",
+          "info": "clic descargar | abrir archivo",
+          "embed": true
+        },
+        {
+          "name": "Acestream Engine | Android TV",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://play.google.com/store/apps/details?id=org.acestream.core.atv&hl=es&gl=US",
+          "info": "clic descargar | Google PlayStore",
+          "embed": true
+        },
+        {
+          "name": "Wiseplay 7.2.2 Premium",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://mega.nz/file/Q1g3CI7Q#RQ1YBWoHCVCUqD_GS9MNE0Vk27rRPrHSV411hWnVyiU",
+          "info": "clic descargar | abrir archivo",
+          "embed": true
+        },
+        {
+          "name": "Listas Diarias (en mantenimiento)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://mega.nz/file/VwQCiJga#xukR5hIL1j_mY4bHX4fNJLrpad1Pf1hIs2ej_S8hWM0",
+          "info": "clic descargar | abrir archivo",
+          "embed": true
+        },
+        {
+          "name": "Navegador Opera",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://play.google.com/store/apps/details?id=com.opera.browser&hl=es&gl=US",
+          "info": "clic descargar | Google PlayStore",
+          "embed": true
+        },
+        {
+          "name": "Navegador Brave",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://play.google.com/store/apps/details?id=com.brave.browser&hl=es&gl=US",
+          "info": "clic descargar | Google PlayStore",
+          "embed": true
+        },
+        {
+          "name": "Reproductor ABLStream",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://play.google.com/store/apps/details?id=com.ablstream&hl=en&gl=US",
+          "info": "clic descargar | Google PlayStore",
+          "embed": true
+        }
+      ]
+    },
+    {  "name": "Web deportivas favoritas",
+      "image": "https://tecnobirdman.com/wp-content/uploads/2021/12/Como-ver-paginas-web-favoritas-en-Google-Chrome-Android-1140x600.jpg",
+      "info": "No Info",
+      "stations": [
+        {
+          "name": "",
+          "image": "https://www.futbolenvivo.com.co/wp-content/uploads/2022/09/Futbol-en-vivo-por-Jeinz-Macias.jpg",
+          "url": "https://bit.ly/3Flk5us?r=lp",
+          "embed": true
+        },
+        {
+          "name": "",
+          "image": "https://cdn.livesoccertv.com/images/logo.gif",
+          "url": "https://bit.ly/3iW26mV?r=lp",
+          "embed": true
+        },
+        {
+          "name": "(necesita activar VPN)",
+          "image": "https://img2.sport-tv-guide.live/images/tv-station-sport-plus-tv-1972.png",
+          "url": "https://bit.ly/3PhuVpI?r=lp",
+          "embed": true
+        },
+        {
+          "name": "Futbolfullenvivo (necesita activar VPN)",
+          "image": "https://site-images.similarcdn.com/image?url=futbolfullenvivo.com&t=4&s=1&h=1e16154a9666e0125afb7710583242e6aac9471aed792e00c55367abe1efdea9",
+          "url": "https://bit.ly/3xlmp0Y?r=lp",
+          "embed": true
+        },
+        {
+          "name": "",
+          "image": "https://pbs.twimg.com/profile_images/1527601638932086787/IKDpD69A_400x400.png",
+          "url": "https://bit.ly/3FI2Cxs?r=lp",
+          "embed": true
+        },
+        {
+          "name": "SportsOnline (necesita activar VPN) | (click, seleccionar contenido, copiar y pegar en telegram, para generar los enlaces) horario del listado +1h",
+          "image": "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/311453331_521519603318546_7160855481987338253_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=DAM3JNidVI8AX9KP0IX&_nc_ht=scontent-mad1-1.xx&oh=00_AfBYvAlVQibxKh9Z4tb0vNBvWroY-cyACHGaVYwY8qvniw&oe=63B333B5",
+          "url": "https://bit.ly/3TCckFL?r=lp",
+          "embed": true
+        }
+      ]
+    }
+  ]
+}
