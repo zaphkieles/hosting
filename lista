@@ -35,7 +35,9 @@
               "name": "21:00 | RCD Mallorca vs Osasuna",
               "image": "https://phantom-marca.unidadeditorial.es/e473ce282db5174b5cd6ae05fc49e3bb/resize/1320/f/jpg/assets/multimedia/imagenes/2023/03/30/16802023325231.jpg",
               "info": "GOL PLAY, LaLigaTV (M+ Dial 52), LaLigaTV Bar (M+ Dial 300)",
-              "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664" , "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb" , "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+              "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664" ,
+"url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb",
+"url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
             }
           ]
         },
