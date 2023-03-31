@@ -21,11 +21,18 @@
             {
               "name": "20:30 | Partizan vs Real Madrid",
               "image": "https://www.solobasket.com/apuestas-deportivas/wp-content/uploads/2023/03/Disen%CC%83o-sin-ti%CC%81tulo-3-13.jpg",
-              "info": "DAZN 2",
-              "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85" , "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
+              "info": "DAZN2 (dial 65)"
+            },
+            {
+              "info": "DAZN2 (dial 65)",
+              "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
+            },
+            {
+              "info": "DAZN2 (dial 65)",
+              "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
             }
           ]
-        }, 
+        },
         {
           "name": "⚽️ LaLiga Santander",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
@@ -34,16 +41,19 @@
             {
               "name": "21:00 | RCD Mallorca vs Osasuna",
               "image": "https://phantom-marca.unidadeditorial.es/e473ce282db5174b5cd6ae05fc49e3bb/resize/1320/f/jpg/assets/multimedia/imagenes/2023/03/30/16802023325231.jpg",
-              "info": "GOL PLAY, LaLigaTV (M+ Dial 52), LaLigaTV Bar (M+ Dial 300)",
-             
-"url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb",
-"url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+              "info": "GOL PLAY, LaLigaTV (M+ Dial 52), LaLigaTV Bar (M+ Dial 300)"           
             },
-{
-              "name": "",
-              "image": "",
-              "info": "GOL PLAY, LaLigaTV (M+ Dial 52), LaLigaTV Bar (M+ Dial 300)",
+            {
+              "info": "LaLigaTV (M+ Dial 52)",
               "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664" 
+            },
+            {
+              "info": "LaLigaTV (M+ Dial 52)",
+              "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb" 
+            },
+            {
+              "info": "LaLigaTV (M+ Dial 52)",
+              "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862" 
             }
           ]
         },
@@ -55,8 +65,23 @@
             {
               "name": "21:00 | Levante vs Real Zaragoza",
               "image": "https://www.aupazaragoza.com/wp-content/uploads/2023/03/previa34.jpg",
-              "info": "LaLiga SmartBankTV (M+ Dial 54), LaLigaTV Bar 2 (M+ Dial 301), #Vamos (M+ Dial 8), Movistar+ Lite, Amazon Prime Video",
-              "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f" , "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775" , "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c" , "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+              "info": "LaLiga SmartBankTV (M+ Dial 54), LaLigaTV Bar 2 (M+ Dial 301), #Vamos (M+ Dial 8), Movistar+ Lite, Amazon Prime Video"
+            },
+            {
+              "info": "#Vamos (dial 8)",
+              "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+            },
+            {
+              "info": "#Vamos (dial 8)",
+              "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+            },
+            {
+              "info": "LaLiga SmartBankTV (M+ Dial 54)",
+              "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
+            },
+            {
+              "info": "LaLiga SmartBankTV (M+ Dial 54)",
+              "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
             }
           ]
         },
@@ -81,8 +106,15 @@
             {
               "name": "20:30 | Eintracht Frankfurt vs Bochum",
               "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/3SULPOBSFZDP7GQF36N5CEJ35E.png",
-              "info": "#Vamos Bar 2 (M+ Dial 305), Liga de Campeones (M+ Dial 56)",
-              "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47" , "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+              "info": "#Vamos Bar 2 (M+ Dial 305), Liga de Campeones (M+ Dial 56)"
+            },
+            {
+              "info": "Liga de Campeones (M+ Dial 56)",
+              "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
+            },
+            {
+              "info": "Liga de Campeones (M+ Dial 56)",
+              "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
             }
           ]
         },
@@ -199,8 +231,15 @@
             {
               "name": "21:00 | Olympique Marsella vs Montpellier",
               "image": "https://www.infobae.com/new-resizer/hTWYxn21oCXTO6Hz6E-O21788WM=/1024x512/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/XMMHX7UGIZEMZDESLVZDP6WZLU.png",
-              "info": "DAZN, Eurosport 2, Eurosport Player",
-              "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01" , "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
+              "info": "DAZN, Eurosport 2, Eurosport Player"
+            },
+            {
+              "info": "Eurosport 2",
+              "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
+            },
+            {
+              "info": "Eurosport 2",
+              "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
             }
           ]
         }
