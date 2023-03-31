@@ -86,19 +86,6 @@
           ]
         },
         {
-          "name": "⚽️ Copa del Rey (sin eventos)",
-          "image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif",
-          "info": "",
-          "stations": [
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            }
-          ]
-        },
-        {
           "name": "⚽️ Bundesliga",
           "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",
           "info": "",
@@ -119,19 +106,6 @@
           ]
         },
         {
-          "name": "⚽️ Serie A Italia (sin eventos)",
-          "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
-          "info": "",
-          "stations": [
-          {
-            "name": "",
-            "image": "",
-            "info": "",
-            "url": ""
-          }
-          ]
-        },
-        {
           "name": "⚽️ Championship",
           "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
           "info": "",
@@ -144,7 +118,53 @@
             }
           ]
         },
-	{
+        {
+          "name": "⚽️ Ligue 1 Francia",
+          "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
+          "info": "",
+          "stations": [
+            {
+              "name": "21:00 | Olympique Marsella vs Montpellier",
+              "image": "https://www.infobae.com/new-resizer/hTWYxn21oCXTO6Hz6E-O21788WM=/1024x512/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/XMMHX7UGIZEMZDESLVZDP6WZLU.png",
+              "info": "DAZN, Eurosport 2, Eurosport Player"
+            },
+            {
+              "info": "Eurosport 2",
+              "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
+            },
+            {
+              "info": "Eurosport 2",
+              "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
+            }
+          ]
+        },
+        {
+          "name": "⚽️ Copa del Rey (sin eventos)",
+          "image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "⚽️ Serie A Italia (sin eventos)",
+          "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
+          "info": "",
+          "stations": [
+          {
+            "name": "",
+            "image": "",
+            "info": "",
+            "url": ""
+          }
+          ]
+        },
+      	{
           "name": "⚽️ Champions League (sin eventos)",
           "image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
           "info": "",
@@ -222,28 +242,7 @@
               "url": ""
             }
           ]
-        },
-        {
-          "name": "⚽️ Ligue 1 Francia",
-          "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
-          "info": "",
-          "stations": [
-            {
-              "name": "21:00 | Olympique Marsella vs Montpellier",
-              "image": "https://www.infobae.com/new-resizer/hTWYxn21oCXTO6Hz6E-O21788WM=/1024x512/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/XMMHX7UGIZEMZDESLVZDP6WZLU.png",
-              "info": "DAZN, Eurosport 2, Eurosport Player"
-            },
-            {
-              "info": "Eurosport 2",
-              "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
-            },
-            {
-              "info": "Eurosport 2",
-              "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
-            }
-          ]
-        }
-      ]
+        }      ]
     },
 
 
