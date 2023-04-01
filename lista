@@ -153,23 +153,6 @@
 
 
 {	
-"name": "⚽️ Bundesliga (sin eventos)",	
-"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",	
-"stations": [	
-{	
-"name": "",
-"image": ""
-},
-  {
-    "name": "",
-    "url": ""
-  }
-]
-},
-
-
-
-{	
 "name": "⚽️ Premier League",
 "image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
 "stations": [
@@ -248,7 +231,7 @@
 
 
 {
-  "name": "⚽️ Ligue 1 Francia (sin eventos)",
+  "name": "⚽️ Ligue 1 Francia",
   "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
   "stations": [
   {
@@ -265,6 +248,24 @@
     }
   ]
   },
+
+
+
+  {	
+"name": "⚽️ Bundesliga (sin eventos)",	
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",	
+"stations": [	
+{	
+"name": "",
+"image": ""
+},
+  {
+    "name": "",
+    "url": ""
+  }
+]
+},
+
 
 
 {
