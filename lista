@@ -14,7 +14,7 @@
     "stations": [
       {
       "name": "Zaphkiel_ES",
-      "image": "",
+      "image": "https://definicion.de/wp-content/uploads/2010/10/cartulina.jpg",
       "url": "https://zaphkieles.github.io/hosting/",
       "embed": true
       }
@@ -52,12 +52,12 @@
     ]
     },
     {
-    "name": "Listas para Wiseplay (Click y copiar dirección del enlace, después abrir en Wiseplay)",
+    "name": "Listas Wiseplay",
     "image": "https://w7.pngwing.com/pngs/141/316/png-transparent-computer-icons-checklist-list-miscellaneous-angle-image-file-formats-thumbnail.png",
     "info": "No Info",
     "stations": [
       {
-      "name": "Zaphkiel_ES | Añadir Lista",
+      "name": "Zaphkiel_ES | Añadir Lista (no es necesario si ya la tienes)",
       "image": "https://storage.googleapis.com/bitly-image-upload/Imcteu0Yez0",
       "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
       "import": true
@@ -173,19 +173,19 @@
     "info": "No Info",
     "stations": [
       {
-      "name": "",
+      "name": "JeinzMacias",
       "image": "https://www.futbolenvivo.com.co/wp-content/uploads/2022/09/Futbol-en-vivo-por-Jeinz-Macias.jpg",
       "url": "https://cu.jeinzmacias.net/",
       "embed": true
       },
       {
-      "name": "",
+      "name": "LiveSoccer",
       "image": "https://cdn.livesoccertv.com/images/logo.gif",
       "url": "https://my.livesoccer.sx",
       "embed": true
       },
       {
-      "name": "(necesita activar VPN)",
+      "name": "SportPlus (necesita activar VPN)",
       "image": "https://img2.sport-tv-guide.live/images/tv-station-sport-plus-tv-1972.png",
       "url": "https://es8.sportplus.live",
       "embed": true
@@ -212,7 +212,7 @@
     ]
   },
   {
-    "name": "Enlaces AceStream",
+    "name": "Enlaces AceStream | Marzo (más actualizado en ficha telegram)",
     "image": "https://play-lh.googleusercontent.com/T0HTeaijUgoKa_FAIL5lGve_H6bSmzuwiP5uNLIqqVkou7fMXHKnWTsNruSE868ss7A",
     "groups": [
        {
