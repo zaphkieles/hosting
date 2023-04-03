@@ -664,7 +664,7 @@
     "name": "⚽️ 21:00 | Valencia CF x Rayo Vallecano",
     "image": "https://assets-es.imgfoot.com/match-cover-es-8915558942034037201-7236947295700949020.jpg",
     "info": "DAZN, DAZN LaLiga (M+ Dial 53), LaLigaTV Bar (M+ Dial 300)",
-    "groups": [
+    "stations": [
       {
         "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
       },
@@ -683,7 +683,7 @@
       "name": "⚽️ 21:00 | Albacete x UD Las Palmas",
       "image": "https://assets-es.imgfoot.com/match-cover-es-8290453298439387996-5084046659265316332.jpg",
       "info": "LaLiga SmartBankTV (M+ Dial 54), LaLigaTV Bar 2 (M+ Dial 301), #Vamos (M+ Dial 8), Movistar+, Lite Amazon Prime Video",
-      "groups": [
+      "stations": [
         {
           "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
         },
@@ -707,7 +707,7 @@
           "name": "⚽️ 21:00 | Everton x Tottenham Hotspur",
           "image": "https://media.tycsports.com/files/2023/03/31/550992/everton-vs-tottenham-en-vivo-como-verlo-horario-y-tv_862x485_wmk.webp",
           "info": "DAZN, DAZN1 (Dial 64), DAZN1 BAR (Dial 148)",
-          "groups": [
+          "stations": [
             {
               "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
             },
@@ -738,7 +738,7 @@
           "name": "🎾 16:00 | J Munar - E Benchetrit",
           "image": "https://www.mallorcadiario.com/fotos/1/399813_munar.jpg",
           "info": "",
-          "groups": [
+          "stations": [
             {
               "info": "#1",  
               "url": ""
