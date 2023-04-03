@@ -741,7 +741,14 @@
           "stations": [
             {
               "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+            },
+            {
+              "info": "activar VPN",
+              "embed": true,
+              "url": "https://v3.sportsonline.sx/channels/pt/sporttv5.php"
             }
+
+            
     
             ] } ] }
 
