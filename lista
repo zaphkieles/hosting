@@ -666,11 +666,9 @@
     "info": "DAZN, DAZN LaLiga (M+ Dial 53), LaLigaTV Bar (M+ Dial 300)",
     "groups": [
       {
-        "info": "#1",        
         "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
       },
       {
-        "info": "#2",  
         "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
       }
 
@@ -687,19 +685,15 @@
       "info": "LaLiga SmartBankTV (M+ Dial 54), LaLigaTV Bar 2 (M+ Dial 301), #Vamos (M+ Dial 8), Movistar+, Lite Amazon Prime Video",
       "groups": [
         {
-          "info": "#1",        
           "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
         },
         {
-          "info": "#2",  
           "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
         },
         {
-          "info": "#3",  
           "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
         },
         {
-          "info": "#4",  
           "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
         }
 
@@ -715,11 +709,9 @@
           "info": "DAZN, DAZN1 (Dial 64), DAZN1 BAR (Dial 148)",
           "groups": [
             {
-              "info": "#1",        
               "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
             },
             {
-              "info": "#2",  
               "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
             }
     
@@ -754,6 +746,7 @@
     
             ] } ] }
 
+            
 
 
 ]}
