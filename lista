@@ -726,7 +726,7 @@
             ] } ] },
             {
           "name": "🚴‍♀️ Vuelta al País Vasco",
-          "image": "",
+          "image": "https://www.ciclo21.com/wp-content/uploads/2023/01/PAIS-VASCO-MAPA.png",
           "groups": [
           {
           "name": "🚴‍♀️ 15:15 | Etapa 1 Vitoria-Gasteiz › Labastida (165,4 km)",
@@ -741,11 +741,11 @@
             ] } ] },
             {
           "name": "🎾 Torneo de Marrakech1ª RondaATP 250",
-          "image": "https://www.mallorcadiario.com/fotos/1/399813_munar.jpg",
+          "image": "https://www.coretennis.net/ct/1/image/Tournament_Logos/ATP/2019/Grand_Prix_Hassan_II.png",
           "groups": [
           {
           "name": "🎾 16:00 | J Munar - E Benchetrit",
-          "image": "",
+          "image": "https://www.mallorcadiario.com/fotos/1/399813_munar.jpg",
           "info": "",
           "groups": [
             {
