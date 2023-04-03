@@ -1,6 +1,6 @@
 ﻿{
 "name": "Zaphkiel_ES",
-"author": "Zaphkiel_ES - Actualizado: 03-ABRIL-2023",
+"author": "Zaphkiel_ES - Actualizado: Martes 04 ABRIL/2023",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -651,104 +651,101 @@
 
 
 
+{
+"name": "Eventos del día | Martes 4 Abril",
+"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
+"groups": [
+
+{
+"name": "⚽️ Copa del Rey",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Logo_Copa_del_Rey_2021_%28red_badge%29.svg/1200px-Logo_Copa_del_Rey_2021_%28red_badge%29.svg.png",
+"groups": [
+{
+"name": "⚽️ | 21:00 Athletic Club x Osasuna (Semifinales)",
+"image": "https://assets-es.imgfoot.com/match-cover-es-3901316503922995431-1501764243466109369.jpg",
+"info": "La 1 TVE, RTVE Play, #Vamos (M+ Dial 8), #Vamos BAR (M+ Dial 304), Movistar+ Lite, Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 307)",
+"stations": [
   {
-    "name": "Eventos del día | 3 Abril",
-    "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
-    "groups": [
-    
+  "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+  },
+  {
+  "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+  },
+  {
+  "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+  },
+  {
+  "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
+  }
+
+] } ] },
+
+{
+  "name": "⚽️ Copa Italiana",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/800px-Coppa_Italia_-_Logo_2019.svg.png",
+  "groups": [
+  {
+  "name": "⚽️ 21:00 | Juventus x Inter de Milán (Semifinales)",
+  "image": "https://assets-es.imgfoot.com/match-cover-es-2679603538731322448-8302142033783363668.jpg",
+  "info": "DAZN, DAZN 2 (M+ Dial 65), DAZN BAR 2 (M+ Dial 149)",
+  "stations": [
     {
-    "name": "⚽️ LaLiga Santander",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
-    "groups": [
+    "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
+    },
     {
-    "name": "⚽️ 21:00 | Valencia CF x Rayo Vallecano",
-    "image": "https://assets-es.imgfoot.com/match-cover-es-8915558942034037201-7236947295700949020.jpg",
-    "info": "DAZN, DAZN LaLiga (M+ Dial 53), LaLigaTV Bar (M+ Dial 300)",
-    "stations": [
-      {
-        "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
-      },
-      {
-        "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
-      }
+    "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
+    }
+  
+  ] } ] },
+  
+{
+"name": "⚽️ Premier League",
+"image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
+"groups": [
+{
+"name": "⚽️ 20:45 | AFC Bournemouth x Brighton",
+"image": "https://assets-es.imgfoot.com/match-cover-es-6372722249231840753-3709045249522553270.jpg",
+"info": "DAZN, DAZN1 (Dial 64), DAZN1 BAR (Dial 148)",
+"stations": [
+  {
+  "url": ""
+  }
+  ]
+},
+{
+"name": "⚽️ 20:45 | Leicester City x Aston Villa",
+"image": "https://assets-es.imgfoot.com/match-cover-es-6305870533858271001-1257484590666245874.jpg",
+"info": "DAZN, DAZN 3 (M+ Dial 196)",
+"stations": [
+  {
+  "url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a"
+  }
+]
+},
+{
+"name": "⚽️ 20:45 | Leeds United x Nottingham Forest",
+"image": "https://assets-es.imgfoot.com/match-cover-es-7238918282241425112-2753620633394828072.jpg",
+"info": "DAZN, DAZN 4 (M+ Dial 197)",
+"stations": [
+  {
+  "url": "acestream://149a38e333de920753f1388c43247283bdb05f5b"
+  }
+]
+},
+{
+"name": "⚽️ 21:00 | Chelsea x Liverpool",
+"image": "https://assets-es.imgfoot.com/match-cover-es-6687450677292613774-8907069587814470011.jpg",
+"info": "DAZN, DAZN 1 (M+ Dial 64), DAZN BAR 1 (M+ Dial 148)",
+"stations": [
+  {
+  "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
+  },
+  {
+  "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
+  }
 
-    ] } ] },
-    
-
-    {
-      "name": "⚽️ LaLiga SmartBank",
-      "image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
-      "groups": [
-      {
-      "name": "⚽️ 21:00 | Albacete x UD Las Palmas",
-      "image": "https://assets-es.imgfoot.com/match-cover-es-8290453298439387996-5084046659265316332.jpg",
-      "info": "LaLiga SmartBankTV (M+ Dial 54), LaLigaTV Bar 2 (M+ Dial 301), #Vamos (M+ Dial 8), Movistar+, Lite Amazon Prime Video",
-      "stations": [
-        {
-          "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
-        },
-        {
-          "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
-        },
-        {
-          "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
-        },
-        {
-          "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
-        }
-
-        ] } ] },
-
-        {
-          "name": "⚽️ Premier League",
-          "image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
-          "groups": [
-          {
-          "name": "⚽️ 21:00 | Everton x Tottenham Hotspur",
-          "image": "https://media.tycsports.com/files/2023/03/31/550992/everton-vs-tottenham-en-vivo-como-verlo-horario-y-tv_862x485_wmk.webp",
-          "info": "DAZN, DAZN1 (Dial 64), DAZN1 BAR (Dial 148)",
-          "stations": [
-            {
-              "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
-            },
-            {
-              "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
-            }
-    
-            ] } ] },
-            {
-          "name": "🚴‍♀️ Vuelta al País Vasco",
-          "image": "https://www.ciclo21.com/wp-content/uploads/2023/01/PAIS-VASCO-MAPA.png",
-          "groups": [
-          {
-          "name": "🚴‍♀️ 15:15 | Etapa 1 Vitoria-Gasteiz › Labastida (165,4 km)",
-          "image": "https://files.antena2.com/antena2/public/2022-04/Vuelta%20al%20Pa%C3%ADs%20Vasco%202022_0.jpg?VersionId=UZ3hYKY1oPDmYizKPyLcPO4f.nT2TNqg",
-          "info": "Eurosport 2 HD [DE]",
-          "stations": [
-            {   
-              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766"
-            }
-    
-            ] } ] },
-            {
-          "name": "🎾 Torneo de Marrakech1ª RondaATP 250",
-          "image": "https://www.coretennis.net/ct/1/image/Tournament_Logos/ATP/2019/Grand_Prix_Hassan_II.png",
-          "groups": [
-          {
-          "name": "🎾 17:05 | J Munar - E Benchetrit",
-          "image": "https://www.mallorcadiario.com/fotos/1/399813_munar.jpg",
-          "info": "Deportes",
-          "stations": [
-            {
-              "embed": true,
-              "url": "https://v3.sportsonline.sx/channels/pt/sporttv5.php"
-            }
-
-            
-    
-            ] } ] }
-
-            
+] } ] }
+           
 
 
 ]}
