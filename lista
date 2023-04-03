@@ -737,10 +737,10 @@
           {
           "name": "🎾 16:00 | J Munar - E Benchetrit",
           "image": "https://www.mallorcadiario.com/fotos/1/399813_munar.jpg",
-          "info": "",
+          "info": "Deportes",
           "stations": [
             {
-              "url": ""
+              "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
             }
     
             ] } ] }
