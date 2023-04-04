@@ -697,8 +697,26 @@
     }
   
   ] } ] },
-  
-{
+
+  {
+    "name": "🥎 WTA Torneo de Charleston 1ª RondaWTA 500",
+    "image": "https://abcnews4.com/resources/media2/16x9/full/1015/center/80/206f9bb5-0707-44eb-84cb-5137db09a768-large16x9_CreditOneCharlestonOpen_Logo_HorizontalBlack.png.jpg",
+    "groups": [
+    {
+    "name": "🥎 17:00 | P. Badosa x M. Sherif",
+    "image": "https://tennistonic.com/wp-content/uploads/2023/04/Prediction-and-head-to-head-Paula-Badosa-Gibert-vs.-Mayar-Sherif-W92yuaT3DO-1280x720.jpg",
+    "info": "WTA TV, DAZN, Teledeporte, RTVE Play, Esport3 Web",
+    "stations": [
+      {
+      "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
+      },
+      {
+      "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132"
+      }
+    
+    ] } ] },
+
+    {
 "name": "⚽️ Premier League",
 "image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
 "groups": [
