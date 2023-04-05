@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Zaphkiel_ES - Actualizado: Miércoles 05 ABRIL/2023",
+"author": "Zaphkiel_ES - Sin actualización hasta 9 ABRIL/2023",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -652,81 +652,11 @@
 
 
 {
-"name": "Eventos del día | Miércoles 5 Abril",
+"name": "Eventos del día | Sin eventos hasta 9 ABRIL/2023",
 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
 "groups": [
 
-{
-"name": "⚽️ Copa del Rey",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Logo_Copa_del_Rey_2021_%28red_badge%29.svg/1200px-Logo_Copa_del_Rey_2021_%28red_badge%29.svg.png",
-"groups": [
-{
-"name": "⚽️ 21:00 | FC Barcelona x Real Madrid (Semifinales)",
-"image": "https://assets-es.imgfoot.com/match-cover-es-8158115007993136624-437056100178881559.jpg",
-"info": "La 1 TVE, RTVE Play, #Vamos (M+ Dial 8), #Vamos BAR (M+ Dial 304), Movistar+ Lite, Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 307)",
-"stations": [
-  {
-  "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
-  },
-  {
-  "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
-  },
-  {
-  "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
-  },
-  {
-  "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
-  }
-
-] } ] },
-
-{
-  "name": "⚽️ Copa Italiana",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/800px-Coppa_Italia_-_Logo_2019.svg.png",
-  "groups": [
-  {
-  "name": "⚽️ 21:00 | Cremonese x ACF Fiorentina (Semifinales)",
-  "image": "https://assets-es.imgfoot.com/match-cover-es-4788945328717181359-8329794550988530319.jpg",
-  "info": "DAZN, DAZN 3 (M+ Dial 196)",
-  "stations": [
-    {
-    "url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a"
-    }
-
-  ] } ] },
-
-{
-"name": "⚽️ Premier League",
-"image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
-"groups": [
-{
-"name": "⚽️ 20:45 | Manchester United x Brentford",
-"image": "https://assets-es.imgfoot.com/match-cover-es-1783938839466302917-8079306435665576075.jpg",
-"info": "DAZN, DAZN1 (Dial 64), DAZN1 BAR (Dial 148)",
-"stations": [
-  {
-  "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
-  },
-  {
-  "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
-  }
-]
-},
-{
-"name": "⚽️ 20:45 | West Ham x Newcastle United",
-"image": "https://assets-es.imgfoot.com/match-cover-es-2146629725533542242-2405249377255700701.jpg",
-"info": "DAZN 2 (M+ Dial 65), DAZN BAR 2 (M+ Dial 149)",
-"stations": [
-  {
-  "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
-  },
-  {
-  "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
-  }
 
 ] } ] }
 
 
-
-]}
-]}
