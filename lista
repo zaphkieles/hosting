@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Zaphkiel_ES - Sin actualización hasta 9 ABRIL/2023",
+"author": "Zaphkiel_ES - Lunes 10 Abril/2023",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -647,16 +647,43 @@
 },
 
 
-
-
-
+{
+"name": "⚽️ LaLiga Santander",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
+"groups": [
+{
+"name": "21:00 | FC Barcelona x Girona",
+"image": "https://www.fcbarcelonanoticias.com/uploads/s1/13/59/70/4/previa-del-fc-barcelona-vs-girona-fc-de-laliga.jpeg",
+"info": "DAZN LaLiga (M+ Dial 53) LaLigaTV Bar (M+ Dial 300) DAZN LaLiga 2 (M+ Dial 172)",
+"stations": [
+    {
+    "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
+    },
+    {
+    "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"  
+    }
+]
+},
 
 {
-"name": "Eventos del día | Sin eventos hasta 9 ABRIL/2023",
-"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
+"name": "⚽️ LaLiga SmartBank",
+"image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
 "groups": [
+{
+"name": "21:00 | Alavés x FC Andorra",
+"image": "https://assets-es.imgfoot.com/match-cover-es-5614208265801266682-4115160836185813156.jpg",
+"info": "LaLiga SmartBank LaLiga SmartBankTV (M+ Dial 54) LaLigaTV Bar 2 (M+ Dial 301) Amazon Prime Video",
+"stations": [
+    {
+    "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+    },
+    {
+    "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"  
+    }
 
+] }
 
-] } ] }
+] } ]
+} ] }
 
 
