@@ -646,7 +646,10 @@
   ]
 },
 
-
+{
+"name": "Eventos del día | Lunes 10 Abril",
+"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
+"groups": [
 {
 "name": "⚽️ LaLiga Santander",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
@@ -681,7 +684,7 @@
     "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"  
     }
 
-] }
+] } ] }
 
 ] } ]
 } ] }
