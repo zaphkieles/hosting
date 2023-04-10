@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Zaphkiel_ES - Lunes 10 Abril/2023",
+"author": "Zaphkiel_ES - Martes 11 Abril/2023",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -647,50 +647,57 @@
 },
 
 {
-"name": "Eventos del día | Lunes 10 Abril",
+"name": "Eventos del día | Martes 11 Abril",
 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
 "groups": [
+
 {
-"name": "⚽️ LaLiga Santander",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
+"name": "⚽️ Champions League",
+"image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
 "groups": [
+
 {
-"name": "21:00 | FC Barcelona x Girona",
-"image": "https://www.fcbarcelonanoticias.com/uploads/s1/13/59/70/4/previa-del-fc-barcelona-vs-girona-fc-de-laliga.jpeg",
-"info": "DAZN LaLiga (M+ Dial 53) LaLigaTV Bar (M+ Dial 300) DAZN LaLiga 2 (M+ Dial 172)",
+"name": "21:00 | Benfica x Inter de Milán Champions League Cuartos de Final Liga de Campeones 2 (M+ Dial 57) Liga de Campeones BAR 2 (M+ Dial 308)Liga de Campeones UHD 2 (M+ Dial 443)",
+"image": "https://assets-es.imgfoot.com/match-cover-es-348438376328710519-8302142033783363668.jpg",
 "stations": [
     {
-    "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
+    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
     },
     {
-    "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"  
+    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"  
+    }
+]
+},
+{
+"name": "21:00 | Manchester City x FC Bayern Champions League Cuartos de Final Liga de Campeones (M+ Dial 56) Liga de Campeones BAR (M+ Dial 475) Liga de Campeones UHD (M+ Dial 440)",
+"image": "https://assets-es.imgfoot.com/match-cover-es-4916684085144678602-6949918215573284716.jpg",
+"stations": [
+    {
+    "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+    },
+    {
+    "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"  
     }
 
-    ] } ] },
+] } ] },
   
 
 {
-"name": "⚽️ LaLiga SmartBank",
-"image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
+"name": "⚽️ Partidos Amistosos Femeninos",
+"image": "https://cdn.athletic-club.eus/uploads/2021/07/LLA6353-1.jpg",
 "groups": [
 {
-"name": "21:00 | Alavés x FC Andorra",
-"image": "https://assets-es.imgfoot.com/match-cover-es-5614208265801266682-4115160836185813156.jpg",
-"info": "LaLiga SmartBank LaLiga SmartBankTV (M+ Dial 54) LaLigaTV Bar 2 (M+ Dial 301) Amazon Prime Video",
+"name": "18:00 | España x China Partidos Amistosos Femeninos Teledeporte RTVE Play",
+"image": "https://tickets.rfef.es/wp-content/uploads/wpfiles/2023/02/1800X700px_entrada_femenina_china-1300x500.png",
 "stations": [
     {
-    "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+    "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
     },
     {
     "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"  
     }
-
-    ] } ] }
-           
-
+  
+] } ] }
 
 ]}
 ]}
-
-    
-
