@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Zaphkiel_ES - Martes 11 Abril/2023",
+"author": "Zaphkiel_ES - Miércoles 12 Abril 2023",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -657,46 +657,31 @@
 "groups": [
 
 {
-"name": "21:00 | Benfica x Inter de Milán Champions League Cuartos de Final Liga de Campeones 2 (M+ Dial 57) Liga de Campeones BAR 2 (M+ Dial 308)Liga de Campeones UHD 2 (M+ Dial 443)",
-"image": "https://assets-es.imgfoot.com/match-cover-es-348438376328710519-8302142033783363668.jpg",
+"name": "21:00 | AC Milan x Napoli. Cuartos de Final. Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443).",
+"image": "https://www.mundodeportivo.com/guias-de-juego/wp-content/uploads/2023/04/Apuestas-Milan-vs-Napoli.png",
 "stations": [
     {
     "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
     },
     {
-    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"  
+    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
     }
 ]
 },
 {
-"name": "21:00 | Manchester City x FC Bayern Champions League Cuartos de Final Liga de Campeones (M+ Dial 56) Liga de Campeones BAR (M+ Dial 475) Liga de Campeones UHD (M+ Dial 440)",
-"image": "https://assets-es.imgfoot.com/match-cover-es-4916684085144678602-6949918215573284716.jpg",
+"name": "21:00 | Real Madrid x Chelsea. Cuartos de Final. Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 475), Liga de Campeones UHD (M+ Dial 440).",
+"image": "https://cdn-az.allevents.in/events5/banners/11dfa79e36192c177ee9119ab69e5919a0af76b628a331a1108c9bc327dc3d7b-rimg-w1125-h1125-gmir.jpg?v=1649702377",
 "stations": [
     {
     "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
     },
     {
-    "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"  
-    }
-
-] } ] },
-  
-
-{
-"name": "⚽️ Partidos Amistosos Femeninos",
-"image": "https://cdn.athletic-club.eus/uploads/2021/07/LLA6353-1.jpg",
-"groups": [
-{
-"name": "18:00 | España x China Partidos Amistosos Femeninos Teledeporte RTVE Play",
-"image": "https://tickets.rfef.es/wp-content/uploads/wpfiles/2023/02/1800X700px_entrada_femenina_china-1300x500.png",
-"stations": [
-    {
-    "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
+    "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
     },
     {
-    "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"  
+    "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
     }
-  
+
 ] } ] }
 
 ]}
