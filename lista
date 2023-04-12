@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Zaphkiel_ES - Miércoles 12 Abril 2023",
+"author": "Zaphkiel_ES - Jueves 13 Abril 2023",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -647,18 +647,73 @@
 },
 
 {
-"name": "Eventos del día | Miércoles 12 Abril 2023",
+"name": "Eventos del día | Jueves 13 Abril",
 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
 "groups": [
 
 {
-"name": "⚽️ Champions League",
-"image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
+"name": "⚽️ UEFA Europa Conference League",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png",
+"groups": [
+{
+"name": "⚽️ 18:45 | K.A.A. Gent x West Ham. Cuartos de Final.",
+"image": "https://assets-es.imgfoot.com/match-cover-es-4078775498377367345-2146629725533542242.jpg",
+"info": "Liga de Campeones BAR 3 (M+ Dial 309), Liga de Campeones 3 (M+ Dial 58).",
+"stations": [
+  {
+  "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
+  },
+  {
+  "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+  }
+]
+},
+{
+"name": "⚽️ 21:00 | Anderlecht x AZ Alkmaar. Cuartos de Final.",
+"image": "https://assets-es.imgfoot.com/match-cover-es-5456052661379929254-2049197190262660117.jpg",
+"info": "Liga de Campeones 7 (M+ Dial 184), Liga de Campeones 4 (M+ Dial 180).",
+"stations": [
+  {
+  "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
+  }
+]
+},
+{
+"name": "⚽️ 21:00 | FC Basel x Niza. Cuartos de Final.",
+"image": "https://assets-es.imgfoot.com/match-cover-es-4523546880910198822-2859905849982066968.jpg",
+"info": "Liga de Campeones 6 (M+ Dial 183), Liga de Campeones 4 (M+ Dial 180).",
+"stations": [
+  {
+  "url": "acestream://e9950ec551124c490ecbc2526a83d2c5a4516293"
+  },
+    {
+  "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
+  }
+]
+},
+{
+"name": "⚽️ 21:00 | Lech Poznan x ACF Fiorentina. Cuartos de Final.",
+"image": "https://assets-es.imgfoot.com/match-cover-es-6858912944568921903-8329794550988530319.jpg",
+"info": " Liga de Campeones 5 (M+ Dial 182), Liga de Campeones 4 (M+ Dial 180).",
+"stations": [
+  {
+  "url": "acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d"
+  },
+    {
+  "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
+  }
+
+] } ] },
+
+{
+"name": "⚽️ Europa League",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png",
 "groups": [
 
 {
-"name": "21:00 | AC Milan x Napoli. Cuartos de Final. Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443).",
-"image": "https://www.mundodeportivo.com/guias-de-juego/wp-content/uploads/2023/04/Apuestas-Milan-vs-Napoli.png",
+"name": "18:45 | Feyenoord Rotterdam x AS Roma Europa League Cuartos de Final.",
+"image": "https://assets-es.imgfoot.com/match-cover-es-2198506217252650340-4317681080306836263.jpg",
+"info": "Cuatro, Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443), Liga de Campeones 2 (M+ Dial 57).",
 "stations": [
     {
     "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
@@ -669,8 +724,41 @@
 ]
 },
 {
-"name": "21:00 | Real Madrid x Chelsea. Cuartos de Final. Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 475), Liga de Campeones UHD (M+ Dial 440).",
-"image": "https://cdn-az.allevents.in/events5/banners/11dfa79e36192c177ee9119ab69e5919a0af76b628a331a1108c9bc327dc3d7b-rimg-w1125-h1125-gmir.jpg?v=1649702377",
+"name": "21:00 | Bayer Leverkusen  Saint-Gilloise Europa League Cuartos de Final.",
+"image": "https://assets-es.imgfoot.com/match-cover-es-4086674992530924965-2886219976424988281.jpg",
+"info": "Liga de Campeones BAR 3 (M+ Dial 308), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones 4 (M+ Dial 180).",
+"stations": [
+    {
+    "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
+    },
+    {
+    "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+    },
+    {
+    "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
+    }
+  ]
+},
+{
+"name": "21:00 | Juventus  Sporting de Lisboa Europa League Cuartos de Final.",
+"image": "https://assets-es.imgfoot.com/match-cover-es-2679603538731322448-989810907120727305.jpg",
+"info": "Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443), Liga de Campeones 2 (M+ Dial 57), Liga de Campeones 4 (M+ Dial 180).",
+"stations": [
+    {
+    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+    },
+    {
+    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
+    },
+    {
+    "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
+    }
+  ]
+},
+{
+"name": "21:00 | Manchester United  Sevilla FC Europa League Cuartos de Final.",
+"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF5-T2KCgjttjvhvPjLZfl-wYsPhYIUs1oOCIS8F0fr7SO9jowf0uzwaswpDIR0qbmCGJaBNj4kanXDDbrfHBhW3z4fehlxS7a0uBVc8esVpKwl8iFHLW0q8Wf-XvVUBcmuYymL-32Te8eVmSPDA3pk4D47l29cNX1OOaePTBnUYSosNErU2PPc4Cu/w640-h360/manchester-united-sevilla-fc.jpg",
+"info": "Liga de Campeones BAR (M+ Dial 307), Liga de Campeones UHD (M+ Dial 441), Liga de Campeones (M+ Dial 56), Liga de Campeones 4 (M+ Dial 180).",
 "stations": [
     {
     "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
@@ -680,9 +768,13 @@
     },
     {
     "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
-    }
-
+    },
+    {
+    "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
+    }     
+    
 ] } ] }
+
 
 ]}
 ]}
