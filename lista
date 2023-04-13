@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Zaphkiel_ES - Jueves 13 Abril 2023",
+"author": "Zaphkiel_ES - Viernes 14 Abril 2023 (aviso: prox. actualiz.: martes 18)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -647,134 +647,82 @@
 },
 
 {
-"name": "Eventos del día | Jueves 13 Abril",
+"name": "Eventos del día | Jueves 14 Abril",
 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
 "groups": [
 
 {
-"name": "⚽️ UEFA Europa Conference League",
-"image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png",
+"name": "⚽️ LaLiga Santander",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
 "groups": [
 {
-"name": "⚽️ 18:45 | K.A.A. Gent x West Ham. Cuartos de Final.",
-"image": "https://assets-es.imgfoot.com/match-cover-es-4078775498377367345-2146629725533542242.jpg",
-"info": "Liga de Campeones BAR 3 (M+ Dial 309), Liga de Campeones 3 (M+ Dial 58).",
+"name": "⚽️ 21:00 | Rayo Vallecano x Osasuna",
+"image": "https://assets-es.imgfoot.com/match-cover-es-7236947295700949020-1501764243466109369.jpg",
+"info": "GOL PLAY DAZN DAZN LaLiga (M+ Dial 53) LaLigaTV Bar (M+ Dial 300)",
 "stations": [
   {
-  "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
+  "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
   },
   {
-  "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
-  }
-]
-},
-{
-"name": "⚽️ 21:00 | Anderlecht x AZ Alkmaar. Cuartos de Final.",
-"image": "https://assets-es.imgfoot.com/match-cover-es-5456052661379929254-2049197190262660117.jpg",
-"info": "Liga de Campeones 7 (M+ Dial 184), Liga de Campeones 4 (M+ Dial 180).",
-"stations": [
-  {
-  "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
-  }
-]
-},
-{
-"name": "⚽️ 21:00 | FC Basel x Niza. Cuartos de Final.",
-"image": "https://assets-es.imgfoot.com/match-cover-es-4523546880910198822-2859905849982066968.jpg",
-"info": "Liga de Campeones 6 (M+ Dial 183), Liga de Campeones 4 (M+ Dial 180).",
-"stations": [
-  {
-  "url": "acestream://e9950ec551124c490ecbc2526a83d2c5a4516293"
-  },
-    {
-  "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
-  }
-]
-},
-{
-"name": "⚽️ 21:00 | Lech Poznan x ACF Fiorentina. Cuartos de Final.",
-"image": "https://assets-es.imgfoot.com/match-cover-es-6858912944568921903-8329794550988530319.jpg",
-"info": " Liga de Campeones 5 (M+ Dial 182), Liga de Campeones 4 (M+ Dial 180).",
-"stations": [
-  {
-  "url": "acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d"
-  },
-    {
-  "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
+  "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
   }
 
 ] } ] },
 
 {
-"name": "⚽️ Europa League",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png",
+"name": "⚽️ LaLiga SmartBank",
+"image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
 "groups": [
 
 {
-"name": "18:45 | Feyenoord Rotterdam x AS Roma Europa League Cuartos de Final.",
-"image": "https://assets-es.imgfoot.com/match-cover-es-2198506217252650340-4317681080306836263.jpg",
-"info": "Cuatro, Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443), Liga de Campeones 2 (M+ Dial 57).",
+"name": "21:00 | Albacete x SD Eibar",
+"image": "https://assets-es.imgfoot.com/match-cover-es-8290453298439387996-2981201763763988492.jpg",
+"info": "LaLiga SmartBankTV (M+ Dial 54) LaLigaTV Bar 2 (M+ Dial 301) Amazon Prime Video",
 "stations": [
     {
-    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+    "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
     },
     {
-    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
+    "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
     }
-]
-},
-{
-"name": "21:00 | Bayer Leverkusen  Saint-Gilloise Europa League Cuartos de Final.",
-"image": "https://assets-es.imgfoot.com/match-cover-es-4086674992530924965-2886219976424988281.jpg",
-"info": "Liga de Campeones BAR 3 (M+ Dial 308), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones 4 (M+ Dial 180).",
-"stations": [
-    {
-    "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
-    },
-    {
-    "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
-    },
-    {
-    "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
-    }
-  ]
-},
-{
-"name": "21:00 | Juventus  Sporting de Lisboa Europa League Cuartos de Final.",
-"image": "https://assets-es.imgfoot.com/match-cover-es-2679603538731322448-989810907120727305.jpg",
-"info": "Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443), Liga de Campeones 2 (M+ Dial 57), Liga de Campeones 4 (M+ Dial 180).",
-"stations": [
-    {
-    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
-    },
-    {
-    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
-    },
-    {
-    "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
-    }
-  ]
-},
-{
-"name": "21:00 | Manchester United  Sevilla FC Europa League Cuartos de Final.",
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF5-T2KCgjttjvhvPjLZfl-wYsPhYIUs1oOCIS8F0fr7SO9jowf0uzwaswpDIR0qbmCGJaBNj4kanXDDbrfHBhW3z4fehlxS7a0uBVc8esVpKwl8iFHLW0q8Wf-XvVUBcmuYymL-32Te8eVmSPDA3pk4D47l29cNX1OOaePTBnUYSosNErU2PPc4Cu/w640-h360/manchester-united-sevilla-fc.jpg",
-"info": "Liga de Campeones BAR (M+ Dial 307), Liga de Campeones UHD (M+ Dial 441), Liga de Campeones (M+ Dial 56), Liga de Campeones 4 (M+ Dial 180).",
-"stations": [
-    {
-    "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
-    },
-    {
-    "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
-    },
-    {
-    "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
-    },
-    {
-    "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
-    }     
     
-] } ] }
+] } ] },
 
+{
+  "name": "⚽️ Ligue 1 Francia",
+  "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
+  "groups": [
+  
+  {
+  "name": "21:00 | Toulouse  Olympique Lyonnais",
+  "image": "https://cdn.balonlatino.net/wp-content/uploads/2023/04/Template-Balon-Latino-17-1.jpg",
+  "info": "DAZN Eurosport 2 Eurosport Player",
+  "stations": [
+      {
+      "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
+      },
+      {
+      "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
+      }
+ 
+      
+  ] } ] },
 
+  {
+    "name": "⚽️ Championship",
+    "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
+    "groups": [
+    
+    {
+    "name": "21:00 | Middlesbrough x Norwich",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-3353926090554721922-7140547604165444453.jpg",
+    "info": "DAZN ",
+    "stations": [
+        {
+        "url": ""
+        }
+ 
+        
+    ] } ] }
 ]}
 ]}
