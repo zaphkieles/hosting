@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Zaphkiel_ES - Viernes 14 Abril 2023 (aviso: prox. actualiz.: martes 18)",
+"author": "Zaphkiel_ES - Martes 18 Abril 2023",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -647,82 +647,63 @@
 },
 
 {
-"name": "Eventos del día | Viernes 14 Abril",
+"name": "Eventos del día | Martes 18 Abril",
 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
 "groups": [
 
 {
-"name": "⚽️ LaLiga Santander",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
+"name": "⚽️ Champions League",
+"image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
 "groups": [
 {
-"name": "⚽️ 21:00 | Rayo Vallecano x Osasuna",
-"image": "https://assets-es.imgfoot.com/match-cover-es-7236947295700949020-1501764243466109369.jpg",
-"info": "GOL PLAY DAZN DAZN LaLiga (M+ Dial 53) LaLigaTV Bar (M+ Dial 300)",
+"name": "21:00 | Chelsea x Real Madrid. Cuartos de Final. Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 475), Liga de Campeones UHD (M+ Dial 440)",
+"image": "https://depor.com/resizer/jT9PQc2IA679yRX7cLvEWok3aS4=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/LJW6F5A73NDAVMQ7XZCU4AZNJ4.jpg",
 "stations": [
   {
-  "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
+  "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
   },
   {
-  "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
+  "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
+  },
+  {
+  "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
   }
 
-] } ] },
+]
+},
 
 {
-"name": "⚽️ LaLiga SmartBank",
-"image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
-"groups": [
-
-{
-"name": "21:00 | Albacete x SD Eibar",
-"image": "https://assets-es.imgfoot.com/match-cover-es-8290453298439387996-2981201763763988492.jpg",
-"info": "LaLiga SmartBankTV (M+ Dial 54) LaLigaTV Bar 2 (M+ Dial 301) Amazon Prime Video",
-"stations": [
+  "name": "21:00 | Napoli x AC Milan. Cuartos de Final Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443)",
+  "image": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/5KJZPMPXKVESBEESST3XWDRTBA.jpg",
+  "stations": [
     {
-    "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+    "url": "aacestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
     },
     {
-    "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
+    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
     }
-    
-] } ] },
-
-{
-  "name": "⚽️ Ligue 1 Francia",
-  "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
-  "groups": [
   
-  {
-  "name": "21:00 | Toulouse  Olympique Lyonnais",
-  "image": "https://cdn.balonlatino.net/wp-content/uploads/2023/04/Template-Balon-Latino-17-1.jpg",
-  "info": "DAZN Eurosport 2 Eurosport Player",
-  "stations": [
-      {
-      "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
-      },
-      {
-      "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
-      }
- 
-      
   ] } ] },
 
-  {
-    "name": "⚽️ Championship",
-    "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
-    "groups": [
+{
+"name": "⚽️ Championship",
+"image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
+"groups": [
     
+  {
+  "name": "21:00 | Millwall x Birmingham City. DAZN, DAZN 2 (M+ Dial 65), DAZN BAR 2 (M+ Dial 149)",
+  "image": "https://res.cloudinary.com/dq4uxsxpv/image/upload/w_480,c_scale,q_auto/v1681629171/blog_assets/millwall-vs-birmingham-city-es.jpg",
+  "stations": [
     {
-    "name": "21:00 | Middlesbrough x Norwich",
-    "image": "https://assets-es.imgfoot.com/match-cover-es-3353926090554721922-7140547604165444453.jpg",
-    "info": "DAZN ",
-    "stations": [
-        {
-        "url": ""
-        }
- 
+    "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
+    },
+    {
+    "url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
+    },
+    {
+    "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
+    }
         
-    ] } ] }
+] } ] }
 ]}
 ]}
