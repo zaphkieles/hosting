@@ -677,7 +677,7 @@
   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/5KJZPMPXKVESBEESST3XWDRTBA.jpg",
   "stations": [
     {
-    "url": "aacestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
     },
     {
     "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
