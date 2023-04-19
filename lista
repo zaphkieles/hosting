@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Zaphkiel_ES - Martes 18 Abril 2023",
+"author": "Zaphkiel_ES - Miércoles 19 Abril 2023",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -647,7 +647,7 @@
 },
 
 {
-"name": "Eventos del día | Martes 18 Abril",
+"name": "Eventos del día | Miércoles 19 Abril",
 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
 "groups": [
 
@@ -656,8 +656,8 @@
 "image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
 "groups": [
 {
-"name": "21:00 | Chelsea x Real Madrid. Cuartos de Final. Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 475), Liga de Campeones UHD (M+ Dial 440)",
-"image": "https://depor.com/resizer/jT9PQc2IA679yRX7cLvEWok3aS4=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/LJW6F5A73NDAVMQ7XZCU4AZNJ4.jpg",
+"name": "21:00 | Bayern de Múnich x Manchester City. Cuartos de Final Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 475), Liga de Campeones UHD (M+ Dial 440)",
+"image": "https://phantom-marca.unidadeditorial.es/572f20cd1944ee0e88e3e55a547057f0/resize/1320/f/jpg/assets/multimedia/imagenes/2023/04/17/16817470911323.jpg",
 "stations": [
   {
   "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
@@ -673,8 +673,8 @@
 },
 
 {
-  "name": "21:00 | Napoli x AC Milan. Cuartos de Final Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443)",
-  "image": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/5KJZPMPXKVESBEESST3XWDRTBA.jpg",
+  "name": "21:00 | Inter de Milán x Benfica. Cuartos de Final Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443)",
+  "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/04/17/16817477242354.jpg",
   "stations": [
     {
     "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
@@ -691,17 +691,14 @@
 "groups": [
     
   {
-  "name": "21:00 | Millwall x Birmingham City. DAZN, DAZN 2 (M+ Dial 65), DAZN BAR 2 (M+ Dial 149)",
-  "image": "https://res.cloudinary.com/dq4uxsxpv/image/upload/w_480,c_scale,q_auto/v1681629171/blog_assets/millwall-vs-birmingham-city-es.jpg",
+  "name": "20:45 | Middlesbrough x Hull City. DAZN, DAZN 1 (M+ Dial 64), DAZN BAR 1 (M+ Dial 148)",
+  "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/soccer/19-04-2023-middlesbrough-fc-hull-city.jpg",
   "stations": [
     {
-    "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
+    "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
     },
     {
-    "url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
-    },
-    {
-    "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
+    "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
     }
         
 ] } ] }
