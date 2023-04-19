@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Zaphkiel_ES - Miércoles 19 Abril 2023",
+"author": "Zaphkiel_ES - Jueves 20 Abril 2023",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -647,17 +647,46 @@
 },
 
 {
-"name": "Eventos del día | Miércoles 19 Abril",
+"name": "Eventos del día | Jueves 20 Abril",
 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
 "groups": [
 
 {
-"name": "⚽️ Champions League",
-"image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
+"name": "⚽️ Europa League",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png",
 "groups": [
 {
-"name": "21:00 | Bayern de Múnich x Manchester City. Cuartos de Final Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 475), Liga de Campeones UHD (M+ Dial 440)",
-"image": "https://phantom-marca.unidadeditorial.es/572f20cd1944ee0e88e3e55a547057f0/resize/1320/f/jpg/assets/multimedia/imagenes/2023/04/17/16817470911323.jpg",
+"name": "21:00 | Sporting de Lisboa x Juventus. Cuartos de Final. Cuatro, Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443), Liga de Campeones 2 (M+ Dial 57), Liga de Campeones 6 (M+ Dial 182)",
+"image": "https://footballwhispers.com/wp-content/uploads/2023/04/1a-3.jpg",
+"stations": [
+  {
+  "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+  },
+  {
+  "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
+  },
+  {
+  "url": "acestream://e9950ec551124c490ecbc2526a83d2c5a4516293"
+  }
+
+]
+},
+{
+"name": "21:00 | Saint-Gilloise x Bayer Leverkusen. Cuartos de Final. Liga de Campeones 4 (M+ Dial 180), Liga de Campeones 5 (M+ Dial 182)",
+"image": "https://media.tycsports.com/files/2023/04/18/557587/u-saint-gilloise-vs-bayer-leverkusen-en-vivo-como-llegan-al-partido_416x234.webp",
+"stations": [
+  {
+  "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
+  },
+  {
+  "url": "acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d"
+  }
+ 
+]
+},
+{
+"name": "21:00 | Sevilla FC x Manchester United. Cuartos de Final. Liga de Campeones BAR (M+ Dial 307), Liga de Campeones UHD (M+ Dial 441), Liga de Campeones (M+ Dial 56), Liga de Campeones 5 (M+ Dial 182).",
+"image": "https://media.c5n.com/p/013cd5553b4bd9378e9de321e9e5f8c0/adjuntos/326/imagenes/000/185/0000185866/790x0/smart/sevilla-vs-manchester-united-cuartos-1-uefa-europa-league.png",
 "stations": [
   {
   "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
@@ -667,40 +696,89 @@
   },
   {
   "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
+  },
+  {
+  "url": "acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d"
   }
-
+  
 ]
 },
-
 {
-  "name": "21:00 | Inter de Milán x Benfica. Cuartos de Final Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443)",
-  "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/04/17/16817477242354.jpg",
-  "stations": [
-    {
-    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
-    },
-    {
-    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
-    }
-  
-  ] } ] },
-
-{
-"name": "⚽️ Championship",
-"image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
-"groups": [
-    
+"name": "21:00 | AS Roma x Feyenoord. Cuartos de Final. Liga de Campeones BAR 3 (M+ Dial 308), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones 5 (M+ Dial 182)",
+"image": "https://media.c5n.com/p/4cc9b6d9edde49cc7bfc00ff0c9f8703/adjuntos/326/imagenes/000/185/0000185869/790x0/smart/roma-vs-feyenoord-cuartos-4-uefa-europa-league.png",
+"stations": [
   {
-  "name": "20:45 | Middlesbrough x Hull City. DAZN, DAZN 1 (M+ Dial 64), DAZN BAR 1 (M+ Dial 148)",
-  "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/soccer/19-04-2023-middlesbrough-fc-hull-city.jpg",
-  "stations": [
-    {
-    "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
-    },
-    {
-    "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
-    }
-        
+  "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
+  },
+  {
+  "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+  },
+  {
+  "url": "acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d"
+  }
+  
+] } ] },
+
+{
+"name": "UEFA Europa Conference League",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png",
+"groups": [ 
+{
+"name": "18:45 | AZ Alkmaar x Anderlecht. Cuartos de Final. Liga de Campeones 7 (M+ Dial 184)",
+"image": "https://www.infobetting.com/blog/wp-content/uploads/2023/04/AZ-Alkmaar-Anderlecht_mx-1280x720.jpg",
+"stations": [
+  {
+  "url": ""
+  },
+  {
+  "url": ""
+  }
+ ]
+},
+{
+"name": "18:45 | ACF Fiorentina x Lech Poznan. Cuartos de Final. Liga de Campeones 6 (M+ Dial 183)",
+"image": "https://i.ytimg.com/vi/Nd0Uez87zp4/mqdefault.jpg",
+"stations": [
+  {
+  "url": "acestream://e9950ec551124c490ecbc2526a83d2c5a4516293"
+  },
+  {
+  "url": ""
+  },
+  {
+  "url": ""
+  }
+]
+},
+{
+"name": "21:00 | Niza x FC Basel. Cuartos de Final. Liga de Campeones 5 (M+ Dial 182), Liga de Campeones 7 (M+ Dial 184), Liga de Campeones 9 (M+ Dial 186)",
+"image": "https://www.academiadeapuestasargentina.com/uploads/default/resized/es_jJzZx0jPxZR0v_logos_0_soccer_6437d8715f0dc_646_380.webp",
+"stations": [
+  {
+  "url": "acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d"
+  },
+  {
+  "url": ""
+  },
+  {
+  "url": ""
+  }
+]
+},
+{
+"name": "21:00 | West Ham x K.A.A. Gent. Cuartos de Final. Liga de Campeones 5 (M+ Dial 182), Liga de Campeones 6 (M+ Dial 183), Liga de Campeones 8 (M+ Dial 185)",
+"image": "https://footballwhispers.com/wp-content/uploads/2023/04/West-Ham-Gent.jpg",
+"stations": [
+  {
+  "url": "acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d"
+  },
+  {
+  "url": "acestream://e9950ec551124c490ecbc2526a83d2c5a4516293"
+  },
+  {
+  "url": ""
+  }
+
 ] } ] }
 ]}
 ]}
