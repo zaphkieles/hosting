@@ -728,10 +728,7 @@
 "image": "https://www.infobetting.com/blog/wp-content/uploads/2023/04/AZ-Alkmaar-Anderlecht_mx-1280x720.jpg",
 "stations": [
   {
-  "url": ""
-  },
-  {
-  "url": ""
+  "url": "acestream://45d300749e85fcbc10a4b8333100d1eb4c96da1b"
   }
  ]
 },
@@ -741,12 +738,6 @@
 "stations": [
   {
   "url": "acestream://e9950ec551124c490ecbc2526a83d2c5a4516293"
-  },
-  {
-  "url": ""
-  },
-  {
-  "url": ""
   }
 ]
 },
