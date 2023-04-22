@@ -34,6 +34,9 @@ https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_Leag
 ⚽️ Champions League (sin eventos)",
 "image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
 
+⚽️ Champions League Femenina
+https://estaticos-cdn.sport.es/clip/e1871120-090c-464b-82a8-29fe66ec8a4b_source-aspect-ratio_default_0.jpg
+
 ⚽️ Europa League (sin eventos)",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png",
 {
