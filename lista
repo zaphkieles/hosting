@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Zaphkiel_ES - Abril 2023 (ver sección: Eventos del día)",
+"author": "Abril 2023 (ver sección: Eventos del día)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -828,7 +828,7 @@
 "image": "https://assets-es.imgfoot.com/match-cover-es-3764931813034793033-7328793120725655613.jpg",
 "stations": [
   {
-  "url": ""
+  "url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"
   }    
 ] } ] },
 
