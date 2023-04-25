@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "25 Abril 2023 (ver sección: Eventos del día)",
+"author": "Abril 2023 (ver sección: Eventos del día)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -647,7 +647,7 @@
 },
 
 {
-"name": "Eventos del día | Martes 25 Abril",
+"name": "Eventos del día | Sábado 25 Abril",
 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
 "groups": [
 
@@ -659,12 +659,15 @@
     "name": "19:30 | Girona x Real Madrid",
     "image": "https://phantom-marca.unidadeditorial.es/df7856e2e1c36f18b8489854c1e452e1/resize/1320/f/jpg/assets/multimedia/imagenes/2023/04/24/16823428643742.jpg",
     "stations": [
-      {
-      "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
-      },
-      {
-      "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
-      }
+    {
+    "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+    },
+    {
+    "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
+    },
+    {
+    "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
+    }
     ]
     },
 {
@@ -675,10 +678,7 @@
   "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
   },
   {
-  "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
-  },
-  {
-  "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
+  "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
   }
 ]
 },
