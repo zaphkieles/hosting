@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Martes,25-ABR (sección:Eventos del día)",
+"author": "Martes 25 ABR (sección:Eventos del día)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -728,7 +728,7 @@
 "image": "https://assets-es.imgfoot.com/match-cover-es-3359148595620407931-5970418226007664426.jpg",
 "stations": [
   {
-  "url": ""
+  "url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"
   }
 ]
 },
