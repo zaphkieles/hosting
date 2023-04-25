@@ -655,15 +655,30 @@
 "name": "⚽️ LaLiga Santander",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
 "groups": [ 
+  {
+    "name": "19:30 | Girona x Real Madrid",
+    "image": "https://phantom-marca.unidadeditorial.es/df7856e2e1c36f18b8489854c1e452e1/resize/1320/f/jpg/assets/multimedia/imagenes/2023/04/24/16823428643742.jpg",
+    "stations": [
+      {
+      "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+      },
+      {
+      "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
+      }
+    ]
+    },
 {
-"name": "219:30 | Cádiz CF x Osasuna",
+"name": "19:30 | Cádiz CF x Osasuna",
 "image": "https://media.c5n.com/p/1776cd9be575126cd07b31eccfbaec22/adjuntos/326/imagenes/000/187/0000187133/790x0/smart/cadiz-vs-osasuna-fecha-31-espana-primera-division.png",
 "stations": [
   {
   "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
   },
   {
-  "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
+  "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
+  },
+  {
+  "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
   }
 ]
 },
