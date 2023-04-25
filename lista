@@ -710,7 +710,7 @@
 "image": "https://media.tycsports.com/files/2023/04/23/559661/wolverhampton-vs-crystal-palace-en-vivo-como-llegan-al-partido_862x485.webp",
 "stations": [
   {
-  "url": ""
+  "url": "acestream://b97f5975dbd067655432512d4693b417bc85a714"
   }
 ]
 },
@@ -719,7 +719,7 @@
 "image": "https://media.tycsports.com/files/2023/04/23/559672/aston-villa-vs-fulham-en-vivo-como-llegan-al-partido_862x485.webp",
 "stations": [
   {
-  "url": ""
+  "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
   }
 ]
 },
@@ -737,7 +737,7 @@
 "image": "https://media.tycsports.com/files/2023/04/23/559662/leeds-united-vs-leicester-city-en-vivo-como-llegan-al-partido_862x485_wmk.webp",
 "stations": [
   {
-  "url": ""
+  "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
   }    
 
 ] } ] }
