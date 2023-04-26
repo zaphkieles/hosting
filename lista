@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Miércoles 26 ABR (sección:Eventos del día)",
+"author": "Jueves 27 ABR (sección:Eventos del día)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -701,8 +701,23 @@
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
 "groups": [ 
 {
-"name": "19:30  | Atlético de Madrid x RCD Mallorca",
-"image": "https://static.tomaticket.es/images/static/317255-entradas-atletico-de-madrid-rcd-mallorca-tkqb.jpeg.webp",
+"name": "19:30 | Villarreal x RCD Espanyol",
+"image": "https://tntsports.com.ar/__export/1682308594748/sites/tntsports/img/2023/04/24/20230424_125634211_632155_0.jpg_1902800913.jpg",
+"stations": [
+  {
+  "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+  },
+  {
+  "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
+  },
+  {
+  "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
+  }
+]
+},
+{
+"name": "19:30 | Valencia CF x Real Valladolid",
+"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eldestapeweb.com%2Fdeportivo%2Fnoticias%2Fespana---primera-division-valencia-vs-valladolid-fecha-31-202342405846&psig=AOvVaw3d-Ewtp2n8dz2UrA6HSHnw&ust=1682618456301000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNjF0K2QyP4CFQAAAAAdAAAAABAE",
 "stations": [
   {
   "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
@@ -713,29 +728,8 @@
 ]
 },
 {
-"name": "19:30  | Getafe x Almería",
-"image": "https://media.tycsports.com/files/2023/04/24/560071/getafe-vs-almeria-en-vivo-como-llegan-al-partido_862x485_wmk.webp",
-"stations": [
-  {
-  "url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a"
-  }
-]
-},
-{
-"name": "22:00  | Rayo Vallecano x FC Barcelona",
-"image": "https://assets-es.imgfoot.com/match-cover-es-7236947295700949020-8158115007993136624.jpg",
-"stations": [
-  {
-  "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
-  },
-  {
-  "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
-  }
-]
-},
-{
-"name": "22:00  | Celta de Vigo x Elche",
-"image": "https://media.tycsports.com/files/2023/04/24/560133/celta-vs-elche-en-vivo-como-llegan-al-partido_862x485.webp",
+"name": "22:00 | Athletic Club x Sevilla FC",
+"image": "https://tntsports.com.ar/__export/1682308624885/sites/tntsports/img/2023/04/24/20230424_125704327_632147_0.jpg",
 "stations": [
   {
   "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
@@ -754,17 +748,17 @@
 "image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
 "groups": [ 
 {
-"name": "220:30  | Nottingham Forest x Brighton",
-"image": "https://media.tycsports.com/files/2023/04/23/559660/nottingham-forest-vs-brighton-and-hove-en-vivo-como-llegan-al-partido_862x485_wmk.webp",
+"name": "20:45 | Everton x Newcastle United",
+"image": "https://media.tycsports.com/files/2023/04/24/560088/everton-vs-newcastle-united-en-vivo-como-verlo-horario-y-tv_862x485.webp",
 "stations": [
   {
-  "url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"
+  "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
   }
 ]
 },
 {
-"name": "20:45  | Chelsea x Brentford",
-"image": "https://media.tycsports.com/files/2023/04/24/560089/chelsea-vs-brentford-en-vivo-como-llegan-al-partido_862x485_wmk.webp",
+"name": "20:45 | Southampton x AFC Bournemouth",
+"image": "https://media.tycsports.com/files/2023/04/24/560090/southampton-vs-bournemouth-en-vivo-como-llegan-al-partido_862x485.webp",
 "stations": [
   {
   "url": "acestream://5f966c123759de46dff29c379266b7a403452033"
@@ -772,11 +766,11 @@
 ]
 },
 {
-"name": "20:45  | West Ham x Liverpool",
-"image": "https://media.tycsports.com/files/2023/04/23/559663/west-ham-united-vs-liverpool-en-vivo-como-llegan-al-partido_862x485_wmk.webp",
+"name": "21:15 | Tottenham Hotspur x Manchester United",
+"image": "https://media.c5n.com/p/cab83900312ee773917457a239901662/adjuntos/326/imagenes/000/187/0000187428/790x0/smart/tottenham-vs-manchester-united-fecha-33-inglaterra-premier-league.png",
 "stations": [
   {
-  "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
+  "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
   }
 ]
 },
@@ -788,7 +782,28 @@
   "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
   }    
 
+] } ] },
+
+
+{
+  "name": "⚽️ Champions League Femenina",
+  "image": "https://estaticos-cdn.sport.es/clip/e1871120-090c-464b-82a8-29fe66ec8a4b_source-aspect-ratio_default_0.jpg",
+  "groups": [ 
+  {
+  "name": "18:45 | FC Barcelona Femenino x Chelsea Femenino. Semifinales",
+  "image": "https://images.daznservices.com/di/library/DAZN_News/1c/a5/chelsea-fc-barcelona-womens-champions-league_awakwvxd3i4z15fef5xxjv0ks.png?t=-1655424409&quality=60&h=450",
+  "stations": [
+    {
+    "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
+    },
+    {
+    "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
+    },
+    {
+    "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
+    }
+
 ] } ] }
 
-]}
-]}
+] }
+] }
