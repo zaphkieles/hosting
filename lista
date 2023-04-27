@@ -805,7 +805,27 @@
     "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
   }
  
-] } ] }
+] } ] },
+
+{
+  "name": "⚽️ Copa Italiana",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Coppa_Italia_-_Logo_2019.svg/800px-Coppa_Italia_-_Logo_2019.svg.png",
+  "groups": [ 
+  {
+  "name": "21:00 | ACF Fiorentina x Cremonese. Semifinales",
+  "image": "https://gainblers.com/imagenes/pronosticos/2023/04/pronostico-fiorentina-cremonese-27-04-2023.jpeg",
+  "stations": [
+    {
+    "url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a"
+    },
+    {
+    "url": "acestream://14127d51559ef194c5c98998a90d2f686a01402b"
+    },
+    {
+    "url": "acestream://e40b29774fdfd953751a71f5695f647726623b9d"
+  }
+ 
+] } ] },
 
 ] }
 ] }
