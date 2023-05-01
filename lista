@@ -743,6 +743,23 @@
       "url": "acestream://7f8d128f090347c48b7eb608a7037a2998a743ba"
       }
      
+] } ] },
+
+{
+  "name": "🎾 Euroliga Playoffs",
+  "image": "https://www.mundodeportivo.com/files/image_449_220/uploads/2021/07/14/60f3e62d0d3f2.png",
+  "groups": [ 
+    {
+    "name": "20:30 |BC Partizan Beograd x Real Madrid Baloncesto",
+    "image": "https://estaticos-cdn.sport.es/clip/20d8e184-8a16-415e-9029-3b4608520c96_alta-libre-aspect-ratio_default_0.jpg",
+    "stations": [
+      {
+      "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
+      },
+      {
+      "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
+      }
+     
 ] } ] }
 
 ] } ] }
