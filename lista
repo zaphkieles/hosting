@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Viernes 28 ABR (Sec: Eventos diarios)",
+"author": "Martes 2 MAY (Sec: Eventos diarios)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -688,102 +688,59 @@
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
   "groups": [ 
     {
-    "name": "21:00 | Osasuna x Real Sociedad",
-    "image": "https://phantom-marca.unidadeditorial.es/e329a0d446492435109a78b7296d8a02/resize/1320/f/jpg/assets/multimedia/imagenes/2023/04/27/16826158127844.jpg",
+    "name": "19:30 | Almería x Elche",
+    "image": "https://media.tycsports.com/files/2023/04/30/562496/almeria-vs-elche-en-vivo-como-llegan-al-partido_416x234.webp",
     "stations": [
       {
       "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
       },
       {
       "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
-      },
-      {
-      "url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"
       }
-     
-] } ] },
-    
+] },
   {
-  "name": "⚽️ LaLiga SmartBank",
-  "image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
-  "groups": [ 
-    {
-    "name": "21:00 | Racing de Santander x Ibiza",
-    "image": "https://assets-es.imgfoot.com/match-cover-es-7333224578876558230-8091411721427313195.jpg",
+    "name": "19:30 | FC Barcelona x Osasuna",
+    "image": "https://media.c5n.com/p/c24717e78d925ef5612c686dc2b2a2f2/adjuntos/326/imagenes/000/188/0000188519/790x0/smart/barcelona-vs-osasuna-fecha-33-espana-primera-division.png",
     "stations": [
       {
-      "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+      "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
       },
       {
-      "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
+      "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
       }
-    
-] } ] },
-
+] },
   {
-  "name": "⚽️ Bundesliga",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",
-  "groups": [ 
-    {
-    "name": "20:30 | Bochum x Borussia Dortmund",
-    "image": "https://assets-es.imgfoot.com/match-cover-es-7293041876967485831-2019641479077608593.jpg",
+    "name": "22:00 | Real Sociedad x Real Madrid",
+    "image": "https://media.c5n.com/p/e82698e346765ae81c9798a8942f1e13/adjuntos/326/imagenes/000/188/0000188518/790x0/smart/real-sociedad-vs-real-madrid-fecha-33-espana-primera-division.png",
     "stations": [
       {
-      "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+      "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
       },
       {
-      "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
+      "url": "aacestream://d47addf5e467cbf102ba759600303c21efb1deeb"
       },
       {
-      "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
-      }
-     
-] } ] },
-    
-  {
-  "name": "⚽️ Ligue 1 Francia",
-  "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
-  "groups": [ 
-    {
-    "name": "21:00 | Racing de Estrasburgo x Olympique Lyonnais",
-    "image": "https://assets-es.imgfoot.com/match-cover-es-6524289427779559197-4855789415474674627.jpg",
-    "stations": [
-      {
-      "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
-      },
-      {
-      "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
+      "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
       }
      
 ] } ] },
 
 {
-  "name": "⚽️ Championship",
-  "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
+  "name": "⚽️ Premier League",
+  "image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
   "groups": [ 
     {
-    "name": "21:00 | Blackpool x Millwall",
-    "image": "https://assets-es.imgfoot.com/match-cover-es-1866744052884379426-3287084455591487163.jpg",
+    "name": "21:00 | Arsenal x Chelsea",
+    "image": "https://media.tycsports.com/files/2023/04/29/561841/arsenal-vs-chelsea-en-vivo-como-verlo-horario-y-tv_862x485_wmk.webp",
     "stations": [
       {
-      "url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a"
+      "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
       },
       {
-      "url": "acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612"
-      }
-     
-] } ] },
-
-{
-  "name": "⚽️ Liga F (femenina)",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Liga_F_icon.svg/640px-Liga_F_icon.svg.png",
-  "groups": [ 
-    {
-    "name": "20:00 | Alhama CF x Sevilla FC Femenino",
-    "image": "https://i.ytimg.com/vi/FhOdyseow30/maxresdefault.jpg",
-    "stations": [
+      "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
+      },
       {
-      "url": ""
+      "url": "acestream://7f8d128f090347c48b7eb608a7037a2998a743ba"
       }
      
 ] } ] }
