@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Miércoles 3 MAY (Sec: Eventos diarios)",
+"author": "Jueves 4 MAY (Sec: Eventos diarios)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -688,8 +688,8 @@
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
   "groups": [ 
     {
-    "name": "19:30 | Valencia CF x Villarreal",
-    "image": "https://media.tycsports.com/files/2023/05/01/562841/valencia-vs-villarreal-en-vivo-como-llegan-al-partido_416x234.webp",
+    "name": "19:30 | Girona x RCD Mallorca",
+    "image": "https://media.c5n.com/p/bf17fcfbfa022d7dd891555ec809eef8/adjuntos/326/imagenes/000/188/0000188858/790x0/smart/girona-vs-mallorca-fecha-33-espana-primera-division.png",
     "stations": [
       {
       "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
@@ -701,9 +701,9 @@
       "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
       }
 ] },
-  {
-    "name": "22:00 | Atlético de Madrid x Cádiz CF",
-    "image": "https://media.c5n.com/p/2b20d4c0fb1fc9929befa79c5d59ba1a/adjuntos/326/imagenes/000/188/0000188673/790x0/smart/atletico-madrid-vs-cadiz-fecha-33-espana-primera-division.png",
+{
+    "name": "19:30 | Sevilla FC x RCD Espanyol",
+    "image": "https://tntsports.com.ar/__export/1682912914593/sites/tntsports/img/2023/05/01/20230501_124834173_632175_0.jpg_1758632412.jpg",
     "stations": [
       {
       "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
@@ -713,18 +713,29 @@
       }
 ] },
   {
-    "name": "22:00 | Getafe x Celta de Vigo",
-    "image": "https://media.c5n.com/p/2a06184623910b01d7fa40740303f95b/adjuntos/326/imagenes/000/188/0000188674/1200x675/smart/getafe-vs-celta-fecha-33-espana-primera-division.png",
+    "name": "22:00   Rayo Vallecano x Real Valladolid",
+    "image": "https://media.c5n.com/p/798daa52b74d48717bd6cc6403f84b5c/adjuntos/326/imagenes/000/188/0000188859/790x0/smart/rayo-vallecano-vs-valladolid-fecha-33-espana-primera-division.png",
+    "stations": [
+      {
+      "url": ""
+      }
+] },
+  {
+    "name": "22:00 | Athletic Club x Real Betis",
+    "image": "https://media.c5n.com/p/d3b35bdd69173d5ae1810427da28a12b/adjuntos/326/imagenes/000/188/0000188860/790x0/smart/athletic-bilbao-vs-betis-fecha-33-espana-primera-division.png",
     "stations": [
       {
       "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
       },
       {
-      "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
+      "url": "aacestream://d47addf5e467cbf102ba759600303c21efb1deeb"
       },
       {
       "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
-      }
+      },
+      {
+      "url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"
+      }      
      
 ] } ] },
 
@@ -733,26 +744,12 @@
   "image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
   "groups": [ 
     {
-    "name": "21:00 | Liverpool x Fulham",
-    "image": "https://tntsports.com.ar/__export/1678853433147/sites/tntsports/img/2023/03/15/20230315_011032656_629773_0.jpg_554688468.jpg",
+    "name": "21:00 | Brighton x Manchester United",
+    "image": "https://media.ambito.com/p/33a041cd64113acb2e9be6ed5323702e/adjuntos/239/imagenes/040/569/0040569298/375x211/smart/posponen-el-partido-brighton-and-hove-y-manchester-united.png",
     "stations": [
       {
-      "url": "acestream://149a38e333de920753f1388c43247283bdb05f5b"
-      },
-      {
-      "url": "acestream://b97f5975dbd067655432512d4693b417bc85a714"
-   }
-] },
-{
-  "name": "21:00 | Manchester City x West Ham",
-  "image": "https://media.ambito.com/p/b4f03ed15ef0b21890cbc7781ccff128/adjuntos/239/imagenes/040/569/0040569297/375x211/smart/se-pospone-el-partido-manchester-city-y-west-ham-united.png",
-  "stations": [
-    {
-    "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
-    },
-    {
-    "url": "acestream://78637dab85e7948057165ad0c80b3db475dd9c3d"
- }
+      "url": ""
+      }
 
 ] } ] },
 
@@ -761,9 +758,15 @@
   "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
   "groups": [ 
     {
-    "name": "18:00 | Juventus x Lecce",
-    "image": "https://media.tycsports.com/files/2023/05/01/562824/juventus-vs-lecce-en-vivo-como-llegan-al-partido_862x485_wmk.webp",
+    "name": "20:45 | Udinese x Napoli",
+    "image": "https://media.tycsports.com/files/2023/04/30/562516/udinese-vs-napoli-en-vivo-como-llegan-al-partido_862x485_wmk.webp",
     "stations": [
+      {
+      "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+      },
+      {
+      "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+      },
       {
       "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
       },
@@ -775,39 +778,11 @@
       }
 ] },
     {
-    "name": "21:00 | AC Milan x Cremonese",
-    "image": "https://media.ambito.com/p/1bbcd53209988f0440230461d9f4537e/adjuntos/239/imagenes/040/673/0040673229/375x211/smart/por-la-fecha-33-milan-recibira-cremonese.png",
+    "name": "20:45 | Empoli vs Bologna",
+    "image": "https://media.tycsports.com/files/2023/05/02/563169/empoli-vs-bologna-en-vivo-como-llegan-al-partido_862x485.webp",
     "stations": [
       {
-      "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
-      },
-      {
-      "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
-      }
-] },
-    {
-    "name": "21:00 | Hellas Verona x Inter de Milán",
-    "image": "https://media.c5n.com/p/a424ec8dfdd01e5dc869c95b4f3e36b7/adjuntos/326/imagenes/000/188/0000188682/790x0/smart/hellas-verona-vs-inter-fecha-33-italia-serie-a.png",
-    "stations": [
-      {
-      "url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"
-      },
-      {
-      "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
-      }
-] },
-    {
-    "name": "21:00 | Lazio x Sassuolo",
-    "image": "https://media.tycsports.com/files/2023/05/01/562864/lazio-vs-sassuolo-en-vivo-como-llegan-al-partido_862x485_wmk.webp",
-    "stations": [
-      {
-      "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
-      },
-      {
-      "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
-      },
-      {
-      "url": "acestream://5f966c123759de46dff29c379266b7a403452033"
+      "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
       }
 
 ] } ] },
@@ -822,36 +797,6 @@
     "stations": [
       {
       "url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
-      }
-     
-] } ] },
-
-{
-  "name": "🎾 ATP Masters 1000",
-  "image": "https://s3.ppllstatics.com/elcorreo/www/multimedia/201903/06/media/cortadas/masters-1000-2019-calendario-fechas-torneos-kCwC-U70831080566FaC-624x385@El%20Correo.png",
-  "groups": [ 
-    {
-    "name": "16:00 | C. Alcaraz x K. Khachanov. 1/4 de Final",
-    "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/05/29/16538471125490.jpg",
-    "stations": [
-      {
-      "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
-      },
-      {
-      "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
-      }
-     
-] } ] },
-{
-  "name": "⚽️ Alemania - Copa de Alemania",
-  "image": "",
-  "groups": [ 
-    {
-    "name": "20:45	Stuttgart 1 - 3 Eintracht Frankfurt",
-    "image": "",
-    "stations": [
-      {
-      "url": "acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612"
       }
      
 ] } ] }
