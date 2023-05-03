@@ -800,6 +800,7 @@
       }
      
 ] } ] },
+
 {
 
   "name": "🏀 Euroleague",
@@ -808,7 +809,7 @@
   "groups": [
   {
     "name": "20:30 | Partizan x Real Madrid",
-"image": "https://www.solobasket.com/apuestas-deportivas/wp-content/uploads/2023/04/PLANTILLAS-APUESTAS-SOLOBASKET-6.jpg"
+"image": "https://www.solobasket.com/apuestas-deportivas/wp-content/uploads/2023/04/PLANTILLAS-APUESTAS-SOLOBASKET-6.jpg",
     "stations": [
 
       {
@@ -816,11 +817,12 @@
       "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
 
       },
+
       {
       "url":
       
       
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+"acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
 
 }
      
