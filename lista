@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Jueves 4 MAY (Sec: Eventos diarios)",
+"author": "Viernes 5 MAY (Sec: Eventos diarios)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -684,89 +684,30 @@
   "groups": [
 
   {
-  "name": "⚽️ LaLiga Santander",
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
+  "name": "⚽️ LaLiga SmartBank",
+  "image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
   "groups": [ 
     {
-    "name": "19:30 | Girona x RCD Mallorca",
-    "image": "https://media.c5n.com/p/bf17fcfbfa022d7dd891555ec809eef8/adjuntos/326/imagenes/000/188/0000188858/790x0/smart/girona-vs-mallorca-fecha-33-espana-primera-division.png",
+    "name": "21:00 | Alavés x Granada CF",
+    "image": "https://cache.koobin.com/cache/deportivoalaves/53e315c05bfff5dad82240db8a47ac59_PARTIDOS_KOOBIN_DA_Granada_1200_630_crop_1.jpg?v=v23123.1202008031520",
     "stations": [
       {
-      "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+      "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
       },
       {
-      "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
-      },
-      {
-      "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
+      "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
       }
-] },
-{
-    "name": "19:30 | Sevilla FC x RCD Espanyol",
-    "image": "https://tntsports.com.ar/__export/1682912914593/sites/tntsports/img/2023/05/01/20230501_124834173_632175_0.jpg_1758632412.jpg",
-    "stations": [
-      {
-      "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
-      },
-      {
-      "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
-      }
-] },
-  {
-    "name": "22:00   Rayo Vallecano x Real Valladolid",
-    "image": "https://media.c5n.com/p/798daa52b74d48717bd6cc6403f84b5c/adjuntos/326/imagenes/000/188/0000188859/790x0/smart/rayo-vallecano-vs-valladolid-fecha-33-espana-primera-division.png",
-    "stations": [
-      {
-      "url": ""
-      }
-] },
-  {
-    "name": "22:00 | Athletic Club x Real Betis",
-    "image": "https://media.c5n.com/p/d3b35bdd69173d5ae1810427da28a12b/adjuntos/326/imagenes/000/188/0000188860/790x0/smart/athletic-bilbao-vs-betis-fecha-33-espana-primera-division.png",
-    "stations": [
-      {
-      "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
-      },
-      {
-      "url": "aacestream://d47addf5e467cbf102ba759600303c21efb1deeb"
-      },
-      {
-      "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
-      },
-      {
-      "url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"
-      }      
      
 ] } ] },
 
 {
-  "name": "⚽️ Premier League",
-  "image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
+  "name": "⚽️ Bundesliga",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",
   "groups": [ 
     {
-    "name": "21:00 | Brighton x Manchester United",
-    "image": "https://media.ambito.com/p/33a041cd64113acb2e9be6ed5323702e/adjuntos/239/imagenes/040/569/0040569298/375x211/smart/posponen-el-partido-brighton-and-hove-y-manchester-united.png",
+    "name": "20:30 | Bayer Leverkusen x Colonia",
+    "image": "https://media.c5n.com/p/747e5101c09b6eed380450c44f72c2c7/adjuntos/326/imagenes/000/188/0000188975/1200x675/smart/bayer-leverkusen-vs-colonia-fecha-31-alemania-bundesliga.png",
     "stations": [
-      {
-      "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
-      }
-
-] } ] },
-
-{
-  "name": "⚽️ Serie A Italia",
-  "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
-  "groups": [ 
-    {
-    "name": "20:45 | Udinese x Napoli",
-    "image": "https://media.tycsports.com/files/2023/04/30/562516/udinese-vs-napoli-en-vivo-como-llegan-al-partido_862x485_wmk.webp",
-    "stations": [
-      {
-      "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
-      },
-      {
-      "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
-      },
       {
       "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
       },
@@ -775,58 +716,37 @@
       },
       {
       "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
-      }
+    }
 ] },
-    {
-    "name": "20:45 | Empoli vs Bologna",
-    "image": "https://media.tycsports.com/files/2023/05/02/563169/empoli-vs-bologna-en-vivo-como-llegan-al-partido_862x485.webp",
-    "stations": [
-      {
-      "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
-      }
-
-] } ] },
-
 {
-  "name": "⚽️ Ligue 1 Francia",
-  "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
-  "groups": [ 
-    {
-    "name": "21:00 | Stade Brestois x Nantes",
-    "image": "https://media.tycsports.com/files/2023/05/01/562866/stade-brestois-vs-nantes-en-vivo-como-llegan-al-partido_862x485.webp",
+    "name": "20:30 | Mainz 05 vs Schalke 04",
+    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/53KXGVOSDRACFJS2ZIIXIU7BDA.png",
     "stations": [
       {
       "url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
+      },
+      {
+      "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+      },
+      {
+      "url": "acestream://e40b29774fdfd953751a71f5695f647726623b9d"
       }
-     
+
 ] } ] },
 
 {
-
-  "name": "🏀 Euroleague",
-
-"image": "https://www.euroleaguebasketball.net/images/logo-default.png",
-  "groups": [
-  {
-    "name": "20:30 | Partizan x Real Madrid",
-"image": "https://www.solobasket.com/apuestas-deportivas/wp-content/uploads/2023/04/PLANTILLAS-APUESTAS-SOLOBASKET-6.jpg",
+  "name": "⚽️ FA Women's Super League",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/FA_Women%27s_Super_League.png",
+  "groups": [ 
+    {
+    "name": "20:30 | Arsenal Femenino x Leicester Femenino",
+    "image": "https://oddspedia.com/media/es/16x9/arsenal-women-leicester-women-6849167.png",
     "stations": [
-
       {
-
-      "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
-
-      },
-
-      {
-      "url":
-      
-      
-"acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
-
-}
+      "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
+      }
      
-
+     
 ] } ] }
 
 ] } ] }
