@@ -747,6 +747,24 @@
       }
      
      
+] } ] },
+
+{
+  "name": "🎾 ATP Masters 1000. Semifinal 1",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/FA_Women%27s_Super_League.png",
+  "groups": [ 
+    {
+    "name": "16:00 | C. Alcaraz x B. Coric (La 1 TVE)",
+    "image": "https://oddspedia.com/media/es/16x9/arsenal-women-leicester-women-6849167.png",
+    "stations": [
+      {
+      "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+      },
+      {
+      "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+      }
+     
+     
 ] } ] }
 
 ] } ] }
