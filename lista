@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Viernes 5 MAY (Sec: Eventos diarios)",
+"author": "Sábado 6 MAY (Sec: Eventos diarios)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -684,30 +684,19 @@
   "groups": [
 
   {
-  "name": "⚽️ LaLiga SmartBank",
-  "image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
+  "name": "⚽️ Copa del Rey",
+  "image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif",
   "groups": [ 
     {
-    "name": "21:00 | Alavés x Granada CF",
-    "image": "https://cache.koobin.com/cache/deportivoalaves/53e315c05bfff5dad82240db8a47ac59_PARTIDOS_KOOBIN_DA_Granada_1200_630_crop_1.jpg?v=v23123.1202008031520",
+    "name": "22:00 | Real Madrid X Osasuna. Final (TVE 1)",
+    "image": "https://fotografias.antena3.com/clipping/cmsimages01/2023/05/04/DDF6123D-F2EC-4F27-823A-EAFDDA291E24/real-madrid-osasuna-final-copa-rey_98.jpg?crop=1120,630,x0,y2&width=1900&height=1069&optimize=low&format=webply",
     "stations": [
       {
-      "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+      "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
       },
       {
-      "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
-      }
-     
-] } ] },
-
-{
-  "name": "⚽️ Bundesliga",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",
-  "groups": [ 
-    {
-    "name": "20:30 | Bayer Leverkusen x Colonia",
-    "image": "https://media.c5n.com/p/747e5101c09b6eed380450c44f72c2c7/adjuntos/326/imagenes/000/188/0000188975/1200x675/smart/bayer-leverkusen-vs-colonia-fecha-31-alemania-bundesliga.png",
-    "stations": [
+      "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+      },
       {
       "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
       },
@@ -716,55 +705,181 @@
       },
       {
       "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
-    }
+      }
+     
+] } ] },
+
+{
+  "name": "⚽️ LaLiga SmartBank",
+  "image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
+  "groups": [ 
+    {
+    "name": "16:15 | Mirandés X Racing de Santander",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-6394330145939324795-7333224578876558230.jpg",
+    "stations": [
+      {
+      "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+      },
+      {
+      "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
+      }
 ] },
 {
-    "name": "20:30 | Mainz 05 vs Schalke 04",
-    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/53KXGVOSDRACFJS2ZIIXIU7BDA.png",
+    "name": "18:30 | Leganés x SD Huesca",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-4241245890358311641-1933672757237793797.jpg",
     "stations": [
       {
-      "url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
+      "url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342"
       },
       {
-      "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
-      },
-      {
-      "url": "acestream://e40b29774fdfd953751a71f5695f647726623b9d"
+      "url": "acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
       }
+] },
+ {
+    "name": "18:30 | CD Tenerife x Levante",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-4646761988820667698-6983544935790473006.jpg",
+    "stations": [
+      {
+        "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+        },
+        {
+        "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
+        }
 
 ] } ] },
 
 {
-  "name": "⚽️ FA Women's Super League",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/FA_Women%27s_Super_League.png",
+  "name": "⚽️ Premier League",
+  "image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg",
   "groups": [ 
     {
-    "name": "20:30 | Arsenal Femenino x Leicester Femenino",
-    "image": "https://oddspedia.com/media/es/16x9/arsenal-women-leicester-women-6849167.png",
+    "name": "16:00 | AFC Bournemouth x Chelsea",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-6372722249231840753-6687450677292613774.jpg",
     "stations": [
       {
-      "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
+      "url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a"
       }
-     
-     
+] },
+    {
+    "name": "16:00 | Manchester City x Leeds United",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-4916684085144678602-7238918282241425112.jpg",
+    "stations": [
+      {
+      "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
+      },
+      {
+      "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
+      }   
+ ] },
+    {
+    "name": "16:00 | Tottenham Hotspur x Crystal Palace",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-4419614622408851873-3764931813034793033.jpg",
+    "stations": [
+      {
+      "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
+      },
+      {
+      "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
+      }
+] },
+    {
+    "name": "16:00 | Wolverhampton Wanderers x Aston Villa",
+    "image": "https://www.academiadeapuestasmexico.com/uploads/default/resized/es_oJqmnJxwDmxNr_logos_0_soccer_6454efa468899_646_380.webp",
+    "stations": [
+      {
+      "url": "acestream://149a38e333de920753f1388c43247283bdb05f5b"
+      }
+] },
+    {
+    "name": "18:30 | Liverpool x Brentford",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-8907069587814470011-8079306435665576075.jpg",
+    "stations": [
+      {
+      "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
+      },
+      {
+      "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
+      }
+  
 ] } ] },
 
-{
-  "name": "🎾 ATP Masters 1000. Semifinal 1",
-  "image": "https://s3.ppllstatics.com/elcorreo/www/multimedia/201903/06/media/cortadas/masters-1000-2019-calendario-fechas-torneos-kCwC-U70831080566FaC-624x385@El%20Correo.png",
+  {
+  "name": "⚽️ Serie A Italia",
+  "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
   "groups": [ 
     {
-    "name": "16:00 | C. Alcaraz x B. Coric (La 1 TVE)",
-    "image": "https://i.ytimg.com/vi/hXc1h8GW9s0/maxresdefault.jpg",
+    "name": "15:00 | AC Milan x Lazio",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-7540704180214421418-925558342394002210.jpg",
     "stations": [
       {
       "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
       },
       {
       "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+      },
+      {
+      "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
+      },
+      {
+      "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+    }
+] },
+{
+  "name": "18:00 | Roma x Inter de Milán",
+  "image": "https://assets-es.imgfoot.com/match-cover-es-4317681080306836263-8302142033783363668.jpg",
+  "stations": [
+    {
+    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+    },
+    {
+    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
+    }
+
+] } ] },
+
+{
+  "name": "⚽️ Bundesliga",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",
+  "groups": [ 
+    {
+    "name": "15:30 | Augsburgo x Unión Berlín",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-6463501245231349631-9090419488867508585.jpg",
+    "stations": [
+      {
+      "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+      },
+      {
+      "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
       }
-     
-     
+] },
+{
+  "name": "15:30 | Friburgo x RB Leipzig",
+  "image": "https://assets-es.imgfoot.com/match-cover-es-5481717478536954618-806488548379509524.jpg",
+  "stations": [
+    {
+    "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+    },
+    {
+    "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
+    },
+    {
+    "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
+    }
+] },
+{
+  "name": "18:30 | Werder Bremen x Bayern de Múnich",
+  "image": "https://assets-es.imgfoot.com/match-cover-es-8347765877469260318-6949918215573284716.jpg",
+  "stations": [
+   {
+    "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+    },
+    {
+    "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
+    },
+    {
+    "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
+    }
+
 ] } ] }
 
 ] } ] }
