@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Lunes 8 MAY (Sec: Eventos diarios)",
+"author": "Domingo 7 MAY (Sec: Eventos diarios)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -793,61 +793,8 @@
       "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2"
       }
 
-] } ] },
-
-{
-  "name": "⚽️ ATP Masters 1000",
-  "image": "https://s3.ppllstatics.com/elcorreo/www/multimedia/201903/06/media/cortadas/masters-1000-2019-calendario-fechas-torneos-kCwC-U70831080566FaC-624x385@El%20Correo.png",
-  "groups": [ 
-    {
-    "name": "18:30 | C. Alcaraz x TBD. Final",
-    "image": "https://images.ecestaticos.com/3eyd7IYmotN-Ols_hqeWEDmbifo=/0x29:2272x1307/972x547/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd87%2F711%2F9da%2Fd877119da66e1961e27cbb375e78014e.jpg",
-    "stations": [
-      {
-      "url": "acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842"
-      },
-      {
-      "url": "acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c"
-      },
-      {
-      "url": "acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486"
-      },
-      {
-      "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
-      },
-      {
-      "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
-      },
-      {
-      "url": "acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5"
-      }
-
-] } ] },
-
-{
-  "name": "🏎 Formula 1",
-  "image": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg",
-  "groups": [ 
-    {
-    "name": "21:30 | G.P. Miami (Miami) Carrera",
-    "image": "https://www.lavanguardia.com/files/image_449_220/uploads/2023/05/02/6450d9a86d925.jpeg",
-    "stations": [
-      {
-      "url": "acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2"
-      },
-      {
-      "url": "acestream://a52bf7c28df63995ad427c32ebf1e517445720bb"
-      },
-      {
-      "url": "acestream://60cf60019aeef9af6183dd05af1b89e25594ac14"
-      },
-      {
-      "url": "acestream://fbe72e7488e83817eb7a9de3536742c7ded1b923"
-      },
-      {
-      "url": "acestream://e5dd056bbcbf637c7fa314288356a8024e426f18"
-      }
 
 ] } ] }
+
 
 ] } ] }
