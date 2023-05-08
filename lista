@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Lunes 8 MAY (Sec: Eventos diarios)",
+"author": "Martes 9 MAY (Sec: Eventos diarios)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/zaphkiel.png",
 "imageScale": "",
@@ -684,110 +684,33 @@
   "groups": [
 
 {
-  "name": "⚽️ LaLiga SmartBank",
-  "image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
+  "name": "⚽️ Champions League",
+  "image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
   "groups": [ 
     {
-    "name": "21:00 | SD Eibar x UD Las Palmas",
-    "image": "https://assets-es.imgfoot.com/match-cover-es-2981201763763988492-5084046659265316332.jpg",
+    "name": "21:00 | Real Madrid x Manchester City. Semifinales",
+    "image": "https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg?itok=Mb5Vv7Pd",
     "stations": [
       {
-      "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+      "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
       },
       {
-      "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
+      "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
       },
       {
-      "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
-      },
-      {
-      "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+      "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
       }
+
 
 ] } ] },
 
 {
-  "name": "⚽️ Premier League",
-  "image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg",
-  "groups": [ 
-    {
-    "name": "16:00 | Fulham x Leicester City",
-    "image": "https://assets-es.imgfoot.com/match-cover-es-3187808176970317044-6305870533858271001.jpg",
-    "stations": [
-      {
-      "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
-      },
-      {
-      "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
-      }
-] },
-    {
-    "name": "18:30 | Brighton x Everton",
-    "image": "https://images.daznservices.com/di/library/DAZN_News/36/e/west-ham-vs-everton_ffnctvfpuk7u1fca1nd5mhga9.png?t=874383689&quality=60&w=1280&h=720",
-    "stations": [
-      {
-      "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
-      },
-      {
-      "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
-      }
-] },
-    {
-    "name": "21:00 | Nottingham Forest x Southampton",
-    "image": "https://assets-es.imgfoot.com/match-cover-es-2753620633394828072-234619626295511372.jpg",
-    "stations": [
-      {
-      "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
-      },
-      {
-      "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
-      }
-  
-] } ] },
-
-  {
-  "name": "⚽️ Championship",
-  "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
-  "groups": [ 
-    {
-    "name": "16:00 | Millwall x Blackburn Rovers",
-    "image": "https://assets-es.imgfoot.com/match-cover-es-3287084455591487163-3359148595620407931.jpg",
-    "stations": [
-      {
-      "url": ""
-      }
-] },
-  {
-  "name": "16:00 | Preston North End x Sunderland",
-  "image": "https://assets-es.imgfoot.com/match-cover-es-1597949645510726045-385356404710813149.jpg",
-  "stations": [
-      {
-      "url": ""
-      }
-
-] } ] },
-
-{
-  "name": "⚽️ liga arabia saudita",
-  "image": "https://www.fansclubchivas.com/wp-content/uploads/2023/01/1-23.png.webp",
-  "groups": [ 
-    {
-    "name": "18:00 | Al Nassr x Khaleej FC",
-    "image": "https://assets-es.imgfoot.com/match-cover-es-2269333307144329939-8046364056601639558.jpg",
-    "stations": [
-      {
-      "url": ""
-      }
-
-] } ] },
-
-{
-  "name": "Giro de Italia",
+  "name": "🚴‍♀️ Ciclismo",
   "image": "https://ciclismoepico.com/wp-content/uploads/2023/01/giro-italia-2023-recorrido-favoritos-perfiles-de-etapa-ciclismo-epico.jpg",
   "groups": [ 
     {
-    "name": "11:30, 15:05 | Giro de Italia. Etapa 3 Vasto › Melfi (210 km)",
-    "image": "https://phantom-marca.unidadeditorial.es/dd041a455426c606e9181255424a8c2d/resize/1320/f/jpg/assets/multimedia/imagenes/2023/04/24/16823439133404.jpg",
+    "name": "12:15, 15:15 | Giro de Italia. Etapa 4 Venosa › Lago Laceno (184 km)",
+    "image": "https://images11.eitb.eus/multimedia/images/2023/04/13/3087940/20230413183255_giroitalia2023perfiletapa_amp_w1200.jpg",
     "stations": [
       {
       "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2"
