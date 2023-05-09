@@ -221,13 +221,13 @@
     "stations": [
       {
       "name": "Buscador: Ace Stream Broadcasts Búsqueda Canales",
-      "image": "",
+      "image": "https://acestreamsearch.net/images/logo.png",
       "url": "https://acestreamsearch.net/",
       "embed": true
       },
       {
       "name": "Buscador: Get a link to Ace stream broadcast from any site",
-      "image": "",
+      "image": "https://acestreamid.com/public/images/logo_site.jpg",
       "url": "https://acestreamid.com/",
       "embed": true
       }
@@ -239,7 +239,7 @@
     "stations": [
       {
       "name": "Archivo Zaphkiel_ES",
-      "image": "",
+      "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
       "url": "https://zaphkieles.github.io/hosting/ace.html",
       "embed": true
       }
