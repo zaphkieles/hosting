@@ -230,14 +230,19 @@
       "image": "",
       "url": "https://acestreamid.com/",
       "embed": true
-      },
+      }
+] },
+    {
+    "name": "Archivo de enlaces",
+    "image": "https://play-lh.googleusercontent.com/T0HTeaijUgoKa_FAIL5lGve_H6bSmzuwiP5uNLIqqVkou7fMXHKnWTsNruSE868ss7A",
+    "info": "No Info",
+    "stations": [
       {
-      "name": "Archivo de enlaces",
+      "name": "Archivo Zaphkiel_ES",
       "image": "",
       "url": "https://zaphkieles.github.io/hosting/ace.html",
       "embed": true
       }
-
 
 ] } ] },
 
