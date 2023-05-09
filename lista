@@ -221,13 +221,13 @@
     "stations": [
       {
       "name": "Buscador: Ace Stream Broadcasts Búsqueda Canales",
-      "image": "https://acestreamsearch.net/images/logo.png",
+      "image": "https://www.siteprice.org/SiteThumbs/a/acestreamsearch.net.webp",
       "url": "https://acestreamsearch.net/",
       "embed": true
       },
       {
       "name": "Buscador: Get a link to Ace stream broadcast from any site",
-      "image": "https://acestreamid.com/public/images/logo_site.jpg",
+      "image": "https://www.siteprice.org/SiteThumbs/a/acestreamid.com.webp",
       "url": "https://acestreamid.com/",
       "embed": true
       }
