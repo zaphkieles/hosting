@@ -25,7 +25,7 @@
     "info": "No Info",
     "stations": [
       {
-      "name": "SFNTV (necesita activar VPN)",
+      "name": "SFNTV",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_sfn_logo_step_repeat.png",
       "url": "https://sfntv.co/",
       "embed": true
@@ -43,7 +43,7 @@
       "embed": true
       },
       {
-      "name": "PHOTOCALL (necesita activar VPN)",
+      "name": "PHOTOCALL",
       "image": "https://www.adslzone.net/app/uploads-adslzone.net/2021/12/photocall-1.jpg",
       "url": "https://photocall.tv",
       "embed": true
