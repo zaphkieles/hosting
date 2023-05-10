@@ -304,9 +304,22 @@
       "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
       }
 
+] } ] },
+
+{
+  "name": "🚴‍♀️ Ciclismo",
+  "image": "https://ciclismoepico.com/wp-content/uploads/2023/01/giro-italia-2023-recorrido-favoritos-perfiles-de-etapa-ciclismo-epico.jpg",
+  "groups": [ 
+    {
+    "name": "11:00, 15:00 | Giro de Italia. Etapa 7. Capua › Gran Sasso d'Italia (Campo Imperatore) (218 km)",
+    "image": "https://static2.giroditalia.it/wp-content/uploads/2023/02/bjfMwCXJ4PBSJwnLkTYy_170423-012012.jpg?v=20230417152012",
+    "stations": [
+      {
+      "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2"
+      }
+
 
 
 ] } ] }
-
 
 ] } ] }
