@@ -306,6 +306,19 @@
       "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
       }
 
+] } ] },
+
+{
+  "name": "🚴‍♀️ Ciclismo",
+  "image": "https://ciclismoepico.com/wp-content/uploads/2023/01/giro-italia-2023-recorrido-favoritos-perfiles-de-etapa-ciclismo-epico.jpg",
+  "groups": [ 
+    {
+    "name": "12:45, 15:15 | Giro de Italia. Etapa 6. Napili › Napoli (156 km)",
+    "image": "https://static2.giroditalia.it/wp-content/uploads/2023/02/TXmXswl0pMZHJ9WS2Mjn_170423-124253.jpg?v=20230417144253",
+    "stations": [
+      {
+      "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2"
+      }
 
 ] } ] }
 
