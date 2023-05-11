@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Miércoles 10 MAY (Sec: Eventos diarios)",
+"author": "Viernes 12 MAY (Sec: Eventos diarios)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
 "imageScale": "",
@@ -253,44 +253,55 @@
   "groups": [
 
 {
-  "name": "⚽️ Champions League",
-  "image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
+  "name": "⚽️ LaLiga Santander",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
   "groups": [ 
     {
-    "name": "21:00 | Milan x Inter",
-    "image": "https://libero.cronosmedia.glr.pe/data/2023/05/09/204ge3d96j-lg-64595606526a1c614012efcc.jpg",
+    "name": "21:00 | RCD Mallorca x Cádiz CF",
+    "image": "https://oddspedia.com/media/es/1x1/mallorca-cadiz-6645493.png",
     "stations": [
       {
-      "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+      "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
       },
       {
-      "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
+      "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
       },
       {
-      "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
-      }
+      "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
+    }
 
 
 ] } ] },
 
 {
-  "name": "⚽️ FA Women's Super League",
-  "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/FA_Women%27s_Super_League.png",
+  "name": "⚽️ LaLiga SmartBank",
+  "image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
   "groups": [ 
     {
-    "name": "20:30 | Brighton Femenino x Arsenal Femenino",
-    "image": "https://oddspedia.com/media/es/1x1/brighton-hove-albion-women-arsenal-women-7462956.png",
+    "name": "21:00 | Burgos x Leganés",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-429503911615110315-4241245890358311641.jpg",
     "stations": [
       {
-      "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
+      "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
       }
-] },
-   {
-    "name": "20:00 | Chelsea Femenino x Leicester Femenino",
-    "image": "https://api.sofascore.app/api/v1/event/11222940/share-image/16x9",
+
+
+
+] } ] },
+
+{
+  "name": "⚽️ Ligue 1 Francia",
+  "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
+  "groups": [ 
+    {
+    "name": "21:00 | Lens x Stade de Reims",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-7296614330851655424-6776159835892173948.jpg",
     "stations": [
       {
-      "url": ""
+      "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
+      },
+      {
+      "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
       }
 
 ] } ] },
@@ -300,28 +311,15 @@
   "image": "https://ciclismoepico.com/wp-content/uploads/2023/01/giro-italia-2023-recorrido-favoritos-perfiles-de-etapa-ciclismo-epico.jpg",
   "groups": [ 
     {
-    "name": "12:30, 15:15 | Giro de Italia. Etapa 5 Atripalda › Salerno (172 km)",
-    "image": "https://images11.eitb.eus/multimedia/images/2023/04/13/3087944/20230413183444_giroitalia2023perfiletapa_foto610x342.jpg",
+    "name": "11:00, 15:00 | Giro de Italia. Etapa 7. Capua › Gran Sasso d'Italia (Campo Imperatore) (218 km)",
+    "image": "https://static2.giroditalia.it/wp-content/uploads/2023/02/bjfMwCXJ4PBSJwnLkTYy_170423-012012.jpg?v=20230417152012",
     "stations": [
       {
       "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2"
       }
 
-] } ] },
 
-{
-  "name": "🎾 WTA 1000 Roma. 1ª Ronda",
-  "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/05/07/16834838127567.jpg",
-  "groups": [ 
-    {
-    "name": "19:00 | P. Badosa x A. Friedsam",
-    "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/tennis/10-05-2023-badosa-paula-friedsam-anna-lena.jpg",
-    "stations": [
-      {
-      "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
-      }
 
 ] } ] }
-
 
 ] } ] }
