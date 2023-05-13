@@ -386,7 +386,7 @@
   "image": "https://media.c5n.com/p/bdf0a6540f6fa4e269ef3601028b1acb/adjuntos/326/imagenes/000/190/0000190713/1200x675/smart/aston-villa-vs-tottenham-fecha-36-inglaterra-premier-league.png",
   "stations": [
     {
-    "url": ""
+    "url": "acestream://149a38e333de920753f1388c43247283bdb05f5b"
     }
 ] }, 
     {
@@ -394,7 +394,7 @@
     "image": "https://static.deportes13.cl/sites/default/files/styles/manualcrop_850x475/public/deportes13/field-imagen/629851.jpg.jpeg?itok=-P6PN-j8",
     "stations": [
     {
-    "url": ""
+    "url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a"
     }
 ] }, 
 {
@@ -402,10 +402,10 @@
   "image": "https://media.c5n.com/p/41b408ef33e5a1c3856cdb22e23b093e/adjuntos/326/imagenes/000/190/0000190715/1200x675/smart/manchester-united-vs-wolverhampton-fecha-36-inglaterra-premier-league.png",
   "stations": [
     {
-    "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
+    "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
     },
     {
-    "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
+    "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
     }
 ] }, 
 {
@@ -413,7 +413,7 @@
   "image": "https://tntsports.com.ar/__export/1683691685716/sites/tntsports/img/2023/05/10/20230510_010805244_629857_0.jpg_759710130.jpg",
   "stations": [
     {
-    "url": ""
+    "url": "acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612"
     }
 ] }, 
 {
@@ -520,7 +520,7 @@
     "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/soccer/14-05-2023-strasbourg-alsace-ogc-nice.jpg",
     "stations": [
       {
-      "url": ""
+      "url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"
       }
     ] },
     {
