@@ -528,9 +528,70 @@
       {
       "url": ""
       }
-    
+   
+] } ] },
 
+{
+  "name": "🏍 Moto G.P. Francia (Le Mans)",
+  "image": "https://phantom-marca.unidadeditorial.es/d454f8c96f2d8260daf6b75aabc1615d/resize/1320/f/jpg/assets/multimedia/imagenes/2023/05/12/16838748702912.png",
+  "groups": [ 
+    {
+    "name": "08:45, 14:00 | Red Bull MotoGP Rookies Cup Carrera 2",
+    "image": "https://www.movistarplus.es/recorte/n/fichaPeque/F4088941",
+    "stations": [
+      {
+      "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
+      },
+      {
+      "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
+      }
+ 
+] } ] },
 
+{
+  "name": "🏓 Pádel Vigo Open",
+  "image": "https://worldpadeltour.com/assets/themes/worldpadeltour.com/img/dynamic_torneos_cartel/95ce2cd35c.PNG",
+  "groups": [ 
+    {
+    "name": "10:00 Final Femenina",
+    "image": "https://www.movistarplus.es/recorte/n/caratula4/F4096061",
+    "stations": [
+      {
+      "url": "acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746"
+      },
+      {
+      "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+      },
+      {
+      "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+      }
+ 
+] } ] },
+
+{
+  "name": "🏓 Liga Endesa Banloncesto",
+  "image": "https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg",
+  "groups": [ 
+    {
+    "name": "12:00 | Liga Regular UCAM Murcia CB Bilbao Basket",
+    "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/basketball/13-05-2023-cb-murcia-bilbao-basket.jpg",
+    "stations": [
+      {
+      "url": ""
+      }
+] },
+{
+  "name": "13:30 | Liga Regular CB Gran Canaria x Real Madrid Baloncesto",
+  "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/08/16731760076333.jpg",
+  "stations": [
+    {
+    "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
+    },
+    {
+    "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+    }
+
+ 
 ] } ] }
 
 ] } ] }
