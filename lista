@@ -297,19 +297,16 @@
     "name": "21:00 | Leicester City x Liverpool",
     "image": "https://cdn.balonlatino.net/wp-content/uploads/2023/05/Template-Balon-Latino-30.jpg",
     "stations": [
-      {
+    {
       "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
       },
       {
       "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
       },
       {
-      "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
-      },
-      {
       "url": "acestream://5d6d526d37d5db6bd1d7aea6cd85a482234b256e"
       }
-
+ 
 ] } ] }
 
 ] } ] }
