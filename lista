@@ -306,7 +306,25 @@
       {
       "url": "acestream://5d6d526d37d5db6bd1d7aea6cd85a482234b256e"
       }
- 
+
+] } ] },
+
+{
+  "name": "⚽️ Serie A Italia",
+  "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
+  "groups": [ 
+    {
+    "name": "20:45 | Sampdoria vs Empoli",
+    "image": "https://www.infobae.com/new-resizer/qyCmVM1058tqymoxihyMmUaQaMc=/1024x512/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/Q4AOBI32KFBFFBDGQTMIMMBDLY.png",
+    "stations": [
+    {
+      "url": "acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff"
+      },
+      {
+      "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
+      }      
+      
+      
 ] } ] }
 
 ] } ] }
