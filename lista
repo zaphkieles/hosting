@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Domingo 14 MAY (Sec: Eventos diarios)",
+"author": "Domingo 15 MAY (Sec: Eventos diarios)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
 "imageScale": "",
@@ -257,53 +257,17 @@
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
   "groups": [ 
     {
-    "name": "14:00 | Celta de Vigo x Valencia CF",
-    "image": "https://www.mundodeportivo.com/guias-de-juego/wp-content/uploads/2023/05/Apuestas-Celta-Vigo-vs-Valencia-1.png",
+    "name": "21:00 | Real Betis x Rayo Vallecano",
+    "image": "https://www.betisweb.com/web/wp-content/uploads/2018/01/J-34-Real-Betis-vs-Rayo-Vallecano-.png",
     "stations": [
       {
       "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
       },
       {
       "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
-      }
-] },
-{
-    "name": "16:15 | Elche x Atlético de Madrid",
-    "image": "https://media.c5n.com/p/21665a863c90266e2beeb68cd36637db/adjuntos/326/imagenes/000/190/0000190970/790x0/smart/elche-vs-atletico-madrid-fecha-34-espana-primera-division.png",
-    "stations": [
-      {
-      "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
       },
       {
-      "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
-      },
-      {
-      "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
-      }
-] },
-{
-    "name": "18:30 | Real Valladolid x Sevilla",
-    "image": "https://www.mundodeportivo.com/guias-de-juego/wp-content/uploads/2023/05/Apuestas-Valladolid-vs-Sevilla-1.png",
-    "stations": [
-      {
-      "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
-      },
-      {
-      "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
-      }
-] },
-{
-    "name": "21:00 | RCD Espanyol x FC Barcelona",
-    "image": "https://cdn-az.allevents.in/events5/banners/47cc6bc35f22858d8633fff23c89ab8e67c631da9a0bc146552179793d8353a1-rimg-w1170-h1170-gmir.jpg?v=1683462235",
-    "stations": [
-      {
-      "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
-      },
-      {
-      "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
-      },
-      {
-      "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
+      "url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"
       }
 
 ] } ] },
@@ -313,65 +277,9 @@
   "image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
   "groups": [ 
     {
-    "name": "14:00 | Racing de Santander x SD Eibar",
-    "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/soccer/14-05-2023-racing-santander-sd-eibar.jpg",
+    "name": "21:00 | Levante x Ibiza",
+    "image": "https://www.grada3.com/wp-content/uploads/2023/05/LEVANTE-IBIZA.jpg",
     "stations": [
-      {
-      "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
-      },
-      {
-      "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
-      }
-] },
-{
-  "name": "16:15 | FC Andorra x Tenerife",
-  "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/soccer/14-05-2023-fc-andorra-tenerife-cd.jpg",
-  "stations": [
-      {
-      "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
-      },
-      {
-      "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
-      }
-] },
-{
-  "name": "18:30 | Albacete x Alavés",
-  "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/soccer/14-05-2023-albacete-balompie-deportivo-alaves.jpg",
-  "stations": [
-      {
-      "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
-      },
-      {
-      "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
-      },
-      {
-      "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
-      },
-      {
-      "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
-      }
-] },
-{
-  "name": "18:30 | SD Huesca x Ponferradina",
-  "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/soccer/14-05-2023-sd-huesca-sd-ponferradina.jpg",
-  "stations": [
-      {
-      "url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342"
-      },
-      {
-      "url": "acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
-      },  
-      {
-      "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
-      },
-      {
-      "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
-      }
-] },      
-{
-  "name": "21:00 | UD Las Palmas x Villarreal B",
-  "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/soccer/14-05-2023-ud-las-palmas-villarreal-cf-b.jpg",
-  "stations": [
       {
       "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
       },
@@ -386,212 +294,22 @@
   "image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg",
   "groups": [ 
     {
-    "name": "15:00 | Brentford x West Ham",
-    "image": "https://media.c5n.com/p/1ea4e982725c9c4526343a179a7d11ef/adjuntos/326/imagenes/000/163/0000163833/1200x675/smart/west-ham-united-vs-brentford-fecha-18-inglaterra-premier-league.png",
-    "stations": [
-      {
-      "url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a"
-      }
-] }, 
-{
-  "name": "15:00 | Everton x Manchester City",
-  "image": "https://images.daznservices.com/di/library/DAZN_News/8e/8d/everton-vs-manchester-city_ceu7o1e9e3pa1cb3j57fvd8a4.png?t=1339688568&quality=60&w=1280&h=720",
-  "stations": [
-      {
-    "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
-      },
-      {
-    "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
-      }
-] }, 
-    {
-    "name": "17:30 | Arsenal x Brighton",
-    "image": "https://media.tycsports.com/files/2023/05/11/566847/arsenal-vs-brighton-and-hove-en-vivo-como-llegan-al-partido_862x485.webp",
-    "stations": [
-    {
-    "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
-    },
-    {
-    "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
-    }
-
-
-] } ] },
-
-{
-  "name": "⚽️ Serie A Italia",
-  "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
-  "groups": [ 
-    {
-    "name": "18:00 | Bolonia x Roma",
-    "image": "https://static.sportytrader.com/betting-tip-thumbnail/prod/143035.webp",
-    "stations": [
-      {
-      "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
-      },
-      {
-      "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
-      },
-      {
-      "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
-      }
-] },
-{
-  "name": "20:45 | Juventus x Cremonese",
-  "image": "https://footballwhispers.com/wp-content/uploads/2023/05/Juventus-Cremonese-Pronostico.jpg",
-  "stations": [
-      {
-      "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
-      },
-      {
-      "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
-      },
-      {
-      "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
-      }
-
-
-] } ] },
-
-{
-  "name": "⚽️ Bundesliga",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",
-  "groups": [ 
-    {
-    "name": "15:30 | Stuttgart x Bayer Leverkusen ",
-    "image": "https://media.tycsports.com/files/2023/05/12/567294/stuttgart-vs-bayer-leverkusen-en-vivo-como-llegan-al-partido_862x485_wmk.webp",
-    "stations": [
-      {
-      "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
-      },
-      {
-      "url": "acestream://2bac25f323be1de8208d6554337c2c8256bc32bc"
-      },
-      {
-      "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
-      }
-] },
-{
-  "name": "17:30 | RB Leipzig x Werder Bremen",
-  "image": "https://media.tycsports.com/files/2023/05/12/567325/rb-leipzig-vs-werder-bremen-en-vivo-como-llegan-al-partido_862x485.webp",
-  "stations": [
-    {
-    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
-    },
-    {
-    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
-    }
-
-
-] } ] },
-
-{
-  "name": "⚽️ Ligue 1 Francia",
-  "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
-  "groups": [ 
-    {
-    "name": "20:45 | Marsella x Angers SCO",
-    "image": "https://api.sofascore.app/api/v1/event/10389925/share-image/16x9",
-    "stations": [
-      {
-      "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
-      },
-      {
-      "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
-      }
-
-
-] } ] },
-
-{
-  "name": "⚽️ Championship",
-  "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
-  "groups": [ 
-    {
-    "name": "13:00 | Coventry City x Middlesbrough",
-    "image": "https://premierleaguebrasil.com.br/wp-content/uploads/2023/05/Coventry-City-x-Middlesbrough-palpite-1024x576.jpg",
-    "stations": [
-      {
-      "url": ""
-      }
-    
-] } ] },
-
-{
-  "name": "⚽️ Women's FA CUP (sin eventos)",
-  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-_UqsauZiaAfIgg7eVDwbDA1DPLpSp6zxeiOarf0bhFWsdTnX",
-  "groups": [ 
-    {
-    "name": "15:30 | Chelsea Femenino x Manchester Utd. Femenino",
-    "image": "https://www.lavoz.com.ar/resizer/45RaVq0Ktp4YYdoa889QttNNzuE=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/WYAATINOW5FRVLAMQSH3FMKS6I.jpg",
-    "stations": [
-      {
-      "url": ""
-      }
-   
-] } ] },
-
-{
-  "name": "🏍 Moto G.P. Francia (Le Mans)",
-  "image": "https://phantom-marca.unidadeditorial.es/d454f8c96f2d8260daf6b75aabc1615d/resize/1320/f/jpg/assets/multimedia/imagenes/2023/05/12/16838748702912.png",
-  "groups": [ 
-    {
-    "name": "08:45, 14:00 | Red Bull MotoGP Rookies Cup Carrera 2",
-    "image": "https://www.movistarplus.es/recorte/n/fichaPeque/F4088941",
+    "name": "21:00 | Leicester City x Liverpool",
+    "image": "https://cdn.balonlatino.net/wp-content/uploads/2023/05/Template-Balon-Latino-30.jpg",
     "stations": [
       {
       "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
       },
       {
       "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
-      }
- 
-] } ] },
-
-{
-  "name": "🏓 Pádel Vigo Open",
-  "image": "https://worldpadeltour.com/assets/themes/worldpadeltour.com/img/dynamic_torneos_cartel/95ce2cd35c.PNG",
-  "groups": [ 
-    {
-    "name": "10:00 Final Femenina",
-    "image": "https://www.movistarplus.es/recorte/n/caratula4/F4096061",
-    "stations": [
-      {
-      "url": "acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746"
       },
       {
-      "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+      "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
       },
       {
-      "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+      "url": "acestream://5d6d526d37d5db6bd1d7aea6cd85a482234b256e"
       }
- 
-] } ] },
 
-{
-  "name": "🏓 Liga Endesa Banloncesto",
-  "image": "https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg",
-  "groups": [ 
-    {
-    "name": "12:00 | Liga Regular UCAM Murcia CB Bilbao Basket",
-    "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/basketball/13-05-2023-cb-murcia-bilbao-basket.jpg",
-    "stations": [
-      {
-      "url": ""
-      }
-] },
-{
-  "name": "13:30 | Liga Regular CB Gran Canaria x Real Madrid Baloncesto",
-  "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/01/08/16731760076333.jpg",
-  "stations": [
-    {
-    "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
-    },
-    {
-    "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
-    }
-
- 
 ] } ] }
 
 ] } ] }
