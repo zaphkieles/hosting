@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Martes 16 MAY (Sec: Eventos diarios)",
+"author": "Miércoles 17 MAY (Sec: Eventos diarios)",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
 "imageScale": "",
@@ -256,8 +256,8 @@
   "image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
   "groups": [ 
     {
-    "name": "21:00 | Inter de Milán x AC Milan. Semifinales",
-    "image": "https://fotografias.larazon.es/clipping/cmsimages02/2023/05/07/CCB99402-3EFD-47BB-B349-C99EEBEBEB28/champions-milan-inter_98.jpg?crop=1905,1072,x4,y0&width=1900&height=1069&optimize=low&format=webply",
+    "name": "21:00 | Manchester City x Real Madrid",
+    "image": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2023/04/real-madrid-manchester-city.jpeg",
     "stations": [
     {
       "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
@@ -276,8 +276,8 @@
   "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
   "groups": [ 
     {
-    "name": "21:00 | Luton Town x Sunderland. Semifinal Playoffs",
-    "image": "https://assets-es.imgfoot.com/match-cover-es-4225040721319998022-385356404710813149.jpg",
+    "name": "21:00 | Middlesbrough x Coventry City. Semifinales Playoff",
+    "image": "https://assets-es.imgfoot.com/match-cover-es-7140547604165444453-747032106342204943.jpg",
     "stations": [
     {
       "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
@@ -295,19 +295,16 @@
 ] } ] },
 
 {
-  "name": "⚽️ liga arabia saudita",
-  "image": "https://www.fansclubchivas.com/wp-content/uploads/2023/01/1-23.png.webp",
+  "name": "⚽️ Europeo Sub-17 Femenino",
+  "image": "https://img.uefa.com/imgml/uefacom/womensunder17/social/og-default.jpg",
   "groups": [ 
     {
-    "name": "20:30 | Al-Tai FC x Al Nassr",
-    "image": "https://api.sofascore.app/api/v1/event/10913391/share-image/16x9",
+    "name": "18:00 | España x Suiza. Fase grupos",
+    "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/11/14/5fbb9398caa39.jpeg",
     "stations": [
     {
-      "url": "acestream://c95422bc904378be0b035eba721d5e6a004f7d79"
-      },
-      {
-      "url": "acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f"
-      }      
+      "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
+      }     
      
 ] } ] }
 
