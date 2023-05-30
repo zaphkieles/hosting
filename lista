@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "MAR, 30/MAY",
+"author": "MIE, 31/MAY",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
 "imageScale": "",
@@ -252,29 +252,75 @@
   "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
   "groups": [
 {
-  "name": "🎾 Liga endesa",
+  "name": "🎾 Roland Garros",
+  "image": "https://media.tycsports.com/files/2023/05/26/573598/roland-garros_1440x810_wmk.webp?v=1",
+  "groups": [ 
+    {
+      "name": "11:00 | Roland Garros 2ª Ronda (Suzanne Lenglen) Grand Slam R. Carballés x S. Tsitsipas",
+      "image": "",
+      "stations": [
+        {
+        "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
+        }
+] },
+    {
+      "name": "15:00 | Roland Garros 2ª Ronda (Pista 13) Grand Slam R. Bautista-Agut x JP. Varillas",
+      "image": "",
+      "stations": [
+        {
+        "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
+        }
+] },
+    {
+      "name": "15:15 | Roland Garros 2ª Ronda Philippe Chatrier Grand Slam. C. Alcaraz x T. Daniel",
+      "image": "",
+      "stations": [
+        {
+        "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2"
+        }
+] },
+    {
+      "name": "16:30 | Roland Garros 2 Ronda (Pista 14) Grand Slam L. Van Assche x A. Davidovich",
+      "image": "",
+      "stations": [
+        {
+        "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
+        }
+
+] } ] },
+
+{
+  "name": "⚽️ Europa League",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png",
+  "groups": [ 
+    {
+      "name": "21:00 | Europa League. Final. Sevilla FC xAS Roma",
+      "image": "",
+      "stations": [
+        {
+        "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+        },
+        {
+        "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
+        }
+
+] } ] },
+
+{
+  "name": "🎾 Liga Endesa",
   "image": "https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg",
   "groups": [ 
     {
-    "name": "21:00 | 1/4 Final | Joventut Badalona x Cazoo Baskonia",
-    "image": "https://www.movistarplus.es/recorte/n/caratula4/F4103458",
-    "stations": [
-      {
-      "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
-      },
-      {
-      "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
-      },
-      {
-      "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
-      },
-      {
-      "url": "aaaacestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486"
-      },
-      {
-      "url": "aaaaacestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
-      }  
-     
-] } ] }
+      "name": "21:00 | Liga Endesa Playoffs 1/4 Final CB Gran Canaria x Real Madrid Baloncesto",
+      "image": "",
+      "stations": [
+        {
+        "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
+        },
+        {
+        "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+        }
 
+] } ] }
+    
 ] } ] }
