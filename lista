@@ -309,6 +309,24 @@
     "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
     }
 
+] } ] },
+
+{
+  "name": "⚽️ Serie A Italia",
+  "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
+  "groups": [
+  {
+  "name": "18:30 |Torino x InterInter",
+  "image": "",
+  "info": "",
+  "stations": [
+    {
+    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+    },
+    {
+    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
+    }
+
 
 ] } ] }
 
