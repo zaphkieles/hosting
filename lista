@@ -364,6 +364,26 @@
     {
     "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
     }
+
+] } ] }
+
+{
+      "name": "⚽️ FA CUP",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",
+      "groups": [
+      {
+      "name": "16:00 | Manchester City x Manchester United",
+      "image": "",
+      "info": "",
+      "stations": [
+        {
+        "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
+        },
+        {
+        "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
+        }
+        
+
     
 ] } ] }
 
