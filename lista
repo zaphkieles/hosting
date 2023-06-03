@@ -328,7 +328,30 @@
     }
 
 
+] } ] },
+
+{
+  "name": "⚽️ Champions League Femenina",
+  "image": "https://estaticos-cdn.sport.es/clip/e1871120-090c-464b-82a8-29fe66ec8a4b_source-aspect-ratio_default_0.jpg",
+  "groups": [
+  {
+  "name": "16:00 | FC Barcelona Femenino x Wolfsburgo Femenino. Final",
+  "image": "",
+  "info": "",
+  "stations": [
+    {
+    "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
+    },
+    {
+    "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
+    },
+    {
+    "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+    }
+
+
 ] } ] }
+
 
 
 ] } ] }
