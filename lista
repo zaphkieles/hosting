@@ -291,6 +291,25 @@
         "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
         }
 
+] } ] },
+
+{
+  "name": "⚽️ LaLiga SmartBank",
+  "image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
+  "groups": [
+  {
+  "name": "18:30 |Torino x InterInter",
+  "image": "",
+  "info": "",
+  "stations": [
+    {
+    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+    },
+    {
+    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
+    }
+
+
 ] } ] }
 
 
