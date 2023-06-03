@@ -348,10 +348,23 @@
     {
     "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
     }
-
-
+] } ] },
+{
+  "name": "⚽️ Copa Alemania",
+  "image": "https://img.planetafobal.com/2016/06/dfb-pokal-new-logo-2016.jpg",
+  "groups": [
+  {
+  "name": "20:00 |Leipzig x Eintracht Frankfurt. Final",
+  "image": "",
+  "info": "",
+  "stations": [
+    {
+    "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+    },
+    {
+    "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
+    }
+    
 ] } ] }
-
-
 
 ] } ] }
