@@ -256,26 +256,8 @@
       "image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
       "groups": [
       {
-      "name": "18:30 | SD Eibar x Alavés. Semifinal Playoff",
-      "image": "",
-      "info": "",
-      "stations": [
-        {
-        "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
-        },
-        {
-        "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
-        },
-        {
-        "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
-        },
-        {
-        "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
-        }
-] },
-      {
-      "name": "21:00 | Albacete x Levante. Semifinal Playoff",
-      "image": "",
+      "name": "21:00 | Levante x Albacete",
+      "image": "https://www.grada3.com/wp-content/uploads/2023/06/LEVANTE-ALBA.jpg",
       "info": "",
       "stations": [
         {
@@ -294,68 +276,12 @@
 ] } ] },
 
 {
-  "name": "⚽️ Serie A Italia",
-  "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
+  "name": "⚽️ UEFA Europa Conference League",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png",
   "groups": [
   {
-  "name": "18:30 |Torino x InterInter",
-  "image": "",
-  "info": "",
-  "stations": [
-    {
-    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
-    },
-    {
-    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
-    }
-
-] } ] },
-
-{
-  "name": "⚽️ Ligue 1 Francia",
-  "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
-  "groups": [
-  {
-  "name": "21:00 | PSG x Clermont",
-  "image": "",
-  "info": "",
-  "stations": [
-    {
-    "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
-    },
-    {
-    "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
-    }
-
-
-] } ] },
-
-{
-  "name": "⚽️ Champions League Femenina",
-  "image": "https://estaticos-cdn.sport.es/clip/e1871120-090c-464b-82a8-29fe66ec8a4b_source-aspect-ratio_default_0.jpg",
-  "groups": [
-  {
-  "name": "16:00 | FC Barcelona Femenino x Wolfsburgo Femenino. Final",
-  "image": "",
-  "info": "",
-  "stations": [
-    {
-    "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
-    },
-    {
-    "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
-    },
-    {
-    "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
-    }
-] } ] },
-{
-  "name": "⚽️ Copa Alemania",
-  "image": "https://img.planetafobal.com/2016/06/dfb-pokal-new-logo-2016.jpg",
-  "groups": [
-  {
-  "name": "20:00 |Leipzig x Eintracht Frankfurt. Final",
-  "image": "",
+  "name": "21:00 | ACF Fiorentina x West Ham",
+  "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/soccer/07-06-2023-acf-fiorentina-west-ham-united.jpg",
   "info": "",
   "stations": [
     {
@@ -365,26 +291,28 @@
     "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
     }
 
+
 ] } ] },
 
 {
-      "name": "⚽️ FA CUP",
-      "image": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",
-      "groups": [
-      {
-      "name": "16:00 | Manchester City x Manchester United",
-      "image": "",
-      "info": "",
-      "stations": [
-        {
-        "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
-        },
-        {
-        "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
-        }
-        
+  "name": "🎾 Liga Endesa",
+  "image": "https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg",
+  "groups": [
+  {
+  "name": "21:00 | Barça Basket x Unicaja Málaga",
+  "image": "https://imgmedia.larepublica.pe/640x377/larepublica/original/2023/06/05/647e810533f8ab508040bf6d.webp",
+  "info": "",
+  "stations": [
+    {
+    "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
+    },
+    {
+    "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+    },
+    {
+    "url": "acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486"
+    }
 
-    
 ] } ] }
 
 ] } ] }
