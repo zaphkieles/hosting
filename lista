@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Mié, 07 JUNIO",
+"author": "Vie, 09 JUNIO",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
 "imageScale": "",
@@ -252,47 +252,22 @@
   "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
   "groups": [
     {
-      "name": "⚽️ LaLiga SmartBank",
-      "image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
+      "name": "🎾 Roland Garros",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Roland_Garros_2012_-_Roland_Garros_logo_%288754295763%29.jpg/1200px-Roland_Garros_2012_-_Roland_Garros_logo_%288754295763%29.jpg",
       "groups": [
       {
-      "name": "21:00 | Levante x Albacete",
-      "image": "https://www.grada3.com/wp-content/uploads/2023/06/LEVANTE-ALBA.jpg",
-      "info": "",
+      "name": "14:45 | Semifinal masculina. Grand Slam. C. Alcaraz x N. Djokovic (DMAX en abierto)",
       "stations": [
         {
-        "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+        "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2"
         },
         {
-        "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
-        },
-        {
-        "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
-        },
-        {
-        "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+        "url": "acestream://ff3ec08b3af26c5c545c45e82cda6f4382780512"
         }
 
-] } ] },
-
-{
-  "name": "⚽️ UEFA Europa Conference League",
-  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png",
-  "groups": [
-  {
-  "name": "21:00 | ACF Fiorentina x West Ham",
-  "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/soccer/07-06-2023-acf-fiorentina-west-ham-united.jpg",
-  "info": "",
-  "stations": [
-    {
-    "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
-    },
-    {
-    "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
-    }
-
 
 ] } ] },
+
 
 {
   "name": "🎾 Liga Endesa",
@@ -304,13 +279,10 @@
   "info": "",
   "stations": [
     {
-    "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
+    "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
     },
     {
-    "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
-    },
-    {
-    "url": "acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486"
+    "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
     }
 
 ] } ] }
