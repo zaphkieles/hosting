@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Vie, 09 JUNIO",
+"author": "Sáb, 10 JUNIO",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
 "imageScale": "",
@@ -252,37 +252,38 @@
   "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
   "groups": [
     {
-      "name": "🎾 Roland Garros",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Roland_Garros_2012_-_Roland_Garros_logo_%288754295763%29.jpg/1200px-Roland_Garros_2012_-_Roland_Garros_logo_%288754295763%29.jpg",
+      "name": "⚽️ Champions League",
+      "image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
       "groups": [
       {
-      "name": "14:45 | Semifinal masculina. Grand Slam. C. Alcaraz x N. Djokovic (DMAX en abierto)",
+      "name": "21:00 | Manchester City x Inter Milan. Final (La 1 En Abierto)",
+      "image": "https://phantom-marca.unidadeditorial.es/b9179f9fa851840ca1d85f6c3f7ebdde/resize/828/f/jpg/assets/multimedia/imagenes/2023/06/09/16863250522603.jpg",
       "stations": [
         {
-        "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2"
+        "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
         },
         {
-        "url": "acestream://ff3ec08b3af26c5c545c45e82cda6f4382780512"
+        "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
         }
 
-
 ] } ] },
-
-
+   
 {
-  "name": "🎾 Liga Endesa",
-  "image": "https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg",
+  "name": "🏍 Moto GP",
+  "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/06/09/16862983861624.jpg",
   "groups": [
   {
-  "name": "21:00 | Barça Basket x Unicaja Málaga",
-  "image": "https://imgmedia.larepublica.pe/640x377/larepublica/original/2023/06/05/647e810533f8ab508040bf6d.webp",
-  "info": "",
+  "name": "10:50 | Clasificación - 15:00 | Sprint ",
+  "image": "https://phantom-marca.unidadeditorial.es/b9179f9fa851840ca1d85f6c3f7ebdde/resize/828/f/jpg/assets/multimedia/imagenes/2023/06/09/16863250522603.jpg",
   "stations": [
     {
-    "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+    "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
     },
     {
-    "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+    "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
+    },
+    {
+    "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
     }
 
 ] } ] }
