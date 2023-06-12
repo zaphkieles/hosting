@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Dom, 11 JUNIO",
+"author": "Lun, 12 JUNIO",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
 "imageScale": "",
@@ -251,53 +251,27 @@
   "name": "Eventos diarios (tarda un poco en cargar los videos)",
   "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
   "groups": [
-     
+
 {
-  "name": "🏍 Moto GP. Italia Mugello",
-  "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/06/09/16862983861624.jpg",
+  "name": "🎾 Torneo de stuttgart. 1ª Ronda. ATP 250",
+  "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/IUM2XIQM3JCMVH35ODZYQWJDQU.jpg",
   "groups": [
   {
-  "name": "14:00 | Carrera (en abierto TVE1)",
-  "image": "https://phantom-marca.unidadeditorial.es/b9179f9fa851840ca1d85f6c3f7ebdde/resize/828/f/jpg/assets/multimedia/imagenes/2023/06/09/16863250522603.jpg",
+  "name": "17:00 | F. López x Y. Watanuki",
+  "image": "https://tennistonic.com/wp-content/uploads/2023/06/Monday-Live-Streaming-Yosuke-Watanuki-vs-Feliciano-Lopez.jpg",
   "stations": [
     {
-    "url": "acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842"
-    },
-    {
-    "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
-    },
-    {
-    "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
-    },
-    {
-    "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+    "url": ""
     }
 
 ] } ] },
 
 {
-  "name": "🎾 Roland Garros. Final masculina.Grand Slam",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Roland_Garros_2012_-_Roland_Garros_logo_%288754295763%29.jpg/1200px-Roland_Garros_2012_-_Roland_Garros_logo_%288754295763%29.jpg",
+  "name": "🏀 Liga Endesa",
+  "image": "https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg",
   "groups": [
   {
-  "name": "15:00 | N. Djokovic x C. Ruud",
-  "image": "https://phantom-marca.unidadeditorial.es/b9179f9fa851840ca1d85f6c3f7ebdde/resize/828/f/jpg/assets/multimedia/imagenes/2023/06/09/16863250522603.jpg",
-  "stations": [
-    {
-    "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2"
-    },
-    {
-    "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62"
-    }    
-
-] } ] },
-
-{
-  "name": "⚽️ LaLiga SmartBank",
-  "image": "https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj",
-  "groups": [
-  {
-  "name": "21:00 | Alavés x Levante (Playoff)",
+  "name": "21:00 | Juventut Badalona x Real Madrid baloncesto (semifinales)",
   "image": "https://cache.koobin.com/cache/deportivoalaves/53e315c05bfff5dad82240db8a47ac59_PARTIDOS_KOOBIN_DA_LEVANTE_1200_630_crop_1.jpg?v=v23160.1202008031520",
   "stations": [
     {
@@ -307,10 +281,10 @@
     "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
     },
     {
-    "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
+    "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
     },
     {
-    "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+    "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
     }
 
 ] } ] }
