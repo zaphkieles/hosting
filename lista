@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Sin actualiz. interesados,x privado",
+"author": "20 Junio",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
 "imageScale": "",
@@ -248,9 +248,61 @@
 
 
 {
-  "name": "Eventos diarios (Sin eventos)",
-  "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
-  "groups": [
+"name": "Eventos diarios",
+"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
+"groups": [
 
-    
+{
+"name": "🎾 Torneo de Queen's- 1ª Ronda. ATP 500",
+"image": "https://ichef.bbci.co.uk/images/ic/640x360/p0fvlxbf.jpg",
+"groups": [
+      {
+      "name": "14:30 | C. Alcaraz x A. Fils",
+      "image": "https://staticc.sportskeeda.com/editor/2023/06/d54bf-16871181661068-1920.jpg?w=840",
+      "stations": [
+      {
+      "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
+      },
+      {
+      "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      }
+     
+] },
+
+{
+  "name": "17:30 | B. Zapata x T. Fritz",
+  "image": "https://staticc.sportskeeda.com/editor/2023/06/f9e37-16870177679373-1920.jpg?w=840",
+  "stations": [
+      {
+      "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
+      },
+      {
+      "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+      }
+
+] } ] },
+
+{
+  "name": "🎾 Liga Endesa. Final",
+  "image": "https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg",
+  "groups": [ 
+    {
+      "name": "21:00 | Real Madrid Baloncesto x Barça Basket",
+      "image": "https://i.ytimg.com/vi/ojM5Um-p7y4/maxresdefault.jpg",
+      "stations": [
+        {
+        "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+        },
+        {
+        "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+        },
+        {
+        "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
+        },
+        {
+        "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+        }
+
+] } ] }
+
 ] } ] }
