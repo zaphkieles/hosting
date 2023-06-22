@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Actualiz: JUEVES 22 Junio",
+"author": "Actualiz: Viernes 23 Junio",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
 "imageScale": "",
@@ -253,12 +253,26 @@
 "groups": [
 
 {
-"name": "🎾 Torneo de Queen's. ATP 500",
+"name": "🎾 Torneo de Halle. 1/4 de Final. ATP 500",
+"image": "https://vod.roams.es/images/post/es_ES_vod/deportes-tenis-halle.svg",
+"groups": [
+      {
+      "name": "15:00 | D. Medvedev x R. Bautista-Agut",
+      "image": "https://static.sportytrader.com/betting-tip-thumbnail/prod/146712.webp",
+      "stations": [
+      {
+      "url": "acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5"
+      }
+
+] } ] },
+
+{
+"name": "🎾 Torneo de Queen's. 1/4 de Final. ATP 500",
 "image": "https://ichef.bbci.co.uk/images/ic/640x360/p0fvlxbf.jpg",
 "groups": [
       {
-      "name": "16:00 | C. Alcaraz x J. Lehecka. 2ª Ronda",
-      "image": "https://staticc.sportskeeda.com/editor/2023/06/d54bf-16871181661068-1920.jpg?w=840",
+      "name": "17:30 | C. Alcaraz x G. Dimitrov",
+      "image": "https://phantom-marca.unidadeditorial.es/0c61d9b96834f4f4f7e5831509ba1948/resize/414/f/webp/assets/multimedia/imagenes/2023/04/30/16828664398553.jpg",
       "stations": [
       {
       "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
@@ -266,21 +280,8 @@
       {
       "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
       }
-     
+          
 
-] } ] },
-
-{
-  "name": "🏀 Eurobasket Femenino. 1/4 de Final",
-  "image": "https://apuestas.marathonbet.es/wp-content/uploads/2022/08/Pronosticos-EuroBasket.webp",
-  "groups": [ 
-    {
-      "name": "20:45 | España x Alemania",
-      "image": "https://cdn.scores24.live/static/es/repost-previews/scores24/match/basketball/22-06-2023-spain-germany.jpg",
-      "stations": [
-        {
-        "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
-        }
 ] } ] }
 
 ] } ] }
