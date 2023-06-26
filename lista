@@ -1,6 +1,6 @@
 {
 "name": "Zaphkiel_ES",
-"author": "Actualiz: Viernes 23 Junio",
+"author": "Actualiz: Martes 27 Junio",
 "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
 "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
 "imageScale": "",
@@ -253,34 +253,18 @@
 "groups": [
 
 {
-"name": "🎾 Torneo de Halle. 1/4 de Final. ATP 500",
-"image": "https://www.movistarplus.es/recorte/n/caratula4/F4103272",
+"name": "🎾 Torneo de Mallorca. 1ª Ronda. ATP 250",
+"image": "https://mallorcamusicmagazine.com/wp-content/uploads/Mallorca-Championships-2023-FB.jpg",
 "groups": [
       {
-      "name": "15:00 | D. Medvedev x R. Bautista-Agut",
-      "image": "https://static.sportytrader.com/betting-tip-thumbnail/prod/146712.webp",
+      "name": "12:00 | 15:00 ",
+      "image": "",
       "stations": [
       {
-      "url": "acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5"
+      "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
       }
 
-] } ] },
-
-{
-"name": "🎾 Torneo de Queen's. 1/4 de Final. ATP 500",
-"image": "https://ichef.bbci.co.uk/images/ic/640x360/p0fvlxbf.jpg",
-"groups": [
-      {
-      "name": "17:30 | C. Alcaraz x G. Dimitrov",
-      "image": "https://phantom-marca.unidadeditorial.es/0c61d9b96834f4f4f7e5831509ba1948/resize/414/f/webp/assets/multimedia/imagenes/2023/04/30/16828664398553.jpg",
-      "stations": [
-      {
-      "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
-      },
-      {
-      "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
-      }
-          
+       
 
 ] } ] }
 
