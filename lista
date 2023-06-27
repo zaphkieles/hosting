@@ -1,6 +1,6 @@
 {
       "name": "Zaphkiel_ES",
-      "author": "Actualiz: Martes 27 Junio",
+      "author": "Actualiz: Miércoles 28 Junio",
       "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
       "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
       "imageScale": "",
@@ -253,25 +253,18 @@
       "groups": [
       
       {
-      "name": "🎾 Torneo de Mallorca. 1ª Ronda. ATP 250",
+      "name": "🎾 Torneo de Mallorca. 2ª Ronda. ATP 250",
       "image": "https://mallorcamusicmagazine.com/wp-content/uploads/Mallorca-Championships-2023-ATP250.jpg.webp",
       "groups": [
             {
-            "name": "12:00 | A. Rinderknech x A. Ramos",
+            "name": "17:00 | F. López x J. Thompson",
             "image": "",
             "stations": [
             {
             "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
             }
       
-      ] },
-      {
-            "name": "16:00 | F. López x M. Purcell",
-            "image": "",
-            "stations": [
-            {
-            "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
-            }
+      
                 
       
       ] } ] }
