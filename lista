@@ -1,6 +1,6 @@
 {
       "name": "Zaphkiel_ES",
-      "author": "Actualiz: Miércoles 28 Junio",
+      "author": "Actualiz: Lunes 3 Julio",
       "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
       "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
       "imageScale": "",
@@ -253,19 +253,74 @@
       "groups": [
       
       {
-      "name": "🎾 Torneo de Mallorca. 2ª Ronda. ATP 250",
-      "image": "https://mallorcamusicmagazine.com/wp-content/uploads/Mallorca-Championships-2023-ATP250.jpg.webp",
+      "name": "🎾Wimbledon. 1ª Ronda. Grand Slam",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Wimbledon.svg/640px-Wimbledon.svg.png",
       "groups": [
             {
-            "name": "17:00 | F. López x J. Thompson",
+            "name": "12:00 | C. Bucsa x K. Rakhimova (Pista 10)",
             "image": "",
             "stations": [
             {
-            "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
+            "url": "acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746"
             }
-      
-      
-                
+      ] },
+      {
+            "name": "13:30 | A. Ramos x H. Hurkacz (Pista 18)",
+            "image": "",
+            "stations": [
+            {
+            "url": ""
+            }
+      ] },
+      {
+            "name": "13:30 | J. Isner x J. Munar (Pista 16)",
+            "image": "",
+            "stations": [
+            {
+            "url": ""
+            }
+      ] },
+      {
+            "name": "14:00 | M. Trevisan x S. Sorribes (Pista 6)",
+            "image": "",
+            "stations": [
+            {
+            "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+            },
+            {
+            "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
+            }
+      ] },      
+      {
+            "name": "15:30 | R. Safiullin x R. Bautista-Agut (Pista 10)",
+            
+            "image": "",
+            "stations": [
+            {
+            "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+            },
+            {
+            "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
+            }      
+      ] },  
+            {
+            "name": "15:30 | R. Masarova x M. Sherif (Pista 4)",
+            "image": "",
+            "stations": [
+            {
+            "url": "acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746"
+            }              
+      ] },  
+            {
+            "name": "18:00 | TM. Etcheverry x B. Zapata (Pista 6)",
+            "image": "",
+            "stations": [
+            {
+            "url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"
+            },
+            {
+            "url": "acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0"
+            }  
       
       ] } ] }
       
