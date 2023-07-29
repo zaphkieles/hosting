@@ -259,22 +259,9 @@
   "name": "23:00 | Real Madrid x FC Barcelona",
   "image": "https://phantom-marca.unidadeditorial.es/c71d41ea516b86f9d648a56147e9427f/resize/1200/assets/multimedia/imagenes/2023/07/29/16906548458658.jpg",
   "stations": [
-    
-    {
-    "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
-    },
     {
     "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
-    },
-    {
-    "url": "acestream://16150dafbbd4515a8b539a8e21e0f083f86416da"
-    },
-    {
-    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
-    },      
-    {
-    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
-    },
+    }
        
 ] } ] }
 ] } ] }
