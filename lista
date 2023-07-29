@@ -247,12 +247,30 @@
       ] } ] },
       
       
-      {
-      "name": "Eventos diarios",
-      "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
-      "groups": [
+{
+"name": "Eventos diarios",
+"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
+"groups": [
+{
+"name": "⚽️ Mundial. Amistosos",
+"image": "https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-04/Al%20Rihla.png.webp?itok=dppynVAd",
+"groups": [
+  {
+  "name": "23:00 | Real Madrid x FC Barcelona",
+  "image": "https://phantom-marca.unidadeditorial.es/c71d41ea516b86f9d648a56147e9427f/resize/1200/assets/multimedia/imagenes/2023/07/29/16906548458658.jpg",
+  "stations": [
+    {
+    "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+    },      
+    {
+    "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
+    },
+    {
+    "url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442"
+    }
+
+    
       
-      
-      
-      ] } ] }
+] } ] }
+] } ] }
       
