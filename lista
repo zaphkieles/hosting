@@ -1,6 +1,6 @@
 {
       "name": "Zaphkiel_ES",
-      "author": "Sábado, 29 Julio",
+      "author": "Domingo, 30 Julio",
       "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
       "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
       "imageScale": "",
@@ -251,18 +251,53 @@
 "name": "Eventos diarios",
 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
 "groups": [
+
+{
+"name": "🏎 Fórmula 1",
+"image": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg",
+"groups": [
+  {
+  "name": "15:00 | G.P. Bélgica (Spa) Carrera",
+  "image": "https://img.asmedia.epimg.net/resizer/Mtdv5JpYd_u9l74Xq4OITVbZTuM=/1472x1104/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/2J2KBLD4UBHHRELGPYZ7TFZS44.jpg",
+  "stations": [
+    {
+    "url": ""
+    }
+] } ] },
+  
 {
 "name": "⚽️ Mundial. Amistosos",
 "image": "https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-04/Al%20Rihla.png.webp?itok=dppynVAd",
 "groups": [
   {
-  "name": "23:00 | Real Madrid x FC Barcelona",
-  "image": "https://phantom-marca.unidadeditorial.es/c71d41ea516b86f9d648a56147e9427f/resize/1200/assets/multimedia/imagenes/2023/07/29/16906548458658.jpg",
+  "name": "13:00 |Manchester City x Atlético de Madrid",
+  "image": "https://gainblers.com/imagenes/pronosticos/2023/07/pronostico-manchester-city-atletico-madrid-30-07-2023.jpeg",
   "stations": [
     {
-    "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
+    "url": ""
     }
-       
+] } ] },
+
+{
+"name": "⚽️ Premier League Summer Series",
+"image": "https://nbcsports.brightspotcdn.com/dims4/default/f7a529a/2147483647/strip/true/crop/779x438+62+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F0e%2F16%2F189efc1a2c3e7bc57631ab2bedac%2Fpremier-league-summer-series-2023.png",
+"groups": [
+  {
+  "name": "18:00 | Aston Villa x Brentford",
+  "image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1436121669062_image-header_pEs_1688486679000&quality=70",
+  "stations": [
+    {
+    "url": ""
+    }
+] },
+{
+  "name": "20:45 | Chelsea x Fulham",
+  "image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1436109893044_image-header_pEs_1688484897000&quality=70",
+  "stations": [
+    {
+    "url": ""
+    }
+
 ] } ] }
 ] } ] }
       
