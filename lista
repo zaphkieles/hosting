@@ -261,7 +261,7 @@
   "image": "https://img.asmedia.epimg.net/resizer/Mtdv5JpYd_u9l74Xq4OITVbZTuM=/1472x1104/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/2J2KBLD4UBHHRELGPYZ7TFZS44.jpg",
   "stations": [
     {
-    "url": ""
+    "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076"
     }
 ] } ] },
   
@@ -274,7 +274,10 @@
   "image": "https://gainblers.com/imagenes/pronosticos/2023/07/pronostico-manchester-city-atletico-madrid-30-07-2023.jpeg",
   "stations": [
     {
-    "url": ""
+      "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
+    },
+    {
+    "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
     }
 ] } ] },
 
@@ -287,17 +290,30 @@
   "image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1436121669062_image-header_pEs_1688486679000&quality=70",
   "stations": [
     {
-    "url": ""
+    "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
+    },
+    {
+    "url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"
+    },
+    {
+    "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
     }
+    
 ] },
 {
   "name": "20:45 | Chelsea x Fulham",
   "image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1436109893044_image-header_pEs_1688484897000&quality=70",
   "stations": [
     {
-    "url": ""
+    "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
+    },
+    {
+    "url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"
+    },
+    {
+    "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
     }
-
+    
 ] } ] }
 ] } ] }
       
