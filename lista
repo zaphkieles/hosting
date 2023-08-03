@@ -290,9 +290,6 @@
   "image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1436121669062_image-header_pEs_1688486679000&quality=70",
   "stations": [
     {
-    "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
-    },
-    {
     "url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"
     },
     {
