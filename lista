@@ -1,6 +1,6 @@
 {
       "name": "Zaphkiel_ES",
-      "author": "Domingo, 30 Julio",
+      "author": "Viernes, 11 Agosto",
       "url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista",
       "image": "https://avatars.githubusercontent.com/u/12897601?v=4",
       "imageScale": "",
@@ -253,62 +253,84 @@
 "groups": [
 
 {
-"name": "🏎 Fórmula 1",
-"image": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg",
+"name": "⚽️ Premier League",
+"image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg",
 "groups": [
   {
-  "name": "15:00 | G.P. Bélgica (Spa) Carrera",
-  "image": "https://img.asmedia.epimg.net/resizer/Mtdv5JpYd_u9l74Xq4OITVbZTuM=/1472x1104/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/2J2KBLD4UBHHRELGPYZ7TFZS44.jpg",
+  "name": "21:00 | Burnley x Manchester City",
+  "image": "https://www.mightytips.com/image/cache/data/prediction/prediction_football_jpg_25331-0x0sw.jpg.webp",
   "stations": [
     {
-    "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076"
+    "url": ""
     }
 ] } ] },
   
 {
-"name": "⚽️ Mundial. Amistosos",
-"image": "https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-04/Al%20Rihla.png.webp?itok=dppynVAd",
+"name": "⚽️ Ligue 1 Francia",
+"image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
 "groups": [
   {
-  "name": "13:00 |Manchester City x Atlético de Madrid",
-  "image": "https://gainblers.com/imagenes/pronosticos/2023/07/pronostico-manchester-city-atletico-madrid-30-07-2023.jpeg",
+  "name": "21:00 | Niza x Lille LOSC",
+  "image": "https://api.sofascore.app/api/v1/event/11391102/share-image/16x9",
   "stations": [
     {
-      "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
-    },
-    {
-    "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
+      "url": ""
     }
 ] } ] },
 
 {
-"name": "⚽️ Premier League Summer Series",
-"image": "https://nbcsports.brightspotcdn.com/dims4/default/f7a529a/2147483647/strip/true/crop/779x438+62+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F0e%2F16%2F189efc1a2c3e7bc57631ab2bedac%2Fpremier-league-summer-series-2023.png",
+"name": "⚽️ LaLiga EA Sports",
+"image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp",
 "groups": [
   {
-  "name": "18:00 | Aston Villa x Brentford",
-  "image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1436121669062_image-header_pEs_1688486679000&quality=70",
+  "name": "19:30h | Almería x Rayo",
+  "image": "https://www.lared1061.com/wp-content/uploads/2023/08/711276_0-696x392.png.webp",
   "stations": [
     {
-    "url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"
-    },
-    {
-    "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
+    "url": ""
     }
-    
 ] },
 {
-  "name": "20:45 | Chelsea x Fulham",
-  "image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1436109893044_image-header_pEs_1688484897000&quality=70",
+  "name": "21:30h | Sevilla x Valencia",
+  "image": "https://www.comuniazo.com/img/og_match.php?id_home=17&id_away=18&gameweek=1&date=vie%2011%20ago,%2021:30",
   "stations": [
     {
-    "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
-    },
+    "url": ""
+    }
+] } ] },
+
+{
+"name": "⚽️ LaLiga Hypermotion",
+"image": "https://vod.roams.es/images/post/es_ES_vod/deportes-futbol-segunda-division.svg",
+"groups": [
+  {
+  "name": "19:00 | Amorebieta x Levante",
+  "image": "https://api.sofascore.app/api/v1/event/11390491/share-image/16x9",
+  "stations": [
     {
-    "url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"
-    },
+    "url": ""
+    }
+] },
+{
+  "name": "21:30 | Real Valladolid x Sporting Gijón",
+  "image": "https://assets-es.imgfoot.com/match-cover-es-709420746538926990-5995741669557203231.jpg",
+  "stations": [
     {
-    "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
+    "url": ""
+    }
+
+] } ] },
+
+{
+"name": "⚽️ Mundial Femenino",
+"image": "https://images.daznservices.com/di/library/DAZN_News/6d/fc/sefutbolfem_19ac2911ymegg1hmoywgn4u439.jpg?t=-795806231&quality=60&h=450",
+"groups": [
+  {
+  "name": "03:00 | España Cuartos de final Holanda",
+  "image": "https://images.daznservices.com/di/library/DAZN_News/6d/fc/sefutbolfem_19ac2911ymegg1hmoywgn4u439.jpg?t=-795806231&quality=60&h=450",
+  "stations": [
+    {
+    "url": ""
     }
     
 ] } ] }
