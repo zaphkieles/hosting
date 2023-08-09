@@ -298,7 +298,7 @@
     "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664",
     "url": "acestream://01b333b9369c662775902638ef8cffac346a0f61",
     "url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9" 
-  }
+    }
 ] },
 {
   "name": "21:30h | Sevilla x Valencia",
@@ -310,7 +310,6 @@
     "url": "acestream://da8a1655a64dc1eb2aa1e5fbf3f553e2d283cee7",
     "url": "acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6",
     "url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"
-        
     }
 ] } ] },
 
@@ -325,7 +324,7 @@
     {
     "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247",
     "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
-  }
+    }
 ] },
 {
   "name": "21:30 | Real Valladolid x Sporting Gijón",
@@ -336,8 +335,7 @@
     "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f",
     "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247",
     "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
-  }
-
+    }
 ] } ] },
 
 {
@@ -349,17 +347,14 @@
   "image": "",
   "stations": [
     {
-      "name": "03:00 | España Cuartos de final Holanda",
-      "info":"(chrome y extension reproductor m38u)",
-      "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
-      "embed": true
+    "name": "03:00 | España Cuartos de final Holanda",
+    "info":"(chrome y extension reproductor m38u)",
+    "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
+    "embed": true
     },
     {
     "url": "acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842"
     }
-  
-
-
 ] } ] }
 ] } ] }
       
