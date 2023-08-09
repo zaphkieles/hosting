@@ -278,9 +278,9 @@
   "image": "https://api.sofascore.app/api/v1/event/11391102/share-image/16x9",
   "stations": [
     {
-      "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01",
-      "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
-      "url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"
+    "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01",
+    "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
+    "url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"
     }
 ] } ] },
 
@@ -344,10 +344,10 @@
 "name": "⚽️ Mundial Femenino",
 "image": "https://images.daznservices.com/di/library/DAZN_News/6d/fc/sefutbolfem_19ac2911ymegg1hmoywgn4u439.jpg?t=-795806231&quality=60&h=450",
 "groups": [
-  {
+{
   "name": "03:00 | España Cuartos de final Holanda",
   "image": "https://images.daznservices.com/di/library/DAZN_News/6d/fc/sefutbolfem_19ac2911ymegg1hmoywgn4u439.jpg?t=-795806231&quality=60&h=450",
-  "groups": [
+  "stations": [
     {
       "name": "03:00 | España Cuartos de final Holanda",
       "info":"(con chrome y extension reproductor m38u)",
