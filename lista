@@ -350,7 +350,7 @@
   "stations": [
     {
       "name": "03:00 | España Cuartos de final Holanda",
-      "info":"(con chrome y extension reproductor m38u)",
+      "info":"(chrome y extension reproductor m38u)",
       "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
       "embed": true
     },
