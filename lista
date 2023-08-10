@@ -196,40 +196,40 @@
 
 {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
   {"name": "15:00 | Brentford x Tottenham Hotspur","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"},{"url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},{"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"}
   ]},
   {"name": "17:30 | Chelsea x Liverpool","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"},{"url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},{"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"}
 ]}]},
    
 {"name": "⚽️ Ligue 1 Francia","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
   {"name": "15:00 | Clermont x AS Mónaco","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
 ]}]},
 
 {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
   {"name": "17:00 | Celta de Vigo x Osasuna","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
   ]},
   {"name": "19:30 | Villarreal x Real Betis","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"}
   ]},
   {"name": "21:30 | Getafe x FC Barcelona","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"}
 ]}]},
   
 {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
   {"name": "17:00 | Burgos x SD Huesca","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
   ]},
   {"name": "19:00 | Albacete x RCD Espanyol","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"}
   ]},
   {"name": "19:30 | Cartagena x  Eldense","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342"}
   ]},
   {"name": "22:00 | Leganés x FC Andorra","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
 ]}]}
 ]}
 
