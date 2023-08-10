@@ -77,8 +77,7 @@
 
 {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
   {"name": "19:00 | Amorebieta x Levante","image": "https://api.sofascore.app/api/v1/event/11390491/share-image/16x9","stations": [
-    {"url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"},
-    {"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
+    {"url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"},{"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
   ]},
   {"name": "21:30 | Real Valladolid x Sporting Gijón","image": "https://assets-es.imgfoot.com/match-cover-es-709420746538926990-5995741669557203231.jpg","stations": [
     {"url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"},{"url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"},{"url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"},{"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
