@@ -131,7 +131,7 @@
     {"url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a"}
   ]}, 
   {"name": "16:00 |Brighton x Luton Town","image": "","stations": [  
-    {"url": ""}
+    {"url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"}
   ]}, 
   {"name": "18:30 |Newcastle United x Aston Villa","image": "","stations": [  
     {"url": ""}
@@ -139,7 +139,7 @@
    
 {"name": "⚽️ Ligue 1 Francia","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
   {"name": "17:00 | Marsella x Reims","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"},{"url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},{"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"}
   ]},
   {"name": "21:00 |PSG x Lorient","image": "","stations": [
     {"url": ""}
