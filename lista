@@ -88,12 +88,7 @@
 {"name": "⚽️ Mundial Femenino","image": "https://images.daznservices.com/di/library/DAZN_News/6d/fc/sefutbolfem_19ac2911ymegg1hmoywgn4u439.jpg?t=-795806231&quality=60&h=450","groups": [
   {"name": "03:00 | España Cuartos de final Holanda","image": "","stations": [
     {"name": "03:00 | España Cuartos de final Holanda","info":"(tve1 abierto)","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},{"url": "acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842"}
-]}]}
+]}
 
-
-{"name": "Sáb, 12","image": "","groups": [
-  {"name": "⚽️ Mundial Femenino","image": "https://images.daznservices.com/di/library/DAZN_News/6d/fc/sefutbolfem_19ac2911ymegg1hmoywgn4u439.jpg?t=-795806231&quality=60&h=450","groups": [
-    {"name": "03:00 | España Cuartos de final Holanda","image": "","stations": [
-      {"name": "03:00 | España Cuartos de final Holanda","info":"(tve1 abierto)","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},{"url": "acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842"}
 ]}]}
-]}]}    
+]}]}
