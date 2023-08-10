@@ -168,18 +168,18 @@
   
 {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
   {"name": "17:00 | Racing de Santander x SD Eibar","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
   ]},
   {"name": "19:00 | Real Zaragoza x Villarreal B","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"},{"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
   ]},
   {"name": "22:00 | Elche x Racing Ferrol","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
 ]}]},
   
 {"name": "⚽️ Supercopa de Alemania","image": "https://tmssl.akamaized.net/images/logo/header/dfl.png?lm=1520938588","groups": [
   {"name": "20:45 | Bayern x RB Leipzig","image": "","stations": [
-    {"url": ""}
+    {"url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"},{"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},{"url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"},{"url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"},{"url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"},
 ]}]}
 ]},
 
