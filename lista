@@ -159,8 +159,12 @@
 
 {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
   {"name": "13:30 | Coventry CIty x Middlesbrough","image": "","stations": [
-    {"url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"},{"url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"},{"url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"},{"url": "acestream://01b333b9369c662775902638ef8cffac346a0f61"},{"url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"}
-  
+    {"url": ""}
+]}]},
+
+{"name": "⚽️ Copa Italiana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCPL4bRL9l39JaKoqoKVe2-NFnmxLTuTQdYmWuCasg2iWDuEJt","groups": [
+  {"name": "18:00 | Bari x Parma (Primera Ronda)","image": "","stations": [
+    {"url": ""}
 ]}]},
 
 {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
