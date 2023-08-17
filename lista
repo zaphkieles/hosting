@@ -119,68 +119,71 @@
 
 
 {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
-  {"name": "13:30 |Arsenal x Nottingham Forest","image": "","stations": [
-    {"url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"},{"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},{"url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"},
+  {"name": "16:00 | Fulham x Brentford","image": "","stations": [
+    {"url": ""},
   ]}, 
-  {"name": "16:00 | AFC Bournemouth x West Ham","image": "","stations": [  
-    {"url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"},{"url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
+  {"name": "16:00 | Liverpool x AFC Bournemouth","image": "","stations": [  
+    {"url": ""}
   ]}, 
-  {"name": "16:00 |Everton x Fulham","image": "","stations": [  
-    {"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},{"url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"}
+  {"name": "16:00 | Manchester City x Newcastle United","image": "","stations": [  
+    {"url": ""}
   ]}, 
-  {"name": "16:00 |Sheffield United x Crystal Palace","image": "","stations": [  
-    {"url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a"}
+  {"name": "16:00 | Wolverhampton Wanderers x Brighton","image": "","stations": [  
+    {"url": ""}
   ]}, 
-  {"name": "16:00 |Brighton x Luton Town","image": "","stations": [  
-    {"url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"},{"url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a"}
+  {"name": "16:00 | Luton Town x Burnley","image": "","stations": [  
+    {"url": ""}
   ]}, 
-  {"name": "18:30 |Newcastle United x Aston Villa","image": "","stations": [  
-    {"url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"},{"url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},{"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"}
+  {"name": "18:30 | Tottenham Hotspur x Manchester United","image": "","stations": [  
+    {"url": ""}
 ]}]},
    
-{"name": "⚽️ Ligue 1 Francia","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
-  {"name": "17:00 | Marsella x Reims","image": "","stations": [
-    {"url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"}    
+{"name": "⚽️ Serie A Italia","image": "https://football-italia.net/wp-content/webp-express/webp-images/uploads/2022/06/Lega-Serie-A-Logo-2022-23.jpg.webp","groups": [
+  {"name": "18:30 | Frosinone Calcio x Napoli","image": "","stations": [
+    {"url": ""}    
   ]},
-  {"name": "21:00 |PSG x Lorient","image": "","stations": [
-    {"url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"},{"url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
+  {"name": "20:45 | Inter Milan x Monza","image": "","stations": [
+    {"url": ""}
 ]}]},
 
-{"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
-  {"name": "13:30 | Coventry CIty x Middlesbrough","image": "","stations": [
-    {"url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"}
+{"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/255px-Bundesliga_logo_%282017%29.svg.png","groups": [
+  {"name": "15:30 | Bayer Leverkusen x RB Leipzig","image": "","stations": [
+    {"url": ""}
+  ]},
+  {"name": "18:30 | Dortmund x Colonia","image": "","stations": [
+    {"url": ""}
 ]}]},
 
-{"name": "⚽️ Copa Italiana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCPL4bRL9l39JaKoqoKVe2-NFnmxLTuTQdYmWuCasg2iWDuEJt","groups": [
-  {"name": "18:00 | Bari x Parma (Primera Ronda)","image": "","stations": [
-    {"url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"},{"url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"},
-]}]},
 
 {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-  {"name": "17:00 | Real Sociedad x Girona","image": "","stations": [
-    {"url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"},{"url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"}
+  {"name": "17:00 | Real Sociedad x Celta de Vigo","image": "","stations": [
+    {"url": ""}
   ]},
-  {"name": "19:30 | UD Las Palmas x RCD Mallorca","image": "","stations": [
-    {"url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"},{"url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"},{"info":"(goltv abierto)","url": "https://www.goltelevision.com/en-directo"}
+  {"name": "19:30 | Almería x Real Madrid","image": "","stations": [
+    {"url": ""}
   ]},
-  {"name": "21:30 | Athletic Club x Real Madrid","image": "","stations": [
-    {"url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"}
+  {"name": "21:30 | Osasuna x  Athletic Club","image": "","stations": [
+    {"url": ""}
 ]}]},
   
 {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-  {"name": "17:00 | Racing de Santander x SD Eibar","image": "","stations": [
-    {"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
+  {"name": "17:00 | SD Eibar x Elche","image": "","stations": [
+    {"url": ""}
   ]},
-  {"name": "19:00 | Real Zaragoza x Villarreal B","image": "","stations": [
-    {"url": "acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"},{"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
+  {"name": "19:00 | RCD Espanyol x Racing de Santander","image": "","stations": [
+    {"url": ""}
   ]},
-  {"name": "22:00 | Elche x Racing Ferrol","image": "","stations": [
-    {"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
+  {"name": "19:30 | Levante x Burgos","image": "","stations": [
+    {"url": ""}
+  ]},
+  {"name": "22:00 | Alcorcón x Leganés","image": "","stations": [
+    {"url": ""}
+
 ]}]},
   
-{"name": "⚽️ Supercopa de Alemania","image": "https://tmssl.akamaized.net/images/logo/header/dfl.png?lm=1520938588","groups": [
-  {"name": "20:45 | Bayern x RB Leipzig","image": "","stations": [
-    {"url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"},{"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},{"url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"},{"url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"},{"url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"},
+{"name": "⚽️ Copa Mundial Femenina","image": "https://mundoentrenamiento.com/wp-content/uploads/2021/10/copa-mundial-femenina.webp","groups": [
+  {"name": "10:00 | Tercer Puesto  | Suecia x Rival Pendiente","image": "","stations": [
+    {"url": ""},
 ]}]}
 ]},
 
