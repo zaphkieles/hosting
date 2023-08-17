@@ -244,13 +244,8 @@
 {"name": "⚽️ Copa Mundial Femenina","image": "https://mundoentrenamiento.com/wp-content/uploads/2021/10/copa-mundial-femenina.webp","groups": [
   {"name": "12:00 | España x Rival 2 Pendiente | Final","image": "","stations": [
     {"url": ""}
-]}]},
-
-
-
-
-
-
+]}]}
+]},
 
 
 
@@ -271,17 +266,14 @@
       {"url": ""}
     ]},
     
-    {"name": "21:30
-    21
-    SD HuescaSD Huesca
-    TenerifeTenerife","image": "","stations": [
+    {"name": "21:30 | SD Huesca x Tenerife","image": "","stations": [
       {"url": ""}
   ]}]},
 
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "21:00 | Crystal Palace x Arsenal","image": "","stations": [
       {"url":""}
-]}]},
+]}]}
 ]}
 
 ]}]}
