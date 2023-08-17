@@ -86,25 +86,26 @@
 ]}]},
 
 {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-  {"name": "19:30h | Almería x Rayo","image": "","stations": [
-    {"url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"},{"url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"},{"url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"},{"url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"},{"url": "acestream://01b333b9369c662775902638ef8cffac346a0f61"}
+  {"name": "19:30 | RCD Mallorca x Villarreal","image": "","stations": [
+    {"url": ""}
   ]},
-  {"name": "21:30h | Sevilla x Valencia","image": "","stations": [
-    {"url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"},{"url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"},{"url": "acestream://da8a1655a64dc1eb2aa1e5fbf3f553e2d283cee7"},{"url": "acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6"},{"url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"}
+  {"name": "21:30 | Valencia CF X UD Las Palmas","image": "","stations": [
+    {"url": ""}
 ]}]},
 
 {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-  {"name": "19:00 | Amorebieta x Levante","image": "","stations": [
-    {"url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"},{"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
+  {"name": "19:00 | FC Andorra X Cartagena","image": "","stations": [
+    {"url": ""}
   ]},
-  {"name": "21:30 | Real Valladolid x Sporting Gijón","image": "","stations": [
+  {"name": "21:30 | Real Zaragoza x Real Valladolid","image": "","stations": [
     {"url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"},{"url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"},{"url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"},{"url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"}
 ]}]},
 
-{"name": "⚽️ Mundial Femenino","image": "https://images.daznservices.com/di/library/DAZN_News/6d/fc/sefutbolfem_19ac2911ymegg1hmoywgn4u439.jpg?t=-795806231&quality=60&h=450","groups": [
-  {"name": "03:00 | España Cuartos de final Holanda","image": "","stations": [
-    {"name": "03:00 | España Cuartos de final Holanda","info":"(tve1 abierto)","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},{"url": "acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842"}
+{"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/255px-Bundesliga_logo_%282017%29.svg.png","groups": [
+  {"name": "20:30 | Werder Bremen x Bayern de Múnich","image": "","stations": [
+    {"url": ""}
 ]}]}
+
 ]},
 
 
