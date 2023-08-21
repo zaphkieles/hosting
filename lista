@@ -28,7 +28,9 @@
       {"name": "⚽️ Serie-A  Italia","image": "https://football-italia.net/wp-content/webp-express/webp-images/uploads/2022/06/Lega-Serie-A-Logo-2022-23.jpg.webp","groups": [
       {"name": "20:45 | Bologna x AC Milan","image": "","stations": [
         {"url":""}
-      ]}]},
+      ]}]}
+
+      ]},
 
 {"name": "Ficha Zaphkiel_ES | Telegram","image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/imagencabecera.png","info": "Programación, enlaces web y acestream","stations": [
   {"name": "Zaphkiel_ES","image": "https://definicion.de/wp-content/uploads/2010/10/cartulina.jpg","url": "https://zaphkieles.github.io/hosting/","embed": true}
@@ -82,5 +84,4 @@
     {"name": "Archivo Zaphkiel_ES | (por privado Telegram, enlace en cabecera de la lista)","image": "https://avatars.githubusercontent.com/u/12897601?v=4","url": "https://zaphkieles.github.io/hosting/ace.html","embed": true}
   ]}]}
 
-]}
 ]}]}
