@@ -127,8 +127,17 @@
     ]},
     {"name": "21:00 | Molde x Galatasaray","image": "","stations": [
       {"url": ""}   
-  ]}]} 
+  ]}]},
 
+  {"name": "⚽️ Copa Libertadores","image": "https://phantom-marca-us.unidadeditorial.es/f558ae4ec051d0c1aa8665b6e7ec525e/resize/660/f/webp/assets/multimedia/imagenes/2023/07/05/16885761800705.jpg","groups": [
+    {"name": "00:00 | Bolívar x Internacional","image": "","stations": [
+      {"url": ""}
+ ]}]},
+
+  {"name": "⚽️ Copa Sudamericana","image": "https://cdn.conmebol.com/wp-content/uploads/2015/07/logo-sudamericana-2015-300px-2_0.jpg","groups": [
+    {"name": "02:30 | Corinthians x Estudiantes LP","image": "","stations": [
+      {"url": ""}
+    ]}]} 
 
 ]}
 ]}]}
