@@ -58,19 +58,19 @@
 
 
 
-
-
-
-
-
 {"name": "Eventos diarios | Enlaces, un rato antes","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
+
+
+
+
+
 
 {"name": "Lunes, 21","image": "","groups": [
 
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "19:00 | Alavés x Sevilla","image": "","stations": [
       {"url": ""}
-    ]}
+
   ]}]},
     
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
@@ -89,7 +89,7 @@
   {"name": "⚽️ Serie A Italia","image": "https://football-italia.net/wp-content/webp-express/webp-images/uploads/2022/06/Lega-Serie-A-Logo-2022-23.jpg.webp","groups": [
   {"name": "20:45 | Bologna x AC Milan","image": "","stations": [
     {"url":""}
-]}]}
+  ]}]}
+  ]}
 
-
-]}]}
+  ]}]}
