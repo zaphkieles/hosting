@@ -90,12 +90,12 @@
 
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "21:00 | Crystal Palace x Arsenal","image": "","stations": [
-      {"url":"acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"}
+      {"url":""}
   ]}]},
 
   {"name": "⚽️ Serie-A  Italia","image": "https://football-italia.net/wp-content/webp-express/webp-images/uploads/2022/06/Lega-Serie-A-Logo-2022-23.jpg.webp","groups": [
   {"name": "20:45 | Bologna x AC Milan","image": "","stations": [
-    {"url":""}
+    {"url":"acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"}
   ]}]} 
 
 
