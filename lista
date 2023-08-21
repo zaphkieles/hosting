@@ -60,48 +60,18 @@
 
 
 
-
 {"name": "Eventos diarios | Enlaces, un rato antes","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-
-
-
-
-
-{"name": "Lunes, 21","image": "","groups": [
-  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "19:00 | Alavés x Sevilla","image": "","stations": [
-      {"url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}
-      ]},
-      {"name": "21:30 | Granada x Rayo Vallecano","image": "","stations": [
-      {"name": "","info":"(activar antes vpn en la app)","url": "https://www.goltelevision.com/en-directo","embed": true},{"url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"}
-  ]}]},
-  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-    {"name": "19:00 | Villarreal B x Eldense | (activar antes vpn en la app)","image": "","stations": [
-      {"name": "","url": "https://1l1l.to/embed19","embed": true}
+  {"name": "Martes, 22 (enlaces x confirmar)","image": "","groups": [
+    {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
+      {"name": "21:00 | Antwerp x Rival Pendiente","image": "","stations": [
+        {"url": ""}
     ]},
-    {"name": "21:30 | SD Huesca x Tenerife,| (activar antes vpn en la app)","image": "","stations": [
-      {"name": "","embed": true,"url": "https://liveon.sx/embed19"}
-  ]}]},
-  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
-    {"name": "21:00 | Crystal Palace x Arsenal","image": "","stations": [
-      {"url":"acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"}
-  ]}]},
-  {"name": "⚽️ Serie-A  Italia","image": "https://football-italia.net/wp-content/webp-express/webp-images/uploads/2022/06/Lega-Serie-A-Logo-2022-23.jpg.webp","groups": [
-  {"name": "20:45 | Bologna x AC Milan","image": "","stations": [
-    {"url":"acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"}
-  ]}]}  ]},
-
-{"name": "Martes, 22 (enlaces x confirmar)","image": "","groups": [
-  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
-    {"name": "21:00 | Antwerp x Rival Pendiente","image": "","stations": [
-      {"url": ""}
+      {"name": "21:00 | Raków Czestochowa x København","image": "","stations": [
+        {"url": ""}      
     ]},
-    {"name": "21:00 | Raków Czestochowa x København","image": "","stations": [
-      {"url": ""}      
-    ]},
-    {"name": "21:00 | Rangers x PSV Eindhovenn","image": "","stations": [
-      {"url": ""}   
+      {"name": "21:00 | Rangers x PSV Eindhovenn","image": "","stations": [
+        {"url": ""}   
   ]}]}  ]},
 
 {"name": "Miércoles, 23 (enlaces x confirmar)","image": "","groups": [
