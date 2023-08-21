@@ -70,49 +70,26 @@
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "19:00 | Alavés x Sevilla","image": "","stations": [
       {"url": ""}
-      acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-      acestream://118416583faa3fb4f03800173429b6b844b43a52
-
-    ]},
-    {"name": "21:30 | Granada x Rayo Vallecano","image": "","stations": [
-      "info": "(gol play abierto)","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},
-      https://www.goltelevision.com/en-directo
-      acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
-      acestream://118416583faa3fb4f03800173429b6b844b43a52
-
+    ]}
   ]}]},
     
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
     {"name": "19:00 | Villarreal B x Eldense","image": "","stations": [
       {"url": ""}
-      acestream://f031f5728b32f6089dda28edebe990cf198108d8
-      acestream://aad075af0f7ce4118b6b21c1ed898dd493842e97
-      acestream://1969c27658d4c8333ab2c0670802546121a774a5
     ]},
     {"name": "21:30 | SD Huesca x Tenerife","image": "","stations": [
       {"url": ""}
-      acestream://f031f5728b32f6089dda28edebe990cf198108d8
-      acestream://aad075af0f7ce4118b6b21c1ed898dd493842e97
-      acestream://1969c27658d4c8333ab2c0670802546121a774a5     
-      acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
   ]}]},
 
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "21:00 | Crystal Palace x Arsenal","image": "","stations": [
       {"url":""}
-      acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-      acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-      acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-]}]},
+  ]}]},
 
-{"name": "⚽️ Serie A Italia","image": "https://football-italia.net/wp-content/webp-express/webp-images/uploads/2022/06/Lega-Serie-A-Logo-2022-23.jpg.webp","groups": [
+  {"name": "⚽️ Serie A Italia","image": "https://football-italia.net/wp-content/webp-express/webp-images/uploads/2022/06/Lega-Serie-A-Logo-2022-23.jpg.webp","groups": [
   {"name": "20:45 | Bologna x AC Milan","image": "","stations": [
     {"url":""}
-    acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-    acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-    acestream://ed81c333815247536edfcdb2755147e8c4144d62
-    
-]}]}
-]}
+  ]}]}
+
 
 ]}]}
