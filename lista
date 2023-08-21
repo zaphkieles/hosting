@@ -140,6 +140,18 @@
     ]},
     {"name": "21:30 | Celta de Vigo x Real Madrid","image": "","stations": [
       {"url": ""}
+    ]}]},
+    {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "21:30 | Cartagena x Levante","image": "","stations": [
+      {"url": ""}
+    ]}]},
+    {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "21:00 | Chelsea x Luton Town","image": "","stations": [
+      {"url": ""}
+    ]}]},
+    {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
+    {"name": "21:00 | Nantes x AS Mónaco","image": "","stations": [
+      {"url": ""}
   ]}]} ]}
   
   ]}]}
