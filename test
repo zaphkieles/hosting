@@ -36,7 +36,7 @@
     {"url":""}
   ]}]}  ]}]},
 
-{"name": "Varios","image": "","groups": [
+{"name": "Varios","image": "https://www.softzone.es/app/uploads-softzone.es/2016/09/explorador-de-archivos.jpg?x=480&y=375&quality=40","groups": [
     {"name": "Canales TV","image": "https://e7.pngegg.com/pngimages/881/51/png-clipart-iptv-television-channel-canal-smart-tv-iptv-television-text-thumbnail.png","info": "No Info","stations": [
     {"name": "SFNTV","image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_sfn_logo_step_repeat.png","url": "https://sfntv.co/","embed": true},
     {"name": "ITELEFLIX","image": "https://iteleflix.com/archivos/logo-iteleflix.png","url": "https://iteleflix.com/","embed": true},
