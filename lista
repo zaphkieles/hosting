@@ -78,8 +78,7 @@
     
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
     {"name": "19:00 | Villarreal B x Eldense","image": "","stations": [
-      {"name": "","info":"(utilizar opera)","url": "https://l.ivesoccer.sx","embed": true},
-      {"url": "https://1l1l.to/embed19"}
+      {"name": "","info":"(utilizar opera)","url": "https://1l1l.to/embed19","embed": true}
     ]},
     {"name": "21:30 | SD Huesca x Tenerife","image": "","stations": [
       {"url": ""}
