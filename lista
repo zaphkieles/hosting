@@ -10,7 +10,6 @@
 
 
 {"name": "Martes, 22 (enlaces x confirmar)","image": "","groups": [
-
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
     {"name": "21:00 | Antwerp x Rival Pendiente","image": "","stations": [
       {"url": ""}
@@ -20,12 +19,9 @@
     ]},
     {"name": "21:00 | Rangers x PSV Eindhovenn","image": "","stations": [
       {"url": ""}   
-  ]}]} 
-
-]},
+]}]}  ]},
 
 {"name": "Miércoles, 23 (enlaces x confirmar)","image": "","groups": [
-
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
     {"name": "21:00 | Braga x Panathinaikos","image": "","stations": [
       {"url": ""}
@@ -36,15 +32,21 @@
     {"name": "21:00 | Molde x Galatasaray","image": "","stations": [
       {"url": ""}   
   ]}]},
-
   {"name": "⚽️ Copa Libertadores","image": "https://phantom-marca-us.unidadeditorial.es/f558ae4ec051d0c1aa8665b6e7ec525e/resize/660/f/webp/assets/multimedia/imagenes/2023/07/05/16885761800705.jpg","groups": [
     {"name": "00:00 | Bolívar x Internacional","image": "","stations": [
       {"url": ""}
  ]}]},
-
   {"name": "⚽️ Copa Sudamericana","image": "https://cdn.conmebol.com/wp-content/uploads/2015/07/logo-sudamericana-2015-300px-2_0.jpg","groups": [
     {"name": "02:30 | Corinthians x Estudiantes LP","image": "","stations": [
       {"url": ""}
+]}]}  ]},
+
+{"name": "Jueves, 24 (enlaces x confirmar)","image": "","groups": [
+  {"name": "⚽️ Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [
+    {"name": "20:30 | Osasuna x Club Brujas","image": "","stations": [
+      {"url": ""}
+
+
 ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
