@@ -45,7 +45,27 @@
   {"name": "⚽️ Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [
     {"name": "20:30 | Osasuna x Club Brujas","image": "","stations": [
       {"url": ""}
+]}]}  ]},
 
+{"name": "Viernes, 25 (enlaces x confirmar)","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "19:30 | UD Las Palmas x Real Sociedad","image": "","stations": [
+      {"url": ""}
+  ]},
+  {"name": "21:30 | Celta de Vigo x Real Madrid","image": "","stations": [
+      {"url": ""}
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "21:30 | Cartagena x Levante","image": "","stations": [
+      {"url": ""}
+  ]}]},
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "21:00 | Chelsea x Luton Town","image": "","stations": [
+      {"url": ""}
+  ]}]},
+  {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
+    {"name": "21:00 | Nantes x AS Mónaco","image": "","stations": [
+      {"url": ""}
 
 ]}]} ]}]},
 
