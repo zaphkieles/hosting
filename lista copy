@@ -1,4 +1,4 @@
-{"name": "Zaphkiel_ES","author": "Agosto 2023","url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista","image": "https://avatars.githubusercontent.com/u/12897601?v=4","imageScale": "","telegram": "Zaphkiel_ES","info": "Lista Eventos Deportivos",
+{"name": "Zaphkiel_ES","author": "Agosto 2023 (notificar fallos)","url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista","image": "https://avatars.githubusercontent.com/u/12897601?v=4","imageScale": "","telegram": "Zaphkiel_ES","info": "Lista Eventos Deportivos",
 
 "groups": [
 
@@ -10,66 +10,67 @@
 {"name": "Eventos diarios | Enlaces, un rato antes","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
 
-{"name": "Martes, 22","image": "","groups": [
+{"name": "Martes, 22 | finalizado","image": "","groups": [
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
-    {"name": "21:00 | Antwerp x Rival Pendiente","image": "","stations": [
-      {"name": "con VPN","info":"","url": "https://1l1l.to/embed2","embed": true},
-      {"name": "acestream"},{"url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
-    ]},
-    {"name": "21:00 | Raków Czestochowa x København","image": "","stations": [
-      {"name": "con VPN","info":"","url": "https://1l1l.to/embed4","embed": true},
-      {"name": "acestream"},{"url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce"}      
-    ]},
-    {"name": "21:00 | Rangers x PSV Eindhovenn","image": "","stations": [
-      {"name": "con VPN","info":"","url": "https://liveon.sx/embed1","embed": true},
-      {"name": "acestream"},{"url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}   
+    {"name": "","image": "","stations": [
+    
 ]}]}  ]},
 
-{"name": "Miércoles, 23 (enlaces x confirmar)","image": "","groups": [
+{"name": "Miércoles, 23 | enlaces x confirmar","image": "","groups": [
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
     {"name": "21:00 | Braga x Panathinaikos","image": "","stations": [
-      {"url": ""}
+      {"name": "con VPN","info":"","url": "","embed": true},
+      {"name": "acestream ","url": ""} 
     ]},
     {"name": "21:00 | Maccabi Haifa x Young Boys","image": "","stations": [
-      {"url": ""}      
+      {"name": "con VPN","info":"","url": "","embed": true},
+      {"name": "acestream ","url": ""}       
     ]},
     {"name": "21:00 | Molde x Galatasaray","image": "","stations": [
-      {"url": ""}   
+      {"name": "con VPN","info":"","url": "","embed": true},
+      {"name": "acestream ","url": ""}   
   ]}]},
   {"name": "⚽️ Copa Libertadores","image": "https://phantom-marca-us.unidadeditorial.es/f558ae4ec051d0c1aa8665b6e7ec525e/resize/660/f/webp/assets/multimedia/imagenes/2023/07/05/16885761800705.jpg","groups": [
     {"name": "00:00 | Bolívar x Internacional","image": "","stations": [
-      {"url": ""}
+      {"name": "con VPN","info":"","url": "","embed": true},
+      {"name": "acestream ","url": ""} 
  ]}]},
   {"name": "⚽️ Copa Sudamericana","image": "https://cdn.conmebol.com/wp-content/uploads/2015/07/logo-sudamericana-2015-300px-2_0.jpg","groups": [
     {"name": "02:30 | Corinthians x Estudiantes LP","image": "","stations": [
-      {"url": ""}
+      {"name": "con VPN","info":"","url": "","embed": true},
+      {"name": "acestream ","url": ""} 
 ]}]}  ]},
 
-{"name": "Jueves, 24 (enlaces x confirmar)","image": "","groups": [
+{"name": "Jueves, 24 | enlaces x confirmar","image": "","groups": [
   {"name": "⚽️ Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [
     {"name": "20:30 | Osasuna x Club Brujas","image": "","stations": [
       {"url": ""}
 ]}]}  ]},
 
-{"name": "Viernes, 25 (enlaces x confirmar)","image": "","groups": [
+{"name": "Viernes, 25 | enlaces x confirmar","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "19:30 | UD Las Palmas x Real Sociedad","image": "","stations": [
-      {"url": ""}
+      {"name": "con VPN","info":"","url": "","embed": true},
+      {"name": "acestream ","url": ""} 
   ]},
   {"name": "21:30 | Celta de Vigo x Real Madrid","image": "","stations": [
-      {"url": ""}
+    {"name": "con VPN","info":"","url": "","embed": true},
+    {"name": "acestream ","url": ""} 
   ]}]},
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
     {"name": "21:30 | Cartagena x Levante","image": "","stations": [
-      {"url": ""}
+      {"name": "con VPN","info":"","url": "","embed": true},
+      {"name": "acestream ","url": ""} 
   ]}]},
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "21:00 | Chelsea x Luton Town","image": "","stations": [
-      {"url": ""}
+      {"name": "con VPN","info":"","url": "","embed": true},
+      {"name": "acestream ","url": ""} 
   ]}]},
   {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
     {"name": "21:00 | Nantes x AS Mónaco","image": "","stations": [
-      {"url": ""}
+      {"name": "con VPN","info":"","url": "","embed": true},
+      {"name": "acestream ","url": ""} 
 
 ]}]} ]}]},
 
@@ -115,7 +116,7 @@
     
   {"name": "Enlaces AceStream | Mayo 2023","image": "https://play-lh.googleusercontent.com/T0HTeaijUgoKa_FAIL5lGve_H6bSmzuwiP5uNLIqqVkou7fMXHKnWTsNruSE868ss7A","groups": [
     {"name": "Buscador enlaces acestream","image": "https://avanzaeninternet.com/wp-content/uploads/2018/05/17033192489_c7964c32cc_b.jpg","info": "No Info","stations": [
-      {"name": "Buscador: Ace Stream Broadcasts Búsqueda Canales","image": "https://www.siteprice.org/SiteThumbs/a/acestreamsearch.net.webp","url": "https://acestreamsearch.net/","embed": true},
+      {"name": "Buscador: Ace Stream Broadcasts Búsqueda Canales","image": "https://www.siteprice.org/SiteThumbs/a/acestreamsearch.net.webp","url": "https://acestreamsearch.net/en","embed": true},
       {"name": "Buscador: Get a link to Ace stream broadcast from any site","image": "https://www.siteprice.org/SiteThumbs/a/acestreamid.com.webp","url": "https://acestreamid.com/","embed": true}
     ]},
     {"name": "Archivo de enlaces","image": "https://play-lh.googleusercontent.com/T0HTeaijUgoKa_FAIL5lGve_H6bSmzuwiP5uNLIqqVkou7fMXHKnWTsNruSE868ss7A","info": "No Info","stations": [
