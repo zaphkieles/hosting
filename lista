@@ -10,11 +10,11 @@
 {"name": "Eventos diarios | Enlaces, un rato antes","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
 
-{"name": "Martes, 22","image": "","groups": [
+{"name": "Martes, 22 | finalizado","image": "","groups": [
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
     {"name": "21:00 | Antwerp x Rival Pendiente","image": "","stations": [
       {"name": "con VPN","info":"","url": "https://1l1l.to/embed2","embed": true},
-      {"url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
+      {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
     ]},
     {"name": "21:00 | Raków Czestochowa x København","image": "","stations": [
       {"name": "con VPN","info":"","url": "https://1l1l.to/embed4","embed": true},
@@ -22,7 +22,7 @@
     ]},
     {"name": "21:00 | Rangers x PSV Eindhovenn","image": "","stations": [
       {"name": "con VPN","info":"","url": "https://liveon.sx/embed1","embed": true},
-      {"url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}   
+      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}   
 ]}]}  ]},
 
 {"name": "Miércoles, 23 | (enlaces x confirmar)","image": "","groups": [
