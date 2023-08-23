@@ -20,7 +20,7 @@
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
     {"name": "21:00 | Braga x Panathinaikos","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","info":"","url": "https://1l1l.to/embed2","embed": true},
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"}
+      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
       {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"}
     ]},
     {"name": "21:00 | Maccabi Haifa x Young Boys","image": "","stations": [
@@ -29,8 +29,8 @@
     ]},
     {"name": "21:00 | Molde x Galatasaray","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","info":"https://1l1l.to/embed1","url": "","embed": true},
-      {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
-      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
+      {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
+      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"},
       {"name": "acestream ","url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"}
       
   ]}]},
