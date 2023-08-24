@@ -9,37 +9,18 @@
 
 {"name": "Eventos diarios | Enlaces, un poco antes","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Miércoles, 23","image": "","groups": [
-  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
-    {"name": "21:00 | Braga x Panathinaikos","image": "","stations": [
-      {"name": "con VPN | sección Varios/APPs","url": "https://1l1l.to/embed2","embed": true},
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
-      {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"}
-    ]},
-    {"name": "21:00 | Maccabi Haifa x Young Boys","image": "","stations": [
-      {"name": "con VPN | sección Varios/APPs","url": "https://1l1l.to/embed4","embed": true},
-      {"name": "acestream ","url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce"}       
-    ]},
-    {"name": "21:00 | Molde x Galatasaray","image": "","stations": [
-      {"name": "con VPN | sección Varios/APPs","url": "https://1l1l.to/embed1","embed": true},
-      {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
-      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"},
-      {"name": "acestream ","url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"}
-      
-  ]}]},
-  {"name": "⚽️ Copa Libertadores | finalizado","image": "https://phantom-marca-us.unidadeditorial.es/f558ae4ec051d0c1aa8665b6e7ec525e/resize/660/f/webp/assets/multimedia/imagenes/2023/07/05/16885761800705.jpg","groups": [
-    {"name": "","image": "","stations": [
-      {"name": "","info":"","url": "","embed": true}
- ]}]},
-  {"name": "⚽️ Copa Sudamericana | finalizado","image": "https://cdn.conmebol.com/wp-content/uploads/2015/07/logo-sudamericana-2015-300px-2_0.jpg","groups": [
-    {"name": "","image": "","stations": [
-      {"name": "","info":"","url": "","embed": true}
-]}]}  ]},
 
 {"name": "Jueves, 24 | enlaces x confirmar","image": "","groups": [
   {"name": "⚽️ Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [
     {"name": "20:30 | Osasuna x Club Brujas","image": "","stations": [
-      {"url": ""}
+      {"url": "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8","embed": true}
+  ]}]},
+  {"name": "⚽️ Trofeo Joan Gamper Femenino","image": "https://www.futfem.com/media/futfem/images/2021/06/01/1622537886616joanhamper%20mundom%20plus%20.jpeg","groups": [
+    {"name": "19:00 | FC Barcelona Femenino x Juventus Femenino","image": "","stations": [
+      {"name": "","url": "https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8","embed": true},
+      {"name": "","url": "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8","embed": true}
+
+
 ]}]}  ]},
 
 {"name": "Viernes, 25 | enlaces x confirmar","image": "","groups": [
