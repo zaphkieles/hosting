@@ -27,8 +27,8 @@
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "21:00 | Chelsea x Luton Town","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "https://1l1l.to/embed10","embed": true},
-      {"name": "acestream ","url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"}
-      {"name": "acestream ","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
+      {"name": "acestream ","url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},
+      {"name": "acestream ","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"}
   ]}]},
   {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
     {"name": "20:30 | RB Leipzig x Stuttgart","image": "","stations": [
