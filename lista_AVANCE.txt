@@ -186,7 +186,7 @@
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "13:30 | Sheffield United x Everton","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
     ]},
     {"name": "16:00 | Brentford x AFC Bournemouth","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
@@ -194,15 +194,15 @@
     ]},
     {"name": "16:00 | Burnley x Tottenham Hotspur","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"}
     ]},
     {"name": "16:00 | Chelsea x Nottingham Forest","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
     ]},
     {"name": "16:00 | Manchester City x Fulham","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"}
     ]},
     {"name": "18:30 | Brighton x Newcastle United","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
