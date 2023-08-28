@@ -70,6 +70,15 @@
     {"name": "02:30 | Estudiantes LP x Corinthians","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
       {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "⚽️ Partidos Amistosos Femeninos","image": "","groups": [
+    {"name": "04:00 | América x FC Barcelona Femenino","image": "","stations": [
+      {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
+      {"name": "acestream ","url": ""}
+      ]},
+    {"name": "04:00 | igres UANL x Real Madrid Femenino","image": "","stations": [
+      {"name": "con VPN | sección Varios/APPs","url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8","embed": true},
+      {"name": "acestream ","url": ""}
   ]}]},    
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
     {"name": "21:00 | PSV Eindhoven x Rangers FC ","image": "","stations": [
@@ -87,6 +96,44 @@
   {"name": "⚽️ Partido Amistoso Leyendas","image": "","groups": [
     {"name": "21:00 | Celta de Vigo x All Stars Internacional ","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "https://www.goltelevision.com/en-directo","embed": true},
+      {"name": "acestream ","url": ""}
+]}]}  ]},
+
+{"name": "Jueves, 31 | enlaces acestream x definir","image": "","groups": [
+  {"name": "⚽️ Copa Copa Sudamericanas","image": "","groups": [
+    {"name": "00:00 | Defensa y Justicia x Botafogo","image": "","stations": [
+      {"name": "con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
+      {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "⚽️ Copa Libertadores","image": "","groups": [
+    {"name": "02:30 | Palmeiras x Deportivo Pereira","image": "","stations": [
+      {"name": "con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd10.php","embed": true},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "02:30 | Racing Avellaneda x Boca Juniors","image": "","stations": [
+      {"name": "con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
+      {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "⚽️ Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [
+    {"name": "20:30 | Club Brujas x Osasuna","image": "","stations": [
+      {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
+      {"name": "acestream ","url": ""}
+]}]}  ]},
+
+{"name": "Viernes, 1 | enlaces acestream x definir","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "","groups": [
+    {"name": "00:00 | Internacional x Bolívar","image": "","stations": [
+      {"name": "con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
+      {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "","groups": [
+    {"name": "20:30 | Club Brujas x Osasuna","image": "","stations": [
+      {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
+      {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "⚽️ Premier League","image": "","groups": [
+    {"name": "20:30 | Club Brujas x Osasuna","image": "","stations": [
+      {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
       {"name": "acestream ","url": ""}
 ]}]} ]}]},
 
