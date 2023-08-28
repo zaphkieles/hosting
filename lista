@@ -117,18 +117,18 @@
   {"name": "⚽️ Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [
     {"name": "20:30 | Club Brujas x Osasuna","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": "acestream://2bac673f7fc25abda5f902850ce9f8c04a2b2056"}
+      {"name": "acestream ","url": ""}
 ]}]}  ]},
 
 {"name": "Viernes, 1 | enlaces x definir","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "19:30 | Cádiz x Villarreal","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
+      {"name": "acestream ","url": ""}
     ]},
     {"name": "21:00 | Almería x Celta de Vigo","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
+      {"name": "acestream ","url": ""}
   ]}]},
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
     {"name": "19:30 |Alcorcón x Racing Ferrol","image": "","stations": [
@@ -142,9 +142,9 @@
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "21:00 | Luton Town x West Ham","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"},
-      {"name": "acestream ","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"},
-      {"name": "acestream ","url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"}
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
 ]}]}  ]},
 
 {"name": "Sábado, 2 | enlaces x definir","image": "","groups": [
@@ -206,8 +206,8 @@
     ]},
     {"name": "18:30 | Brighton x Newcastle United","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"},
-      {"name": "acestream","url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"}
+      {"name": "acestream","url": ""},
+      {"name": "acestream","url": ""}
       
       
 ]}]} ]}]},
