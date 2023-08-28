@@ -61,6 +61,16 @@
 ]}]}  ]},  
 
 {"name": "Miércoles, 30 | enlaces acestream x definir","image": "","groups": [
+  {"name": "⚽️ Copa Libertadores","image": "https://europeamedia.es/europea-news/wp-content/uploads/2019/11/COPA-LIBERTADORES-619x400.jpg","groups": [
+    {"name": "00:00 | Internacional x Bolívar","image": "","stations": [
+      {"name": "con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
+      {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "⚽️ Copa Sudamericana","image": "https://europeamedia.es/europea-news/wp-content/uploads/2019/11/COPA-LIBERTADORES-619x400.jpg","groups": [
+    {"name": "02:30 | Estudiantes LP x Corinthians","image": "","stations": [
+      {"name": "con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
+      {"name": "acestream ","url": ""}
+  ]}]},    
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
     {"name": "21:00 | PSV Eindhoven x Rangers FC ","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd5.php","embed": true},
@@ -72,7 +82,7 @@
     ]},
     {"name": "21:00 | Kobenhavn x Rakow Czestochowa","image": "","stations": [
       {"name": "con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd9.php","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": ""}  
 ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
