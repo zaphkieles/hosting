@@ -34,7 +34,7 @@
     {"name": "21:30 | Panathinaikos x Braga","image": "","stations": [
       {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
       {"name": "Web con VPN | sección Varios/APPs","url": "https://1l1l.to/embed2","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
     ]},
     {"name": "21:30 | Young Boys x Maccabi Haifa","image": "","stations": [
       {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd3.php","embed": true},
