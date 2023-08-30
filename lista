@@ -9,42 +9,38 @@
 {"name": "Eventos diarios | Enlaces, un poco antes","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
 
-  {"name": "Miércoles, 30","image": "","groups": [
-    {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [
-      {"name": "19:30 | Zapata x Djokovic","image": "","stations": [
-        {"name": "acestream ","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
-      ]},
-      {"name": "22:15 | Cerúndolo x Davidovich","image": "","stations": [
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://es8.sportplus.live/tennis/us-open/4637009/","embed": true},
-        {"name": "acestream ","url": ""}
-    ]}]},
-    {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
-      {"name": "21:00 | PSV Eindhoven x Rangers FC ","image": "","stations": [
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd5.php","embed": true},
-        {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"},
-        {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"}
-        
-      ]},
-      {"name": "21:00 | AEK FC x Antwerp","image": "","stations": [
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd10.php","embed": true},
-        {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
-      ]},
-      {"name": "21:00 | Kobenhavn x Rakow Czestochowa","image": "","stations": [
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd9.php","embed": true},
-        {"name": "acestream ","url": "acestream://5f966c123759de46dff29c379266b7a403452033"}
-    ]}]},
-    {"name": "⚽️ Partido Amistoso Leyendas","image": "https://rccelta.es/app/uploads/2023/08/Cartel_leyendas_16-9.jpg","groups": [
-      {"name": "21:00 | Celta de Vigo x World Team ","image": "","stations": [
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://www.goltelevision.com/en-directo","embed": true},
-        {"name": "acestream ","url": ""}
-    ]}]},
-    {"name": "⚽️ Inglaterra - Copa de la Liga Inglesa","image": "","groups": [
-      {"name": "21:00 | Doncaster Rovers 0 - 0 Everton ","image": "","stations": [
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://es8.sportplus.live/football/england-efl-cup/4644183/","embed": true},
-        {"name": "acestream ","url": "acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7"}
+{"name": "Miércoles, 30","image": "","groups": [
+  {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [
+    {"name": "22:15 | Cerúndolo x Davidovich","image": "","stations": [
+      {"name": "Web con VPN | sección Varios/APPs","url": "https://es8.sportplus.live/tennis/us-open/4637009/","embed": true},
+      {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
+    {"name": "21:00 | PSV Eindhoven x Rangers FC ","image": "","stations": [
+      {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd5.php","embed": true},
+      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"},
+      {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"}
+    ]},
+    {"name": "21:00 | AEK FC x Antwerp","image": "","stations": [
+      {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd10.php","embed": true},
+      {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
+    ]},
+    {"name": "21:00 | Kobenhavn x Rakow Czestochowa","image": "","stations": [
+      {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd9.php","embed": true},
+      {"name": "acestream ","url": "acestream://5f966c123759de46dff29c379266b7a403452033"}
+  ]}]},
+  {"name": "⚽️ Partido Amistoso Leyendas","image": "https://rccelta.es/app/uploads/2023/08/Cartel_leyendas_16-9.jpg","groups": [
+    {"name": "21:00 | Celta de Vigo x World Team ","image": "","stations": [
+      {"name": "Web con VPN | sección Varios/APPs","url": "https://www.goltelevision.com/en-directo","embed": true},
+      {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "⚽️ Inglaterra - Copa de la Liga Inglesa","image": "","groups": [
+    {"name": "21:00 | Doncaster Rovers 0 - 0 Everton ","image": "","stations": [
+      {"name": "Web con VPN | sección Varios/APPs","url": "https://es8.sportplus.live/football/england-efl-cup/4644183/","embed": true},
+      {"name": "acestream ","url": "acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7"}
     
 
-  ]}]}  ]},
+]}]}  ]},
 
 {"name": "Jueves, 31 | enlaces x definir","image": "","groups": [
   {"name": "⚽️ Copa Copa Sudamericanas","image": "","groups": [
