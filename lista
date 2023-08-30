@@ -9,33 +9,7 @@
 {"name": "Eventos diarios | Enlaces, un poco antes","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
 
-  {"name": "Miércoles, 30 | enlaces x definir","image": "","groups": [
-    {"name": "⚽️ Copa Libertadores","image": "https://europeamedia.es/europea-news/wp-content/uploads/2019/11/COPA-LIBERTADORES-619x400.jpg","groups": [
-      {"name": "00:00 | Internacional x Bolívar","image": "","stations": [
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://es8.sportplus.live/football/copa-libertadores/4613071/","embed": true},
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd5.php","embed": true},
-        {"name": "acestream ","url": ""}
-    ]}]},
-    {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [
-      {"name": "02:30 | C.Alcaraz x D.Koepfer","image": "","stations": [
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://es8.sportplus.live/tennis/us-open/4622569/","embed": true},
-        {"name": "acestream ","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"},
-        {"name": "acestream ","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
-    ]}]}, 
-    {"name": "⚽️ Copa Sudamericana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ9T0sMOSZ1jBSM_9TkL2K3pzFgtNy0XWB4LCJqNl7BndoISEH5","groups": [
-      {"name": "02:30 | Estudiantes LP x Corinthians","image": "","stations": [
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-        {"name": "acestream ","url": ""}
-    ]}]},
-    {"name": "⚽️ Partidos Amistosos Femeninos","image": "","groups": [
-      {"name": "04:00 | América x FC Barcelona Femenino","image": "","stations": [
-        {"name": "Web con VPN | sección Varios/APPs","url": "","embed": true},
-        {"name": "acestream ","url": ""}
-        ]},
-      {"name": "04:00 | igres UANL x Real Madrid Femenino","image": "","stations": [
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8","embed": true},
-        {"name": "acestream ","url": ""}
-    ]}]},
+  {"name": "Miércoles, 30","image": "","groups": [
     {"name": "🏀 FIBA Copa Mundial","image": "https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515366_10585.jpg","groups": [
       {"name": "15:30 | Iran x España","image": "","stations": [
         {"name": "Web con VPN | sección Varios/APPs","url": "https://es8.sportplus.live/basketball/fiba-world-cup/4636219/","embed": true},
