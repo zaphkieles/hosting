@@ -22,6 +22,8 @@
       {"name": "21:00 | PSV Eindhoven x Rangers FC ","image": "","stations": [
         {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd5.php","embed": true},
         {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
+        {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"}
+        
       ]},
       {"name": "21:00 | AEK FC x Antwerp","image": "","stations": [
         {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd10.php","embed": true},
