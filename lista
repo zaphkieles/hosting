@@ -29,8 +29,7 @@
       ]},
       {"name": "21:00 | Kobenhavn x Rakow Czestochowa","image": "","stations": [
         {"name": "Web con VPN | sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd9.php","embed": true},
-        {"name": "acestream ","url": "acestream://5f966c123759de46dff29c379266b7a403452033"},
-        {"name": "acestream ","url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"}
+        {"name": "acestream ","url": "acestream://5f966c123759de46dff29c379266b7a403452033"}
     ]}]},
     {"name": "⚽️ Partido Amistoso Leyendas","image": "https://rccelta.es/app/uploads/2023/08/Cartel_leyendas_16-9.jpg","groups": [
       {"name": "21:00 | Celta de Vigo x World Team ","image": "","stations": [
