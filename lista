@@ -9,19 +9,20 @@
 {"name": "Eventos diarios | acestreams un poco antes","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
 {"name": "Jueves, 31 | enlaces x definir","image": "","groups": [
-  {"name": "⚽️ Copa Copa Sudamericanas","image": "","groups": [
+  {"name": "⚽️ Copa Sudamericana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ9T0sMOSZ1jBSM_9TkL2K3pzFgtNy0XWB4LCJqNl7BndoISEH5","groups": [
     {"name": "00:00 | Defensa y Justicia x Botafogo","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/1528791/4622342/","embed": true},
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
       {"name": "acestream ","url": ""}
   ]}]},
-  {"name": "⚽️ Copa Libertadores","image": "","groups": [
+  {"name": "⚽️ Copa Libertadores","image": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3ODMjkktAI1_hwf-DfIBGPDRFZAXy_sGzk0-qbQRfG4dMq7Rz","groups": [
     {"name": "02:30 | Palmeiras x Deportivo Pereira","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/copa-libertadores/4622344/","embed": true},
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd10.php","embed": true},
       {"name": "acestream ","url": ""}
     ]},
     {"name": "02:30 | Racing Avellaneda x Boca Juniors","image": "","stations": [
+      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/copa-libertadores/4622343/","embed": true},
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
       {"name": "acestream ","url": ""}
   ]}]},
