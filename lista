@@ -10,12 +10,9 @@
 
 
   {"name": "Miércoles, 30","image": "","groups": [
-    {"name": "🏀 FIBA Copa Mundial","image": "https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515366_10585.jpg","groups": [
-      {"name": "15:30 | Iran x España","image": "","stations": [
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://es8.sportplus.live/basketball/fiba-world-cup/4636219/","embed": true},
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://1l1l.to/embed28","embed": true},
-        {"name": "Web con VPN | sección Varios/APPs","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
-        {"name": "acestream ","url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"}
+    {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [
+      {"name": "02:30 | Zapata x Djokovic","image": "","stations": [
+        {"name": "acestream ","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
     ]}]},
     {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
       {"name": "21:00 | PSV Eindhoven x Rangers FC ","image": "","stations": [
