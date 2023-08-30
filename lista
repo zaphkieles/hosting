@@ -13,6 +13,10 @@
     {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [
       {"name": "19:30 | Zapata x Djokovic","image": "","stations": [
         {"name": "acestream ","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
+      ]},
+      {"name": "22:15 | Cerúndolo x Davidovich","image": "","stations": [
+        {"name": "Web con VPN | sección Varios/APPs","url": "https://es8.sportplus.live/tennis/us-open/4637009/","embed": true},
+        {"name": "acestream ","url": ""}
     ]}]},
     {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
       {"name": "21:00 | PSV Eindhoven x Rangers FC ","image": "","stations": [
@@ -34,11 +38,7 @@
       {"name": "21:00 | Celta de Vigo x World Team ","image": "","stations": [
         {"name": "Web con VPN | sección Varios/APPs","url": "https://www.goltelevision.com/en-directo","embed": true},
         {"name": "acestream ","url": ""}
-    ]}]},
-  {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [
-    {"name": "22:15 | Cerúndolo x Davidovich","image": "","stations": [
-      {"name": "Web con VPN | sección Varios/APPs","url": "https://es8.sportplus.live/tennis/us-open/4637009/","embed": true},
-      {"name": "acestream ","url": ""}
+    
     
 
   ]}]}  ]},
