@@ -8,28 +8,11 @@
 
 {"name": "Eventos diarios | acestreams un poco antes","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Jueves, 31 | enlaces x definir","image": "","groups": [
-  {"name": "⚽️ Copa Sudamericana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ9T0sMOSZ1jBSM_9TkL2K3pzFgtNy0XWB4LCJqNl7BndoISEH5","groups": [
-    {"name": "00:00 | Defensa y Justicia x Botafogo","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/1528791/4622342/","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-      {"name": "acestream ","url": ""}
-  ]}]},
-  {"name": "⚽️ Copa Libertadores","image": "https://t0.gstatic.com/images?q=tbn:ANd9GcS3ODMjkktAI1_hwf-DfIBGPDRFZAXy_sGzk0-qbQRfG4dMq7Rz","groups": [
-    {"name": "02:30 | Palmeiras x Deportivo Pereira","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/copa-libertadores/4622344/","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd10.php","embed": true},
-      {"name": "acestream ","url": ""}
-    ]},
-    {"name": "02:30 | Racing Avellaneda x Boca Juniors","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/copa-libertadores/4622343/","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-      {"name": "acestream ","url": ""}
-  ]}]},
+{"name": "Jueves, 31","image": "","groups": [
   {"name": "⚽️ Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [
     {"name": "20:30 | Club Brujas x Osasuna","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://2bac673f7fc25abda5f902850ce9f8c04a2b2056"}
 ]}]}  ]},
 
 {"name": "Viernes, 1 | enlaces x definir","image": "","groups": [
