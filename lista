@@ -13,21 +13,33 @@
     {"name": "14:00 | Real Sociedad x Granada","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/premier-league-belarus/4644318/","embed": true},
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"}
+      
     ]},
     {"name": "16:15 | Real Madrid x Getafe","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4599639/","embed": true},
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
+      
+      
     ]},
     {"name": "18:30 | Alavés x Valencia CF","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4600681/","embed": true},
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"}
+      
     ]},
     {"name": "21:00 | Real Betis x Rayo Vallecano","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"},
+      {"name": "acestream ","url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},
+      {"name": "acestream ","url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"},
+      {"name": "acestream ","url": "acestream://118416583faa3fb4f03800173429b6b844b43a52"}
+      
+      
+      
+      
   ]}]},
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
     {"name": "16:15 | Sporting Gijón x Burgos","image": "","stations": [
@@ -36,7 +48,8 @@
     ]},
     {"name": "18:30 | Levante x Real Oviedo","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4617406/","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a"}
+      
     ]},
     {"name": "21:00 | Elche x Racing de Santander","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4617407/","embed": true},
@@ -82,18 +95,22 @@
     {"name": "20:45 | Napoli x Lazio","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/italy-serie-a/4599641/","embed": true},
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd7.php","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
   ]}]},
     {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
       {"name": "15:30 | Bayer Leverkusen x SV Darmstadt 98","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/germany-bundesliga/4599787/","embed": true},
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd3.php","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a"},
+      {"name": "acestream ","url": "acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05"}
+      
     ]},
     {"name": "18:30 | Borussia Mönchengladbach x Bayern de Múnich","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/germany-bundesliga/4599575/","embed": true},
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd3.php","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"},
+      {"name": "acestream ","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
+      
   ]}]},
     {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
       {"name": "21:00 | Nantes x Marsella","image": "","stations": [
