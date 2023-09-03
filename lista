@@ -27,11 +27,14 @@
       ]},
       {"name": "18:30 | Real Zaragoza x Eldense","image": "","stations": [
         {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
-        {"name": "acestream ","url": "https://es8.sportplus.live/football/segunda-division-spain/4622498/"}
+        {"name": "acestream ","url": "https://es8.sportplus.live/football/segunda-division-spain/4622498/"},
+        {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+        {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}        
       ]},
       {"name": "21:00 | SD Huesca x Mirandés","image": "","stations": [
         {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4622498/","embed": true},
-        {"name": "acestream ","url": ""}
+        {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+        {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
     ]}]},
     {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
         {"name": "17:30 | Arsenal x Manchester United","image": "","stations": [
