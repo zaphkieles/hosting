@@ -13,7 +13,7 @@
       {"name": "18:30 | Atlético de Madrid x Sevilla","image": "","stations": [
         {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
         {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4599643/","embed": true},
-        {"name": "acestream ","url": ""}
+        {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"}
       ]},
       {"name": "21:00 | Osasuna x FC Barcelona","image": "","stations": [
         {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4599570/","embed": true},
@@ -39,11 +39,6 @@
         {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
     ]}]},
     {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
-        {"name": "17:30 | Arsenal x Manchester United","image": "","stations": [
-        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/apl/4599567/","embed": true},
-        {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd1.php","embed": true},
-        {"name": "acestream ","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"}
-    ]}]},
     {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
       {"name": "18:30 | Inter de Milán x ACF Fiorentina","image": "","stations": [
         {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd11.php","embed": true},
