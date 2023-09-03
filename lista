@@ -10,11 +10,6 @@
 
   {"name": "Domingo, 3","image": "","groups": [
     {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-      {"name": "16:15 | RCD Mallorca x Athletic Club","image": "","stations": [
-        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4599568/","embed": true},
-        {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-        {"name": "acestream ","url": ""}
-      ]},
       {"name": "18:30 | Atlético de Madrid x Sevilla","image": "","stations": [
         {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
         {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4599643/","embed": true},
@@ -26,10 +21,6 @@
         {"name": "acestream ","url": ""}
     ]}]},
     {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-      {"name": "16:15 | SD Eibar x Leganés","image": "","stations": [
-        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4617409/","embed": true},
-        {"name": "acestream ","url": ""}      
-      ]},
       {"name": "18:30 | RCD Espanyol x Amorebieta","image": "","stations": [
         {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4617578/","embed": true},
         {"name": "acestream ","url": ""}  
