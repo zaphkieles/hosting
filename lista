@@ -10,25 +10,10 @@
 
 {"name": "Domingo, 3","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "18:30 | Atlético de Madrid x Sevilla","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4599643/","embed": true},
-      {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"}
-    ]},
     {"name": "21:00 | Osasuna x FC Barcelona","image": "","stations": [
       {"name": "acestream ","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}
   ]}]},
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-    {"name": "18:30 | RCD Espanyol x Amorebieta","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4617578/","embed": true},
-      {"name": "acestream ","url": ""}  
-    ]},
-    {"name": "18:30 | Real Zaragoza x Eldense","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": "https://es8.sportplus.live/football/segunda-division-spain/4622498/"},
-      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
-    ]},
     {"name": "21:00 | SD Huesca x Mirandés","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4622498/","embed": true},
       {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
@@ -47,10 +32,7 @@
       {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
       ]},
     {"name": "20:45 | Empoli x Juventus","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd11.php","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/italy-serie-a/4599569/","embed": true},
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
-      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
+      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
   ]}]},
   {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
     {"name": "20:45 | Olympique Lyonnais x PSG","image": "","stations": [
