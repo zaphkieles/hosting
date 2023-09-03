@@ -8,107 +8,73 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Domingo, 3 | acestreams x definir","image": "","groups": [
-  {"name": "🏍 Moto GP","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/2560px-Moto_Gp_logo.svg.png","groups": [
-    {"name": "14:00 | G.P. Cataluña (circuito de Barcelona) Carrera","image": "","stations": [
-    {"name": "Web | con VPN, sección Varios/APPs","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},
-    {"name": "acestream ","url": ""}
-  ]}]},
-  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "14:00 | Girona x UD Las Palmas","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4602226/","embed": true},
-      {"name": "acestream ","url": ""}
-    ]},
-    {"name": "16:15 | RCD Mallorca x Athletic Club","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4599568/","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-      {"name": "acestream ","url": ""}
-    ]},
-    {"name": "18:30 | Atlético de Madrid x Sevilla","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4599643/","embed": true},
-      {"name": "acestream ","url": ""}
-    ]},
-    {"name": "21:00 | Osasuna x FC Barcelona","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4599570/","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
-      {"name": "acestream ","url": ""}
-  ]}]},
-  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-    {"name": "14:00 | FC Andorra x Tenerife","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": ""}
-    ]},
-    {"name": "16:15 | SD Eibar x Leganés","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4617409/","embed": true},
-      {"name": "acestream ","url": ""}      
-    ]},
-    {"name": "18:30 | RCD Espanyol x Amorebieta","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4617578/","embed": true},
-      {"name": "acestream ","url": ""}  
-    ]},
-    {"name": "18:30 | Real Zaragoza x Eldense","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": "https://es8.sportplus.live/football/segunda-division-spain/4622498/"}
-    ]},
-    {"name": "21:00 | SD Huesca x Mirandés","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4622498/","embed": true},
-      {"name": "acestream ","url": ""}
-  ]}]},
-  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
-    {"name": "15:00 | Liverpool x Aston Villa","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/apl/4599565/","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd2.php","embed": true},
-      {"name": "acestream ","url": ""}
-    ]},
-    {"name": "15:00 | Crystal Palace x Wolverhampton Wanderers","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd1.php","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/apl/4599566/","embed": true},
-      {"name": "acestream ","url": ""}
-    ]},
-    {"name": "17:30 | Arsenal x Manchester United","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/apl/4599567/","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd1.php","embed": true},
-      {"name": "acestream ","url": ""}
-  ]}]},
-  {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
-    {"name": "18:30 | Inter de Milán x ACF Fiorentina","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd11.php","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/italy-serie-a/4599521/","embed": true},
-      {"name": "acestream ","url": ""}
-    ]},
-    {"name": "18:30 | Torino x Genoa","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/italy-serie-a/4602244/","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd7.php","embed": true},
-      {"name": "acestream ","url": ""}
-    ]},
-    {"name": "20:45 | Empoli x Juventus","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd11.php","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/italy-serie-a/4599569/","embed": true},
-      {"name": "acestream ","url": ""}
-  ]}]},
-    {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
-      {"name": "15:30 | Eintracht Frankfurt x Colonia","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/germany-bundesliga/4599576/","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd3.php","embed": true},
-      {"name": "acestream ","url": ""}
-    ]},
-    {"name": "17:30 | Union Berlin x RB Leipzig","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd3.php","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/germany-bundesliga/4599577/","embed": true},
-      {"name": "acestream ","url": ""}
-  ]}]},
-    {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
-      {"name": "20:45 | Olympique Lyonnais x PSG","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/france-ligue-1/4599526/","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd2.php","embed": true},
-      {"name": "acestream ","url": ""}
-  ]}]},
-    {"name": "⚽️ Copa Euskadi Femenina","image": "","groups": [
-      {"name": "16:00 | Real Sociedad Femenino x Athletic Femenino","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": "acestream://2bac673f7fc25abda5f902850ce9f8c04a2b2056"}
+  {"name": "Domingo, 3 | enlaces x definir","image": "","groups": [
+    {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+      {"name": "16:15 | RCD Mallorca x Athletic Club","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4599568/","embed": true},
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
+        {"name": "acestream ","url": ""}
+      ]},
+      {"name": "18:30 | Atlético de Madrid x Sevilla","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4599643/","embed": true},
+        {"name": "acestream ","url": ""}
+      ]},
+      {"name": "21:00 | Osasuna x FC Barcelona","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4599570/","embed": true},
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd6.php","embed": true},
+        {"name": "acestream ","url": ""}
+    ]}]},
+    {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+      {"name": "16:15 | SD Eibar x Leganés","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4617409/","embed": true},
+        {"name": "acestream ","url": ""}      
+      ]},
+      {"name": "18:30 | RCD Espanyol x Amorebieta","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4617578/","embed": true},
+        {"name": "acestream ","url": ""}  
+      ]},
+      {"name": "18:30 | Real Zaragoza x Eldense","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
+        {"name": "acestream ","url": "https://es8.sportplus.live/football/segunda-division-spain/4622498/"}
+      ]},
+      {"name": "21:00 | SD Huesca x Mirandés","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4622498/","embed": true},
+        {"name": "acestream ","url": ""}
+    ]}]},
+    {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+        {"name": "17:30 | Arsenal x Manchester United","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/apl/4599567/","embed": true},
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd1.php","embed": true},
+        {"name": "acestream ","url": ""}
+    ]}]},
+    {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
+      {"name": "18:30 | Inter de Milán x ACF Fiorentina","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd11.php","embed": true},
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/italy-serie-a/4599521/","embed": true},
+        {"name": "acestream ","url": ""}
+      ]},
+      {"name": "18:30 | Torino x Genoa","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/italy-serie-a/4602244/","embed": true},
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd7.php","embed": true},
+        {"name": "acestream ","url": ""}
+      ]},
+      {"name": "20:45 | Empoli x Juventus","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd11.php","embed": true},
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/italy-serie-a/4599569/","embed": true},
+        {"name": "acestream ","url": ""}
+    ]}]},
+      {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
+      {"name": "17:30 | Union Berlin x RB Leipzig","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd3.php","embed": true},
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/germany-bundesliga/4599577/","embed": true},
+        {"name": "acestream ","url": ""}
+    ]}]},
+      {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
+        {"name": "20:45 | Olympique Lyonnais x PSG","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/france-ligue-1/4599526/","embed": true},
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://v3.sportsonline.sx/channels/hd/hd2.php","embed": true},
+        {"name": "acestream ","url": ""}
 ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
