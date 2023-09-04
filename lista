@@ -8,24 +8,6 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Domingo, 3","image": "","groups": [
-  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "21:00 | Osasuna x FC Barcelona","image": "","stations": [
-      {"name": "acestream ","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}
-  ]}]},
-  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-    {"name": "21:00 | SD Huesca x Mirandés","image": "","stations": [
-      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
-  ]}]},
-  {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
-    {"name": "20:45 | Empoli x Juventus","image": "","stations": [
-      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
-  ]}]},
-  {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
-    {"name": "20:45 | Olympique Lyonnais x PSG","image": "","stations": [
-      {"name": "acestream ","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}
-]}]}  ]},
-
 {"name": "Lunes, 4 | sin eventos","image": "","groups": [
   {"name": "","image": "","groups": [
     {"name": "","image": "","stations": [
