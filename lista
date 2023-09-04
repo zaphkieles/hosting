@@ -8,10 +8,22 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Lunes, 4 | sin eventos","image": "","groups": [
-  {"name": "","image": "","groups": [
-    {"name": "","image": "","stations": [
+{"name": "Lunes, 4 | enlaces x definir","image": "","groups": [
+  {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [
+    {"name": "17:00 | K. Sidorova x C. Esquiva Banuls","image": "","stations": [
+      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "19:30 | C. Alcaraz x M. Arnaldi","image": "","stations": [
+      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
+      {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "⚽️ Europeo Sub-19","image": "https://img.uefa.com/imgml/uefacom/under19/social/og-default.jpg","groups": [
+      {"name": "20:30 | España x Croacia","image": "","stations": [
+      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
+      {"name": "acestream ","url": ""}
 ]}]} ]}]},
+
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
   {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
