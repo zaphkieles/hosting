@@ -16,8 +16,8 @@
   ]}]},
   {"name": "⚽️ Europeo Sub-19","image": "https://img.uefa.com/imgml/uefacom/under19/social/og-default.jpg","groups": [
       {"name": "20:30 | España x Croacia","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "Web | con VPN, sección Varios/APPs","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
+      {"name": "acestream ","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}
 ]}]} ]}]},
 
 
