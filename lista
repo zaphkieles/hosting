@@ -12,7 +12,11 @@
   {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [
     {"name": "19:30 | C. Alcaraz x M. Arnaldi","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/tennis/us-open/4659564/","embed": true},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
+      {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
+      {"name": "acestream ","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"},
+      {"name": "acestream ","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
+
   ]}]},
   {"name": "⚽️ Europeo Sub-19","image": "https://img.uefa.com/imgml/uefacom/under19/social/og-default.jpg","groups": [
       {"name": "20:30 | España x Croacia","image": "","stations": [
