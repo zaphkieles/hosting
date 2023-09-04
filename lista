@@ -10,10 +10,6 @@
 
 {"name": "Lunes, 4 | enlaces x definir","image": "","groups": [
   {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [
-    {"name": "17:00 | K. Sidorova x C. Esquiva Banuls","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": ""}
-    ]},
     {"name": "19:30 | C. Alcaraz x M. Arnaldi","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/tennis/us-open/4659564/","embed": true},
       {"name": "acestream ","url": ""}
