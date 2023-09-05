@@ -17,13 +17,14 @@
     {"name": "20:10 | España x Holanda","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
       {"name": "acestream ","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}
+]}]}  ]},
 
 {"name": "Miércoles, 6 | enlaces x definir","image": "","groups": [
   {"name": "⚽️ (Futbol Sala) Europeo Sub-19","image": "https://image.slidesharecdn.com/copiadeftbolsala-130617085246-phpapp02/85/ftbol-sala-1-320.jpg?cb=1666922357","groups": [
     {"name": "18:30 | España x Francia","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
       {"name": "acestream ","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}
-    
+  
 ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
