@@ -24,7 +24,26 @@
     {"name": "18:30 | España x Francia","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
       {"name": "acestream ","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}
-  
+]}]}  ]},
+
+{"name": "Viernes, 8 | enlaces x definir","image": "","groups": [
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "21:00 | Levante x RCD Espanyol","image": "","stations": [
+      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
+      {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "⚽️ Eurocopa 2024","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/UEFA_Euro_2024_logo.svg/1200px-UEFA_Euro_2024_logo.svg.png","groups": [
+    {"name": "18:00 | Georgia x España","image": "","stations": [
+      {"name": "Web | con extensión chrome m3u8","url": "","embed": true},
+      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
+      {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "⚽️ Europeo Sub-21","image": "https://images.daznservices.com/di/library/DAZN_News/69/15/eurocopa-sub-21_7ojtwy0n4fen1di4968bq1057.jpg?t=-1023815448","groups": [
+    {"name": "20:45 | Malta x España","image": "","stations": [
+      {"name": "Web | con extensión chrome m3u8","url": "","embed": true},
+      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
+      {"name": "acestream ","url": ""}
+
 ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
