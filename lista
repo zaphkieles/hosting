@@ -8,13 +8,6 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Miércoles, 6","image": "","groups": [
-  {"name": "⚽️ (Futbol Sala) Europeo Sub-19","image": "https://image.slidesharecdn.com/copiadeftbolsala-130617085246-phpapp02/85/ftbol-sala-1-320.jpg?cb=1666922357","groups": [
-    {"name": "18:30 | España x Francia","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
-      {"name": "acestream ","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}
-]}]}  ]},
-
 {"name": "Jueves, 7","image": "","groups": [
   {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [
     {"name": "02:30 | C. Alcaraz x A. Zverev","image": "","stations": [
