@@ -15,19 +15,6 @@
       {"name": "acestream ","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}
 ]}]}  ]},
 
-{"name": "Jueves, 7","image": "","groups": [
-  {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [
-    {"name": "02:30 | C. Alcaraz x A. Zverev","image": "","stations": [
-      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/tennis/us-open/4670465/","embed": true},
-      {"name": "acestream ","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"},
-      {"name": "acestream ","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
-  ]}]},
-  {"name": "🏀 FIBA Europe Cup","image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/FIBA_Europe_Cup_logo.svg/1200px-FIBA_Europe_Cup_logo.svg.png","groups": [
-    {"name": "10:15 | Italia x España","image": "","stations": [
-      {"name": "Web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
-      {"name": "acestream ","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}
-]}]}  ]},
-
 {"name": "Viernes, 8","image": "","groups": [
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
     {"name": "21:00 | Levante x RCD Espanyol","image": "","stations": [
