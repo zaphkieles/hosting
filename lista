@@ -32,6 +32,11 @@
       {"name": "Web | con chrome y extensión m3u8","url": "","embed": true},
       {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
       {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "🎾 Copa Sevilla","image": "https://s2.abcstatics.com/media/deportes/2021/08/13/s/CartelCopaSevillaChallenger2021-U50522060153xMm-620x349@abc.jpg","groups": [
+    {"name": "18:00 | R. Carballés x H. Gaston","image": "","stations": [
+      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/tennis/102917/4684064/","embed": true},
+      {"name": "acestream ","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}
 ]}]}  ]},
 
 {"name": "Sábado, 9","image": "","groups": [
