@@ -32,7 +32,7 @@
     {"name": "20:00 | FC Bayern Basketball x Real Madrid Baloncesto","image": "","stations": [
       {"name": "Web | con chrome y extensión m3u8","url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8","embed": true},
       {"name": "acestream ","url": "acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11"},
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://0827cf7d290967985892965c6e61244a479d6dcd"}
       
 ]}]}  ]},
 
