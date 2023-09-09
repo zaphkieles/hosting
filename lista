@@ -31,7 +31,9 @@
   {"name": "🏀 Torneo Costa del Sol","image": "https://s1.ppllstatics.com/diariosur/www/multimedia/2023/08/04/torneo-costa-del-sol-reducido-R2UKbC18klNFow7LRkyOtQI-1200x840@Diario%20Sur.jpg","groups": [
     {"name": "20:00 | FC Bayern Basketball x Real Madrid Baloncesto","image": "","stations": [
       {"name": "Web | con chrome y extensión m3u8","url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8","embed": true},
+      {"name": "acestream ","url": "acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11"},
       {"name": "acestream ","url": ""}
+      
 ]}]}  ]},
 
 {"name": "Domingo, 10","image": "","groups": [
