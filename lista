@@ -12,30 +12,6 @@
   
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
     
-    {"name": "18:30 | Real Oviedo x Sporting Gijón","image": "","stations": [
-      {"name": "Web | Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4658987/","embed": true},
-      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
-      ]},
-    {"name": "21:00 | Leganés x SD Huesca","image": "","stations": [
-        {"name": "Web | Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4659504/","embed": true},
-        {"name": "Web | Web | con VPN, sección Varios/APPs","url": "https://1l1l.to/embed40","embed": true},
-        {"name": "acestream ","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
-        {"name": "acestream ","url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"}
-      ]},
-    {"name": "21:30 | Tenerife x Albacete","image": "","stations": [
-      {"name": "Web | Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4658987/","embed": true},
-      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
-  ]}]},
-  {"name": "🏀 Torneo Costa del Sol","image": "https://s1.ppllstatics.com/diariosur/www/multimedia/2023/08/04/torneo-costa-del-sol-reducido-R2UKbC18klNFow7LRkyOtQI-1200x840@Diario%20Sur.jpg","groups": [
-    {"name": "20:00 | FC Bayern Basketball x Real Madrid Baloncesto","image": "","stations": [
-      {"name": "Web | con chrome y extensión m3u8","url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8","embed": true},
-      {"name": "acestream ","url": "acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11"},
-      {"name": "acestream ","url": "acestream://0827cf7d290967985892965c6e61244a479d6dcd"}
-      
-]}]}  ]},
-
 {"name": "Domingo, 10","image": "","groups": [
   {"name": "🏍 Moto GP","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/2560px-Moto_Gp_logo.svg.png","groups": [
     {"name": "14:00 | GP San Marino (Misano) Carrera","image": "","stations": [
