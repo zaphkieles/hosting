@@ -19,8 +19,6 @@
           {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"},
           {"name": "acestream ","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
           {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
-          
-          
       ]}]},
       {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
         {"name": "21:00 | Southampton x Leicester City","image": "","stations": [
@@ -34,8 +32,7 @@
       {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
         {"name": "20:30 | Bayern x Bayer Leverkusen","image": "","stations": [
           {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"}
-          
-          ]}]} ]}]},
+]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
   {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
