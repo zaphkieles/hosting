@@ -85,7 +85,8 @@
     ]}]},
     {"name": "🎾 Copa Davis","image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_davis_cup.png","groups": [
       {"name": "18:00 | Australia x Suiza","image": "","stations": [
-        {"name": "acestream","url": "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"}
+        {"name": "acestream","url": "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"},
+        {"name": "acestream","url": "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"}
       
 ]}]} ]}]},
 
