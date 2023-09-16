@@ -56,7 +56,12 @@
       {"name": "16:00 | West Ham x Manchester City","image": "","stations": [
         {"name": "Web | con VPN, sección Varios/APPs","url": "https://sportsonline.so/channels/hd/hd1.php","embed": true},
         {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
-        {"name": "acestream ","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}          
+        {"name": "acestream ","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}   
+      ]},
+      {"name": "16:00 | Newcastle United x Brentford","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://sportsonline.so/channels/pt/eleven1.php","embed": true},
+        {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+        {"name": "acestream ","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}         
 
 ]}]} ]}]},
 
