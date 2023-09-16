@@ -14,12 +14,10 @@
         {"name": "TERMINADO"}
       ]},
       {"name": "16:15 | Valencia CF x Atlético Madrid","image": "","stations": [
-        {"name": "TERMINADO","url": "https://es8.sportplus.live/football/la-liga/4634916/","embed": true}
+        {"name": "TERMINADO"}
       ]},
       {"name": "18:30 | Celta de Vigo x RCD Mallorca","image": "","stations": [
-        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4634873/","embed": true},
-        {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"},
-        {"name": "acestream ","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
+        {"name": "TERMINADO"}
       ]},
       {"name": "21:00 | FC Barcelona x Real Betis","image": "","stations": [
         {"name": "Web | con VPN, sección Varios/APPs","url": "https://sportsonline.so/channels/hd/hd6.php","embed": true},
@@ -58,7 +56,7 @@
         {"name": "TERMINADO"}
       ]},
       {"name": "18:00 | Inter de Milán x AC Milan","image": "","stations": [
-        {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
+        {"name": "TERMINADO"}
       ]},
       {"name": "20:45 | Genoa x Napoli","image": "","stations": [
         {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
@@ -74,24 +72,22 @@
         {"name": "TERMINADO"}
       ]},
       {"name": "18:30 | Bochum x Eintracht Frankfurt","image": "","stations": [
-        {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
+        {"name": "TERMINADO"}
     ]}]},
     {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
       {"name": "17:00 | Rennes x Lille LOSC","image": "","stations": [
-        {"name": "acestream ","url": "acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05"}
+        {"name": "TERMINADO"}
       ]},
       {"name": "21:00 | Lens x Metz","image": "","stations": [    
         {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
     ]}]},
     {"name": "🎾 Copa Davis","image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_davis_cup.png","groups": [
       {"name": "18:00 | Australia x Suiza","image": "","stations": [
-        {"name": "acestream","url": "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"},
-        {"name": "acestream","url": "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"}
+        {"name": "TERMINADO"}
     ]}]},
     {"name": "🏀 Supercopa Endesa","image": "https://upload.wikimedia.org/wikipedia/en/1/14/Supercopa_Endesa.png","groups": [
       {"name": "18:30 | Barça Basket x Real Madrid Baloncesto","image": "","stations": [
-        {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
-        {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+        {"name": "TERMINADO"}
       ]},
       {"name": "21:30 | Unicaja Málaga x UCAM Murcia CB","image": "","stations": [
         {"name": "acestream","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"},
