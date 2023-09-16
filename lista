@@ -87,6 +87,12 @@
       {"name": "18:00 | Australia x Suiza","image": "","stations": [
         {"name": "acestream","url": "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"},
         {"name": "acestream","url": "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"}
+    ]}]},
+    {"name": "🏀 Supercopa Endesa","image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_davis_cup.png","groups": [
+      {"name": "18:30 | Barça Basket x Real Madrid Baloncesto","image": "","stations": [
+        {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
+        {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+        
       
 ]}]} ]}]},
 
