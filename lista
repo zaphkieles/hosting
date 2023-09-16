@@ -1,4 +1,4 @@
-{"name": "Zaphkiel_ES","author": "Sep/2023","url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista","image": "https://avatars.githubusercontent.com/u/12897601?v=4","imageScale": "","telegram": "Zaphkiel_ES","info": "Lista Eventos Deportivos",
+{"name": "Zaphkiel_ES","author": "Sep/2023 (Actualiza la lista)","url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista","image": "https://avatars.githubusercontent.com/u/12897601?v=4","imageScale": "","telegram": "Zaphkiel_ES","info": "Lista Eventos Deportivos",
 
 "groups": [
 
@@ -11,15 +11,10 @@
   {"name": "Sábado, 16","image": "","groups": [
     {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
       {"name": "14:00 | Athletic Club x Cádiz CF","image": "","stations": [
-        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4634872/","embed": true},
-        {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+        {"name": "TERMINADO"}
       ]},
       {"name": "16:15 | Valencia CF x Atlético Madrid","image": "","stations": [
-        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4634916/","embed": true},
-        {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},     
-        {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
-        {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"},
-        {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"}
+        {"name": "TERMINADO","url": "https://es8.sportplus.live/football/la-liga/4634916/","embed": true},
       ]},
       {"name": "18:30 | Celta de Vigo x RCD Mallorca","image": "","stations": [
         {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4634873/","embed": true},
@@ -33,14 +28,12 @@
         {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
     ]}]},
     {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-      {"name": "16:15-SD Huesca x Villarreal B | 18:30-Alcorcón x Levante | 18:30-Real Valladolid x Cartagena | 21:00-Albacete x Burgos CF","image": "","stations": [
-        {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-        {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
+      {"name": "16:15-SD Huesca x Villarreal B TERMINADO | 18:30-Alcorcón x Levante | 18:30-Real Valladolid x Cartagena | 21:00-Albacete x Burgos CF","image": "","stations": [
+        {"name": "TERMINADO "}
     ]}]},
     {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
       {"name": "13:30 | Wolverhampton Wanderers x Liverpool","image": "","stations": [
-        {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
-        {"name": "acestream ","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}
+        {"name": "TERMINADO"}
       ]},
       {"name": "16:00 | Aston Villa x Crystal Palace","image": "","stations": [
         {"name": "Web | con VPN, sección Varios/APPs","url": "https://sportsonline.so/channels/hd/hd11.php","embed": true},
