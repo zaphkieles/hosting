@@ -67,7 +67,9 @@
       {"name": "15:00 | Juventus x Lazio","image": "","stations": [
         {"name": "acestream ","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
         {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"} 
-        
+      ]},
+      {"name": "18:00 | Inter de Milán x AC Milan","image": "","stations": [
+        {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
 
 ]}]} ]}]},
 
