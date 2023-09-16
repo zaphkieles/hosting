@@ -70,7 +70,9 @@
       ]},
       {"name": "18:00 | Inter de Milán x AC Milan","image": "","stations": [
         {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
-
+      ]},
+      {"name": "20:45 | Genoa x Napoli","image": "","stations": [
+        {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
 ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
