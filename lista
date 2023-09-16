@@ -95,7 +95,8 @@
       {"name": "17:00 | Rennes x Lille LOSC","image": "","stations": [
     ]},
       {"name": "21:00 | Lens x Metz","image": "","stations": [    
-
+        {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
+      
 ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
