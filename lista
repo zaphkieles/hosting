@@ -76,7 +76,7 @@
     ]}]},
     {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
       {"name": "15:30 | RB Leipzig x Augsburgo","image": "","stations": [
-        {"name": "acestream ","url": ""}
+        {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
       ]},
       {"name": "15:30 | VfL Wolfsburgo x Union Berlin","image": "","stations": [
         {"name": "acestream ","url": ""}
