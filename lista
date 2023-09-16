@@ -82,7 +82,7 @@
         {"name": "acestream ","url": ""}
       ]},
       {"name": "15:30 | Friburgo x Dortmund","image": "","stations": [
-        {"name": "acestream ","url": ""}
+        {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
       ]},
       {"name": "18:30 | Bochum x Eintracht Frankfurt","image": "","stations": [
         {"name": "acestream ","url": ""}
