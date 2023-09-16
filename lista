@@ -14,19 +14,16 @@
         {"name": "TERMINADO"}
       ]},
       {"name": "16:15 | Valencia CF x Atlético Madrid","image": "","stations": [
-        {"name": "TERMINADO"}
+        {"name": "TERMINADO","url": "https://es8.sportplus.live/football/la-liga/4634916/","embed": true}
       ]},
       {"name": "18:30 | Celta de Vigo x RCD Mallorca","image": "","stations": [
         {"name": "TERMINADO"}
       ]},
       {"name": "21:00 | FC Barcelona x Real Betis","image": "","stations": [
-        {"name": "Web | con VPN, sección Varios/APPs","url": "https://sportsonline.so/channels/hd/hd6.php","embed": true},
-        {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
-        {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
-        {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+        {"name": "TERMINADO"}
     ]}]},
     {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-      {"name": "16:15-SD Huesca x Villarreal B TERMINADO | 18:30-Alcorcón x Levante | 18:30-Real Valladolid x Cartagena | 21:00-Albacete x Burgos CF","image": "","stations": [
+      {"name": "16:15-SD Huesca x Villarreal B TERMINADO | 18:30-Alcorcón x Levante TERMINADO | 18:30-Real Valladolid x Cartagena TERMINADO | 21:00-Albacete x Burgos CF TERMINADO","image": "","stations": [
         {"name": "TERMINADO "}
     ]}]},
     {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
@@ -59,7 +56,7 @@
         {"name": "TERMINADO"}
       ]},
       {"name": "20:45 | Genoa x Napoli","image": "","stations": [
-        {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
+        {"name": "TERMINADO"}
     ]}]},
     {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
       {"name": "15:30 | RB Leipzig x Augsburgo","image": "","stations": [
@@ -79,11 +76,11 @@
         {"name": "TERMINADO"}
       ]},
       {"name": "21:00 | Lens x Metz","image": "","stations": [    
-        {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
+        {"name": "TERMINADO"}
     ]}]},
     {"name": "🎾 Copa Davis","image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_davis_cup.png","groups": [
       {"name": "18:00 | Australia x Suiza","image": "","stations": [
-        {"name": "TERMINADO"}
+        {"name": "TERMIADO"}
     ]}]},
     {"name": "🏀 Supercopa Endesa","image": "https://upload.wikimedia.org/wikipedia/en/1/14/Supercopa_Endesa.png","groups": [
       {"name": "18:30 | Barça Basket x Real Madrid Baloncesto","image": "","stations": [
