@@ -96,9 +96,56 @@
       {"name": "21:30 | Unicaja Málaga x UCAM Murcia CB","image": "","stations": [
         {"name": "acestream","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"},
         {"name": "acestream","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
+]}]}  ]},
 
-        
-      
+{"name": "Domingo, 17","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "14:00 | Getafe x Osasuna","image": "","stations": [
+      {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
+      {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+    ]},
+    {"name": "16:15 | Villarreal x Almería","image": "","stations": [
+      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
+    ]},
+    {"name": "18:30 | Sevilla FC x UD Las Palmas","image": "","stations": [
+      {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
+      {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+    ]},
+    {"name": "21:00 | Real Madrid x Real Sociedad","image": "","stations": [
+      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
+      {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
+      {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "14:00-Amorebieta x Mirandés | 16:15-SD Eibar x Racing Ferrol | 18:30-Elche x Leganés | 18:30-RCD Espanyol x Eldense | 21:00-RCD Sporting Gijón x Tenerife","image": "","stations": [
+      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
+  ]}]},
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "15:00-AFC Bournemouth x Chelsea | 17:30-Everton x Arsenal","image": "","stations": [
+      {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "acestream ","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}        
+  ]}]},
+  {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
+    {"name": "18:00-ACF Fiorentina x Atalanta | 20:45-Roma x Empoli","image": "","stations": [
+      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}      
+  ]}]},
+  {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
+    {"name": "20:45 | Olympique Lyonnais x Le Havre","image": "","stations": [
+      {"name": "acestream ","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}
+  ]}]},
+  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
+    {"name": "13:00 | Milwall x Leeds Utd.","image": "","stations": [
+      {"name": "acestream ","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
+      {"name": "acestream ","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"}
+
+    
+
+  
 ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
