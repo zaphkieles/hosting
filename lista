@@ -103,14 +103,17 @@
       {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
     ]},
     {"name": "21:00 - Manchester City x Estrella Roja","image": "","stations": [
-      {"name": "acestream ","url": ""}
+      {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"},
+      {"name": "acestream ","url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"},
+      {"name": "acestream ","url": "acestream://0f32c0131a2d9444996410801f4e18b04384db98"}
     ]},
     {"name": "21:00 - FC Barcelona x Antwerp","image": "","stations": [
       {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
       {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
     ]},
     {"name": "21:00 - Feyenoord x Celtic FC","image": "","stations": [
-      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
+      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"},
+      {"name": "acestream ","url": "acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80"}
     ]},
     {"name": "21:00 - PSG x Dortmund","image": "","stations": [
       {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
