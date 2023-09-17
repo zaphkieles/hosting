@@ -29,17 +29,17 @@
       {"name": "acestream","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
   ]}]},
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-    {"name": "14:00-Amorebieta x Mirandés  |  16:15-SD Eibar x Racing Ferrol |  18:30-Elche x Leganés  |  18:30-RCD Espanyol x Eldense  |  21:00-RCD Sporting Gijón x Tenerife","image": "","stations": [
+    {"name": "14:00-Amorebieta_x_Mirandés | 16:15-SD_Eibar_x_Racing_Ferrol | 18:30-Elche_x_Leganés | 18:30-RCD_Espanyol_x_Eldense | 21:00-RCD_Sporting_Gijón_x_Tenerife","image": "","stations": [
       {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
       {"name": "acestream","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
   ]}]},
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
-    {"name": "15:00-AFC Bournemouth x Chelsea  |  17:30-Everton x Arsenal","image": "","stations": [
+    {"name": "15:00-AFC_Bournemouth_x_Chelsea | 17:30-Everton_x_Arsenal","image": "","stations": [
       {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
       {"name": "acestream","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}        
   ]}]},
   {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
-    {"name": "18:00-ACF Fiorentina x Atalanta  |  20:45-Roma x Empoli","image": "","stations": [
+    {"name": "18:00-ACF_Fiorentina_x_Atalanta | 20:45-Roma_x_Empoli","image": "","stations": [
       {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
       {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
       {"name": "acestream","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}      
