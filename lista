@@ -91,7 +91,6 @@
 
 
 ]}]} ]}]},
-
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
   {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
   {"name": "LiveSoccer","image": "https://cdn.livesoccertv.com/images/logo.gif","url": "https://my.livesoccer.sx","embed": true},
@@ -99,7 +98,6 @@
   {"name": "Futbolfullenvivo (necesita activar VPN)","image": "https://site-images.similarcdn.com/image?url=futbolfullenvivo.com&t=4&s=1&h=1e16154a9666e0125afb7710583242e6aac9471aed792e00c55367abe1efdea9","url": "https://futbolfullenvivo.com/","embed": true},
   {"name": "HDMatch (necesita activar VPN)","image": "https://pbs.twimg.com/profile_images/1527601638932086787/IKDpD69A_400x400.png","url": "https://hdmatch.xyz/","embed": true},{"name": "SportsOnline | (Listado, horario de España +1h)","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNOcom6sZBkzmaBuBTaktpmfGO9z0ByRFc2gKkmUe2Mncmr6sa4bQ6cm25_wsCHTk-LiI&usqp=CAU","url": "https://sportsonline.sx/prog.txt","embed": true}
 ]},
-
 {"name": "Varios","image": "https://www.softzone.es/app/uploads-softzone.es/2016/09/explorador-de-archivos.jpg?x=480&y=375&quality=40","groups": [
     {"name": "Canales TV","image": "https://e7.pngegg.com/pngimages/881/51/png-clipart-iptv-television-channel-canal-smart-tv-iptv-television-text-thumbnail.png","info": "No Info","stations": [
     {"name": "SFNTV","image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_sfn_logo_step_repeat.png","url": "https://sfntv.co/","embed": true},
