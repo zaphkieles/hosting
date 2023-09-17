@@ -119,8 +119,8 @@
       {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
     ]},
     {"name": "21:00 - Shaktar Donetsk x Oporto","image": "","stations": [
-      {"name": "acestream ","url": ""}
-
+      {"name": "acestream ","url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},
+      {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"}
 ]}]} ]}]},
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
   {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
