@@ -53,23 +53,23 @@
       {"name": "acestream","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
       {"name": "acestream","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"}
   ]}]},
-    {"name": "🎾 Copa Davis","image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_davis_cup.png","groups": [
-      {"name": "15,17,19h - España x Corea del Sur","image": "","stations": [
-        {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
-        {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
-        {"name": "acestream","url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"}
-    ]}]},
-    {"name": "🏀 Supercopa Endesa","image": "https://upload.wikimedia.org/wikipedia/en/1/14/Supercopa_Endesa.png","groups": [
-      {"name": "19:00 - Final","image": "","stations": [
-        {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
-        {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
-        {"name": "acestream","url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"}
-    ]}]},
-    {"name": "🏎 AUTOMOVILISMO FORMULA 1","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Marina_bay_circuit.svg/320px-Marina_bay_circuit.svg.png","groups": [
-      {"name": "14:00 - GP Singapur (carrera)","image": "","stations": [
-        {"name": "acestream","url": "acestream://5789ca155323664edd293b848606688edf803f4d"},
-        {"name": "acestream","url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"},
-        {"name": "acestream","url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"}
+  {"name": "🎾 Copa Davis","image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_davis_cup.png","groups": [
+    {"name": "15,17,19h - España x Corea del Sur","image": "","stations": [
+      {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
+      {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
+      {"name": "acestream","url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"}
+  ]}]},
+  {"name": "🏀 Supercopa Endesa","image": "https://upload.wikimedia.org/wikipedia/en/1/14/Supercopa_Endesa.png","groups": [
+    {"name": "19:00 - Final","image": "","stations": [
+      {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
+      {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
+      {"name": "acestream","url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"}
+  ]}]},
+  {"name": "🏎 AUTOMOVILISMO FORMULA 1","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Marina_bay_circuit.svg/320px-Marina_bay_circuit.svg.png","groups": [
+    {"name": "14:00 - GP Singapur (carrera)","image": "","stations": [
+      {"name": "acestream","url": "acestream://5789ca155323664edd293b848606688edf803f4d"},
+      {"name": "acestream","url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"},
+      {"name": "acestream","url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"}
 ]}]}  ]},
 
 {"name": "Lunes, 18","image": "","groups": [
