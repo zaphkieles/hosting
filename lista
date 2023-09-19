@@ -36,14 +36,22 @@
       {"name": "acestream ","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
     ]},
     {"name": "21:00 - Benfica x Red Bull Salzburgo","image": "","stations": [
-      {"name": "acestream ","url": "aacestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},
+      {"name": "acestream ","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"},
+      {"name": "acestream ","url": "acestream://fdd9e3660059051660dbd7857443c2b807f258d0"},
+      {"name": "acestream ","url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},
       {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"}
     ]},
     {"name": "21:00 - Real Sociedad x Inter Milan","image": "","stations": [
-        {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-        {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
+      {"name": "acestream ","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"},
+      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "acestream ","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
+      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
     ]},
     {"name": "21:00 - Braga x Napoli","image": "","stations": [
+      {"name": "acestream ","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"},
+      {"name": "acestream ","url": "acestream://5932623d2fd7ed16b01787251b418e4f59a01cda"},
       {"name": "acestream ","url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce"},
       {"name": "acestream ","url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"},
       {"name": "acestream ","url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"}
