@@ -30,8 +30,10 @@
       {"name": "acestream ","url": "acestream://0f32c0131a2d9444996410801f4e18b04384db98"}
     ]},
     {"name": "21:00 - Bayern de Múnich x Manchester United","image": "","stations": [
-        {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"},
-        {"name": "acestream ","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
+      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
+      {"name": "acestream ","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"},
+      {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"},
+      {"name": "acestream ","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
     ]},
     {"name": "21:00 - Benfica x Red Bull Salzburgo","image": "","stations": [
       {"name": "acestream ","url": "aacestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},
