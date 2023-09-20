@@ -78,9 +78,7 @@
       {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
       {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
       {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
-      {"name": "acestream","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
-      {"name": "acestream","url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"},
-      {"name": "acestream","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"},
+      {"name": "acestream","url": "acestream://8712cfc609c5a2fbaee0855149b0766360517cab"},
       {"name": "acestream","url": "acestream://04448c3ca0b7518819491e468adbabc8a2551bd7"}
   ]}]},
   {"name": "🏌‍♂ Open de Francia","image": "https://play-lh.googleusercontent.com/DJueER9q3UPYjWnyXwUP3NF_wgKZ_dtIGhU2T-ibVo2W8EDyNHYG-0SNAuSH-D48XQ","groups": [
@@ -107,6 +105,18 @@
   {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
     {"name": "21:00 |  AS Mónaco x Niza","image": "","stations": [
       {"name": "acestream","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}
+  ]}]},
+  {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
+    {"name": "21:00 |  Birmingham x QPR","image": "","stations": [
+      {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "acestream","url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"},
+      {"name": "acestream","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"}
+  ]}]},
+  {"name": "⚽️ UEFA Women's Nations League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/UEFA_Women%27s_Nations_League_logo.svg/160px-UEFA_Women%27s_Nations_League_logo.svg.png","groups": [
+    {"name": "18:30 |  Suecia x España","image": "","stations": [
+      {"name": "acestream","url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"},
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},
+
 ]}]}  ]},
 
 {"name": "Sábado, 23","image": "","groups": [
