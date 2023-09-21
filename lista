@@ -51,7 +51,7 @@
   {"name": "⚽️ UEFA Women's Nations League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/UEFA_Women%27s_Nations_League_logo.svg/160px-UEFA_Women%27s_Nations_League_logo.svg.png","groups": [
     {"name": "18:30 |  Suecia x España","image": "","stations": [
       {"name": "acestream","url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"},
-      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true}
 
 ]}]}  ]},
 
