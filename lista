@@ -18,10 +18,9 @@
   ]}]},
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
     {"name": "21:00 |  Cartagena x SD Eibar","image": "","stations": [
+      {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
       {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-      {"name": "acestream","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"},
-      {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
-      {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+      {"name": "acestream","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
   ]}]},
   {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
     {"name": "21:00 |  AS Mónaco x Niza","image": "","stations": [
@@ -37,6 +36,13 @@
     {"name": "18:30 |  Suecia x España","image": "","stations": [
       {"name": "acestream","url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"},
       {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true}
+  ]}]},
+    {"name": "🎾 Laver Cup","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Laver-Cup-Globe.svg/1019px-Laver-Cup-Globe.svg.png","groups": [  
+      {"name": "23:30 | A.Davidovich x F.Cerúndolo","image": "","stations": [
+        {"name": "acestream","url": "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"},
+        {"name": "web | con VPN (Sección Varios/Apps)","url": "https://es8.sportplus.live/tennis/lavercup/4758073/","embed": true}
+  
+      
 ]}]}  ]},
 
 {"name": "Sábado, 23","image": "","groups": [
