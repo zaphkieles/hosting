@@ -8,16 +8,6 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Viernes, 22","image": "","groups": [
-
-    {"name": "🎾 Laver Cup","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Laver-Cup-Globe.svg/1019px-Laver-Cup-Globe.svg.png","groups": [  
-      {"name": "23:30 | A.Davidovich x F.Cerúndolo","image": "","stations": [
-        {"name": "acestream","url": "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"},
-        {"name": "web | con VPN (Sección Varios/Apps)","url": "https://es8.sportplus.live/tennis/lavercup/4758073/","embed": true}
-  
-      
-]}]}  ]},
-
 {"name": "Sábado, 23","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "14:00 | Girona x RCD Mallorca","image": "","stations": [
