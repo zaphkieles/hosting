@@ -61,6 +61,7 @@
   ]}]},
   {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
     {"name": "(15:00) AC Milan x Hellas Verona | (18:00) Sassuolo x Juventus | (20:45) Lazio x Monza","image": "","stations": [
+      {"name": "acestream","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"},
       {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
       {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
       {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"}
