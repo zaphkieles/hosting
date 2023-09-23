@@ -12,7 +12,7 @@
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "14:00 | Girona x RCD Mallorca","image": "","stations": [
       {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},
-      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546,121a774a5"}
+      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
       {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}
     ]},
     {"name": "16:15 | Osasuna x Sevilla","image": "","stations": [
@@ -40,19 +40,25 @@
   ]}]},
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "16:00 | Manchester City x Nottingham Forest","image": "","stations": [
-      {"name": "acestream","url": ""}
+      {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "acestream","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
     ]},
     {"name": "16:00 | Crystal Palace x Fulham","image": "","stations": [
-      {"name": "acestream","url": ""}
+      {"name": "acestream","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
+      {"name": "acestream","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"},
+      {"name": "acestream","url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"}
     ]},
     {"name": "16:00 | Luton Town x Wolverhampton Wanderers","image": "","stations": [
-      {"name": "acestream","url": ""}
+      {"name": "acestream","url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97"}
     ]},
     {"name": "18:30 | Brentford x Everton","image": "","stations": [
-      {"name": "acestream","url": ""}
+      {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "acestream","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
     ]},
     {"name": "21:00 | Burnley x Manchester United","image": "","stations": [
-      {"name": "acestream","url": ""}
+      {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "acestream","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
+
 ]}]}  ]},
 
 {"name": "Domingo, 24","image": "","groups": [
