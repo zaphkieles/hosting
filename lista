@@ -21,10 +21,9 @@
       {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"}
     ]},
     {"name": "18:45 | Antwerp x Shaktar Donetsk","image": "","stations": [
-      {"name": "acestream","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
-      {"name": "acestream","url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"}
+      {"name": "acestream","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
     ]},
-    {"name": "21:00 | Celtic FC x Lazio","image": "","stations": [
+      {"name": "21:00 | Celtic FC x Lazio","image": "","stations": [
       {"name": "acestream","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"},
       {"name": "acestream","url": "acestream://5932623d2fd7ed16b01787251b418e4f59a01cda"}
     ]},
@@ -36,7 +35,7 @@
       {"name": "acestream","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
       {"name": "acestream","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
       {"name": "acestream","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"}
-    ]},
+      ]},
     {"name": "21:00 | Estrella Roja x Young Boys","image": "","stations": [
       {"name": "acestream","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"},
       {"name": "acestream","url": "acestream://fdd9e3660059051660dbd7857443c2b807f258d0"}
@@ -49,10 +48,9 @@
       {"name": "acestream","url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"},
       {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
       {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
-      {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"}
+      {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
       {"name": "acestream","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"}
        
-
 
 ]}]} ]}]},
 
@@ -66,7 +64,7 @@
 
 {"name": "Varios","image": "https://www.softzone.es/app/uploads-softzone.es/2016/09/explorador-de-archivos.jpg?x=480&y=375&quality=40","groups": [
     {"name": "Canales TV","image": "https://e7.pngegg.com/pngimages/881/51/png-clipart-iptv-television-channel-canal-smart-tv-iptv-television-text-thumbnail.png","info": "No Info","stations": [
-    {"name": "SFNTV","image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_sfn_logo_step_repeat.png","url": "https://sfntv.co/","embed": true},
+      {"name": "SFNTV","image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_sfn_logo_step_repeat.png","url": "https://sfntv.co/","embed": true},
     {"name": "ITELEFLIX","image": "https://iteleflix.com/archivos/logo-iteleflix.png","url": "https://iteleflix.com/","embed": true},
     {"name": "TDTChannels | canales de TV y Radio IPTV","image": "https://www.tdtchannels.com/tdtchannels_android_tv_1.png","url": "https://www.tdtchannels.com/","embed": true},
     {"name": "PHOTOCALL","image": "https://www.adslzone.net/app/uploads-adslzone.net/2021/12/photocall-1.jpg","url": "https://photocall.tv","embed": true}
