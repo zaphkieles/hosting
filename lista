@@ -12,8 +12,6 @@
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [ 
     {"name": "(19:00) Real Oviedo x SD Huesca | (19:00) Eldense x Real Valladolid | (21:30) Sporting Gijón x Elche | (21:30) Burgos x Leganés","image": "","stations": [
       {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-      {"name": "acestream","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"},
-      {"name": "acestream","url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"},
       {"name": "acestream","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
   ]}]},
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
