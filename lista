@@ -15,19 +15,12 @@
       {"name": "acestream","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
   ]}]},
   {"name": "⚽️ Europa League","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png","groups": [
-    {"name": "18:45 | Real Betis x Sparta Praha","image": "","stations": [
+    {"name": "(18:45) Real Betis x Sparta Praha | (21:00) Villarreal x Rennes","image": "","stations": [
       {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
       {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
       {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
       {"name": "acestream","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
-    ]},
-    {"name": "21:00 | Villarreal x Rennes","image": "","stations": [
-      {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
-      {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
-      {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
-      {"name": "acestream","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}    
-
-
+    
 
 ]}]} ]}]},
 
