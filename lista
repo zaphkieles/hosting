@@ -37,6 +37,12 @@
     {"name": "(20:15) España x Eslovenia","image": "","stations": [
       {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
       {"name": "acestream","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}
+  ]}]},
+  {"name": "🏎 F1","image": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg","groups": [
+    {"name": "(19:00) G.P. Catar (Losail) Clasificación","image": "","stations": [
+      {"name": "acestream","url": "acestream://5789ca155323664edd293b848606688edf803f4d"},
+      {"name": "acestream","url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"},
+      {"name": "acestream","url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"}
 
 ]}]} ]}]},
 
