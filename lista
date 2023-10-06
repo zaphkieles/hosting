@@ -32,6 +32,11 @@
   {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
     {"name": "(21:00) Birmingham City x West Bromwich Albion","image": "","stations": [
       {"name": "acestream","url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"}
+  ]}]},
+  {"name": "⚽️ FIFA Copa Mundial FutSal","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trofeo_del_mundial_de_Futsal%2C_visit%C3%B3_comando_de_la_Polic%C3%ADa_en_Cali_%2828282635893%29.jpg/120px-Trofeo_del_mundial_de_Futsal%2C_visit%C3%B3_comando_de_la_Polic%C3%ADa_en_Cali_%2828282635893%29.jpg","groups": [
+    {"name": "(20:15) España x Eslovenia","image": "","stations": [
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
+      {"name": "acestream","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}
 
 ]}]} ]}]},
 
