@@ -8,19 +8,31 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Jueves, 5","image": "","groups": [
-  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [ 
-    {"name": "(19:00) Mirandés x SD Eibar | (19:00) FC Andorra x Real Zaragoza | (21:30) Cartagena x RCD Espanyol | (21:30) Racing Ferrol x Amorebieta","image": "","stations": [
-      {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-      {"name": "acestream","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
+{"name": "Viernes, 6","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "(21:00) Athletic Club x Almería","image": "","stations": [
+      {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},
+      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
+      
   ]}]},
-  {"name": "⚽️ Europa League","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png","groups": [
-    {"name": "(18:45) Real Betis x Sparta Praha | (21:00) Villarreal x Rennes","image": "","stations": [
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [ 
+    {"name": "(21:00) Albacete x Levante","image": "","stations": [
+      {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+  ]}]},
+  {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
+    {"name": "(20:30) Borussia Mönchengladbach x Mainz 05","image": "","stations": [
       {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
-      {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
-      {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
-      {"name": "acestream","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
-    
+      {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+  ]}]},
+  {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
+    {"name": "(21:00) Racing de Estrasburgo x Nantes","image": "","stations": [
+      {"name": "acestream","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}
+  ]}]},
+  {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
+    {"name": "(21:00) Birmingham City x West Bromwich Albion","image": "","stations": [
+      {"name": "acestream","url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"}
 
 ]}]} ]}]},
 
