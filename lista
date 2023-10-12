@@ -13,6 +13,12 @@
     {"name": "(20:45) España x Escocia (TVE 1 abierto)","image": "","stations": [
       {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},
       {"name": "acestream","url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"}
+]}]}  ]},
+
+{"name": "Viernes, 13","image": "","groups": [
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "(21:00) Real Oviedo x Albacete","image": "","stations": [
+      {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
 
   
 ]}]} ]}]},
