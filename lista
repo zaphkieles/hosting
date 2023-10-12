@@ -35,6 +35,12 @@
     {"name": "(14:00) Burgos x Villarreal B | (16:15) Eldense x Elche | (16:15) FC Andorra x Alcorcón | (18:30) SD Eibar x SD Huesca | (18:30) Leganés x Amorebieta","image": "","stations": [
       {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
       {"name": "acestream","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
+  ]}]},
+
+  {"name": "⚽️ Eurocopa 2024","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/UEFA_Euro_2024_logo.svg/1200px-UEFA_Euro_2024_logo.svg.png","groups": [
+    {"name": "(20:45) Noruega x España (TVE 1 abierto)","image": "","stations": [
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},
+      {"name": "acestream","url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"}
 
 ]}]} ]}]},
 
