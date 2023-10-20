@@ -9,6 +9,16 @@
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
 {"name": "Viernes, 20","image": "","groups": [
+  {"name": "🎾 WTA. Cluj-Napoca","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCsui917Vw-rkfmRYnh8JC-ssboPIfJOXtSDLPJCLXtNBclpxvZ2_3hOyaZKCvIQFwOwA&usqp=CAU","groups": [
+    {"name": "(18:30) A.Bogdan x R. Masarova","image": "","stations": [
+      {"name": "web | con VPN (Sección Varios/Apps)","url": "https://es8.sportplus.live/tennis/wta-cluj-napoca/4901084/","embed": true}
+  ]}]},
+  {"name": "🏎 Automovilismo F1","image": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg","groups": [
+    {"name": "(23:00) G.P.EEUU (Austin)","image": "","stations": [
+      {"name": "acestream","url": "acestream://5789ca155323664edd293b848606688edf803f4d"},
+      {"name": "acestream","url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"},
+      {"name": "acestream","url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"}
+  ]}]},
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "(21:00) Osasuna x Granada (Gol play abierto)","image": "","stations": [
       {"name": "acestream","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},
