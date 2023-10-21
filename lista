@@ -8,7 +8,6 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-
 {"name": "Sábado, 21","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "(14:00) Real Sociedad x RCD Mallorca","image": "","stations": [
@@ -42,11 +41,16 @@
       {"name": "acestream","url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"},
       {"name": "acestream","url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"}
   ]}]},
+  {"name": "🏎 Automovilismo F1","image": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg","groups": [
+    {"name": "(19:30) G.P.EEUU (Austin) Sprint Shootout","image": "","stations": [
+      {"name": "acestream","url": "acestream://5789ca155323664edd293b848606688edf803f4d"},
+      {"name": "acestream","url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"},
+      {"name": "acestream","url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"}
+  ]}]},
   {"name": "🏀 Liga Endesa","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Liga_Endesa_2019_logo.svg/175px-Liga_Endesa_2019_logo.svg.png","groups": [
     {"name": "(20:45) UCAM Murcia x DreamLand Gran Canaria","image": "","stations": [
       {"name": "acestream","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"},
       {"name": "acestream","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
-
   ]}]},
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "(13:30) Liverpool x Everton","image": "","stations": [
