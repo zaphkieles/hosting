@@ -8,41 +8,6 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Viernes, 20","image": "","groups": [
-  {"name": "🎾 WTA. Cluj-Napoca","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCsui917Vw-rkfmRYnh8JC-ssboPIfJOXtSDLPJCLXtNBclpxvZ2_3hOyaZKCvIQFwOwA&usqp=CAU","groups": [
-    {"name": "(18:30) A.Bogdan x R. Masarova","image": "","stations": [
-      {"name": "web | con VPN (Sección Varios/Apps)","url": "https://es8.sportplus.live/tennis/wta-cluj-napoca/4901084/","embed": true}
-  ]}]},
-  {"name": "🏎 Automovilismo F1","image": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg","groups": [
-    {"name": "(23:00) G.P.EEUU (Austin)","image": "","stations": [
-      {"name": "acestream","url": "acestream://5789ca155323664edd293b848606688edf803f4d"},
-      {"name": "acestream","url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"},
-      {"name": "acestream","url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"}
-  ]}]},
-  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "(21:00) Osasuna x Granada (Gol play abierto)","image": "","stations": [
-      {"name": "acestream","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},
-      {"name": "acestream","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},
-      {"name": "acestream","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"}
-  ]}]},
-  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-    {"name": "(21:00) RCD Espanyol x Leganés","image": "","stations": [
-      {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
-  ]}]},
-  {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
-    {"name": "(20:30) Dortmund x Werder Bremen","image": "","stations": [
-      {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
-      {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
-  ]}]},
-  {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
-    {"name": "(21:00) Le Havre x RC Lens","image": "","stations": [
-      {"name": "acestream","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}
-  ]}]},
-  {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
-    {"name": "(21:00) Rotherham United x Ipswich Town","image": "","stations": [
-      {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
-      {"name": "acestream","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
-]}]}  ]},
 
 {"name": "Sábado, 21","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
@@ -76,6 +41,12 @@
       {"name": "acestream","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"},
       {"name": "acestream","url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"},
       {"name": "acestream","url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"}
+  ]}]},
+  {"name": "🏀 Liga Endesa","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Liga_Endesa_2019_logo.svg/175px-Liga_Endesa_2019_logo.svg.png","groups": [
+    {"name": "(20:45) UCAM Murcia x DreamLand Gran Canaria","image": "","stations": [
+      {"name": "acestream","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"},
+      {"name": "acestream","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
+
   ]}]},
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "(13:30) Liverpool x Everton","image": "","stations": [
