@@ -234,6 +234,18 @@
     {"name": "20:45 | Marsella x Lyon","image": "","stations": [ 
       {"name": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
 
+]}]}  ]},         
+
+{"name": "Lunes, 30","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "21:00 | Granada x Villarreal","image": "","stations": [
+      {"name": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},
+      {"name": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},
+      {"name": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"}
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "21:00 | Burgos x Real Zaragoza","image": "","stations": [
+      {"name": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
 
 ]}]} ]}]},
 
