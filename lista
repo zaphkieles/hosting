@@ -67,9 +67,23 @@
     {"name": "21:00 | RB Leipzig x Red Bull Salzburgo","image": "","stations": [
       {"name": "acestream://fdd9e3660059051660dbd7857443c2b807f258d0"},     
       {"name": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}
+    ]},
+    {"name": "21:00 | Antwerp x Oporto","image": "","stations": [
+      {"name": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}, 
+      {"name": "acestream://5932623d2fd7ed16b01787251b418e4f59a01cda"}
+    ]},
+    {"name": "21:00 | Newcastle United x Borussia Dortmund","image": "","stations": [
+      {"name": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}, 
+      {"name": "acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d"}
+    ]},
+    {"name": "21:00 | PSG x AC Milan","image": "","stations": [
+      {"name": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}, 
+      {"name": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
+      {"name": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"}
+     
       
 
-      
+
       
 
 
