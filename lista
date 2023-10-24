@@ -130,11 +130,32 @@
     {"name": "17:45 | Italia x España","image": "","stations": [
       {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
       {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},
-      {"name": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"}
-        
+      {"name": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"}  
+]}]}  ]},         
+
+{"name": "Sábado, 28","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "14:00 | Almería x UD Las Palmas","image": "","stations": [
+      {"name": "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10"}
+    ]},
+    {"name": "16:15 | FC Barcelona x Real Madrid","image": "","stations": [
+      {"name": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},
+      {"name": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},
+      {"name": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},
+      {"name": "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10"}
+    ]},
+    {"name": "18:30 | RCD Mallorca x Getafe","image": "","stations": [
+      {"name": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},
+      {"name": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
+    ]},
+    {"name": "21:00 | Cádiz x Sevilla","image": "","stations": [
+      {"name": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},
+      {"name": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
 
 
-
+            
       
 
       
