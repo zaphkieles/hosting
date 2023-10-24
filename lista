@@ -8,7 +8,67 @@
 
 {"name": "Eventos diarios: Sin Actualizar (más info x telegram)","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-]},
+{"name": "Martes, 24","image": "","groups": [
+  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
+    {"name": "18:45 | Inter de Milán x Red Bull Salzburgo","image": "","stations": [
+      {"name": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
+    ]},
+    {"name": "18:45 | Galatasaray x Bayern de Múnich","image": "","stations": [
+      {"name": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
+      {"name": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
+    ]},
+    {"name": "21:00 | Benfica x Real Sociedad","image": "","stations": [
+      {"name": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
+      {"name": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}
+    ]},
+    {"name": "21:00 | Manchester United x FC Copenhague","image": "","stations": [
+      {"name": "acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d"},
+      {"name": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}
+    ]},
+    {"name": "21:00 | Braga x Real Madrid","image": "","stations": [
+      {"name": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"} 
+    ]},
+    {"name": "21:00 | Lens x PSV Eindhoven","image": "","stations": [
+      {"name": "acestream://5932623d2fd7ed16b01787251b418e4f59a01cda"},
+      {"name": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"} 
+    ]},
+    {"name": "21:00 | Sevilla FC x Arsenal","image": "","stations": [
+      {"name": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
+      {"name": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
+      {"name": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"} 
+    ]},
+    {"name": "21:00 | Unión Berlín x Napoli","image": "","stations": [
+      {"name": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"},
+      {"name": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"} 
+  ]}]},  
+  {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
+    {"name": "21:00 | Leicester City x Sunderland","image": "","stations": [
+      {"name": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"},
+      {"name": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"}
+]}]}  ]},
+
+{"name": "Miércoles, 25","image": "","groups": [
+  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
+    {"name": "18:45 | FC Barcelona x Shakhtar Donetsk","image": "","stations": [
+      {"name": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+    ]},
+    {"name": "18:45 | Feyenoord x Lazio","image": "","stations": [
+      {"name": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
+    ]},
+    {"name": "21:00 | Celtic FC x Atlético Madrid","image": "","stations": [
+      {"name": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
+      {"name": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"}
+         
+          
+
+
+
+]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
   {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
