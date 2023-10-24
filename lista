@@ -153,8 +153,11 @@
       {"name": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},
       {"name": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
       {"name": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
-
-
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "(14:00) Eldense x Amorebieta | (18:30) Sporting Gijón x RCD Espanyol | (18:30) FC Andorra x Levante | (21:00) Elche x Tenerife","image": "","stations": [
+      {"name": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
             
       
 
