@@ -224,6 +224,16 @@
     {"name": "16:30 | Manchester United x Manchester City","image": "","stations": [ 
       {"name": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},
       {"name": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"}
+  ]}]},
+  {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
+    {"name": "17:30 | Bayer Leverkusen x Friburgo","image": "","stations": [ 
+      {"name": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
+      {"name": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
+  ]}]},
+  {"name": "🏌‍♂ Open de Francia","image": "https://play-lh.googleusercontent.com/DJueER9q3UPYjWnyXwUP3NF_wgKZ_dtIGhU2T-ibVo2W8EDyNHYG-0SNAuSH-D48XQ","groups": [
+    {"name": "20:45 | Marsella x Lyon","image": "","stations": [ 
+      {"name": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
+
 
 ]}]} ]}]},
 
