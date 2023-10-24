@@ -97,18 +97,47 @@
       {"name": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
       {"name": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},      
       {"name": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
+    ]},
+    {"name": "21:00 | Villarreal x Maccabi Haifa","image": "","stations": [
+      {"name": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}  
+]}]}  ]},         
 
-            
+{"name": "Viernes, 27","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "21:00 | Girona x Celta de Vigo","image": "","stations": [
+      {"name": "web","url": "https://www.goltelevision.com/en-directo","info": "Gol Play en abierto","embed": true},
+      {"name": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},
+      {"name": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}      
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [ 
+    {"name": "21:00 | SD Eibar x Real Valladolid","image": "","stations": [
+      {"name": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+  ]}]},
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "21:00 | Crystal Palace x Tottenham Hotspur","image": "","stations": [
+      {"name": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},
+      {"name": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"}
+  ]}]},
+  {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
+    {"name": "21:00 | Clermont x Niza","image": "","stations": [
+      {"name": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}
+
       
+
+
+
       
-      
 
       
 
 
 
 
-      ]}]} ]}]},
+]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
   {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
