@@ -206,12 +206,24 @@
     {"name": "(14:00) Mirandés x Cartagena | (16:15) SD Huesca x Albacete | (18:30) Leganés x Villarreal B | (18:30) Real Oviedo x Alcorcón | (18:30) Racing de Santander x Racing Ferrol","image": "","stations": [ 
       {"name": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
       {"name": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
-      
-      
-      
-
-
-
+  ]}]},
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "14:00 | West Ham x Everton","image": "","stations": [ 
+      {"name": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},
+      {"name": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"}
+    ]},
+    {"name": "15:00 | Aston Villa x Luton Town","image": "","stations": [ 
+      {"name": ""}
+    ]},
+    {"name": "15:00 | Liverpool x Nottingham Forest","image": "","stations": [ 
+      {"name": ""}
+    ]},
+    {"name": "15:00 | Brighton x Fulham","image": "","stations": [ 
+      {"name": ""}
+    ]},
+    {"name": "16:30 | Manchester United x Manchester City","image": "","stations": [ 
+      {"name": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},
+      {"name": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"}
 
 ]}]} ]}]},
 
