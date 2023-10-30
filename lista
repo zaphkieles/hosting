@@ -89,6 +89,18 @@
     ]},
     {"name": "18:00 | Terrassa FC x Albacete","image": "","stations": [
       {"name": "web | con chrome y extensión m3u8","url": "https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8","embed": true}      
+    ]},
+    {"name": "18:30 | Boiro x Mallorca","image": "","stations": [
+      {"name": "acestream ","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
+      {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
+    ]},
+    {"name": "18:30 | CD Buñol x Real Sociedad","image": "","stations": [
+      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
+      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}       
+    ]},
+    {"name": "18:30 | CF Tardienta x Getafe","image": "","stations": [
+      {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
   ]}]},
   {"name": "⚽️ copa italiana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCPL4bRL9l39JaKoqoKVe2-NFnmxLTuTQdYmWuCasg2iWDuEJt","groups": [
     {"name": "18:00 | US Lecce x Parma","image": "","stations": [
