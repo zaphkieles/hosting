@@ -94,6 +94,11 @@
     {"name": "18:00 | US Lecce x Parma","image": "","stations": [
       {"name": "acestream ","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
       {"name": "acestream ","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"}
+  ]}]},
+  {"name": "🏀 Basketball Champions League","image": "http://t1.gstatic.com/images?q=tbn:ANd9GcQbKEPtykBSPad--RsjlxjRqlJzBSNnOCuK4__tLXpDJuL9Uk5F","groups": [
+    {"name": "18:30 | UCAM Murcia x KK Igokea","image": "","stations": [
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true}      
+      
 
       ]}]} ]}]},
 
