@@ -83,6 +83,12 @@
     {"name": "17:00 | CD Covadonga x Deportivo","image": "","stations": [
       {"name": "acestream ","url": "acestream://dfbeae99e6da47a8f10be96e28ae1ba600cd84bc"},
       {"name": "web | con chrome y extensión m3u8","url": "https://amodino-crtvg.flumotion.com/playlist.m3u8","embed": true}      
+     ]},
+    {"name": "18:00 | Utebo x Mirandés","image": "","stations": [
+      {"name": "web | con chrome y extensión m3u8","url": "https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8","embed": true}      
+    ]},
+    {"name": "18:00 | Terrassa FC x Albacete","image": "","stations": [
+      {"name": "web | con chrome y extensión m3u8","url": "https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8","embed": true}      
   ]}]},
   {"name": "⚽️ copa italiana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCPL4bRL9l39JaKoqoKVe2-NFnmxLTuTQdYmWuCasg2iWDuEJt","groups": [
     {"name": "18:00 | US Lecce x Parma","image": "","stations": [
