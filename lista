@@ -101,6 +101,10 @@
     ]},
     {"name": "18:30 | CF Tardienta x Getafe","image": "","stations": [
       {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
+    ]},
+    {"name": "20:00 | Marbella x Racing Ferrol","image": "","stations": [
+      {"name": "acestream ","url": "acestream://dfbeae99e6da47a8f10be96e28ae1ba600cd84bc"},          
+      {"name": "web | con chrome y extensión m3u8","url": "https://amodino-crtvg.flumotion.com/playlist.m3u8","embed": true}
   ]}]},
   {"name": "⚽️ copa italiana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCPL4bRL9l39JaKoqoKVe2-NFnmxLTuTQdYmWuCasg2iWDuEJt","groups": [
     {"name": "18:00 | US Lecce x Parma","image": "","stations": [
