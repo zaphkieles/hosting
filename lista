@@ -8,32 +8,6 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Jueves, 26","image": "","groups": [
-  {"name": "⚽️ Europa League","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png","groups": [
-    {"name": "18:45 | Aris Limassol x Real Betis","image": "","stations": [
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
-      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},      
-      {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
-    ]},
-    {"name": "21:00 | Villarreal x Maccabi Haifa","image": "","stations": [
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
-      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
-      {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}  
-]}]}  ]},         
-        
-
-{"name": "Lunes, 30","image": "","groups": [
-  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "21:00 | Granada x Villarreal","image": "","stations": [
-      {"name": "acestream ","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},
-      {"name": "acestream ","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},
-      {"name": "acestream ","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"}
-  ]}]},
-  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-    {"name": "21:00 | Burgos x Real Zaragoza","image": "","stations": [
-      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
-]}]}  ]},         
-
 {"name": "Martes, 31","image": "","groups": [
   {"name": "⚽️ Copa del Rey","image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif","groups": [
     {"name": "20:00 | Mensajero x RCD Espanyol","image": "","stations": [
