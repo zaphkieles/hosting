@@ -47,6 +47,12 @@
       {"name": "acestream ","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
 ]}]}  ]},
 {"name": "Viernes, 3","image": "","groups": [
+  {"name": "🏎 Automovilismo F1","image": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg","groups": [
+    {"name": "19:00 | G.P.Brasil (Interlagos)","image": "","stations": [
+      {"name": "acestream ","url": "acestream://5789ca155323664edd293b848606688edf803f4d"},
+      {"name": "acestream ","url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"},
+      {"name": "acestream ","url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"} 
+  ]}]},  
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "21:00 | UD Las Palmas x Atlético de Madrid","image": "","stations": [
       {"name": "acestream ","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
