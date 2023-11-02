@@ -59,8 +59,22 @@
     {"name": "21:00 | RCD Espanyol x SD Eibar","image": "","stations": [
       {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}, 
       {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+  ]}]},  
+  {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
+    {"name": "20:45 | Bolonia x Lazio","image": "","stations": [
+      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
+      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+  ]}]},  
+  {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
+    {"name": "21:00 | PSG x Montpellier","image": "","stations": [
+      {"name": "acestream ","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}   
+  ]}]},      
+  {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
+    {"name": "21:00 | Leicester City x Leeds United","image": "","stations": [
+      {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},      
+      {"name": "acestream ","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
 
-    ]}]} ]}]},
+]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
   {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
