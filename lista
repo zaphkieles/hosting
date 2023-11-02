@@ -119,7 +119,13 @@
     ]},
     {"name": "16:00 | Burnley x Crystal Palace","image": "","stations": [
       {"name": "web | con VPN (Sección Varios/Apps)","url": "https://es8.sportplus.live/football/apl/4907182/","embed": true}
+    ]},
+    {"name": "16:00 | Everton x Brighton","image": "","stations": [
+      {"name": "acestream ","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"} ,
+      {"name": "acestream ","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"} 
       
+      
+
       ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
