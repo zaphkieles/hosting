@@ -222,8 +222,17 @@
       {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
       {"name": "acestream ","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
       {"name": "acestream ","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"}
+]}]}  ]},
 
-      
+{"name": "Jueves, 9","image": "","groups": [
+  {"name": "⚽️ Europa League","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png","groups": [      
+    {"name": "18:45 | Maccabi Haifa x Villarreal","image": "","stations": [
+      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
+      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "acestream ","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
+      {"name": "acestream ","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"}, 
+      {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
+      {"name": "acestream ","url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"}
       
 ]}]} ]}]},
 
