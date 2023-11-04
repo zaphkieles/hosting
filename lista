@@ -11,49 +11,49 @@
 {"name": "Sábado, 4","image": "","groups": [
   {"name": "🤾‍♂️ Balonmano Golden League","image": "https://www.los-deportes.info/images/epreuves/8813.png","groups": [
     {"name": "14:45 | Dinamarca x España","image": "","stations": [
-      {"name": "acestream ","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}    
+      {"name": "acestream","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}    
   ]}]},
   {"name": "🏎 Automovilismo F1","image": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg","groups": [
     {"name": "15:00 | G.P.Brasil (Interlagos)","image": "","stations": [
-      {"name": "acestream ","url": "acestream://5789ca155323664edd293b848606688edf803f4d"},
-      {"name": "acestream ","url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"},
-      {"name": "acestream ","url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"} 
+      {"name": "acestream","url": "acestream://5789ca155323664edd293b848606688edf803f4d"},
+      {"name": "acestream","url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"},
+      {"name": "acestream","url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"} 
   ]}]},
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "14:00 | Osasuna x Girona","image": "","stations": [
-      {"name": "acestream ","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
-      {"name": "acestream ","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
-      {"name": "acestream ","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"}
+      {"name": "acestream","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
+      {"name": "acestream","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
+      {"name": "acestream","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"}
     ]},
     {"name": "16:15 | Real Betis x RCD Mallorca","image": "","stations": [
-      {"name": "acestream ","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
-      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
-      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
+      {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
+      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
+      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
     ]},
     {"name": "18:30 | Celta de Vigo x Sevilla","image": "","stations": [
-      {"name": "acestream ","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
-      {"name": "acestream ","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
-      {"name": "acestream ","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"}
+      {"name": "acestream","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
+      {"name": "acestream","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
+      {"name": "acestream","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"}
     ]},
     {"name": "21:00 | Real Sociedad x FC Barcelona","image": "","stations": [
-      {"name": "acestream ","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
-      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
-      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},  
-      {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},  
-      {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"} 
+      {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
+      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
+      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},  
+      {"name": "acestream","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},  
+      {"name": "acestream","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"} 
   ]}]},
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [    
     {"name": "(16:15) Villarreal B x Sporting Gijón | (18:30) Levante x Mirandés | (18:30) Real Valladolid x Tenerife | (21:00) Albacete x Elche","image": "","stations": [
-      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}, 
-      {"name": "acestream ","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
+      {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}, 
+      {"name": "acestream","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
   ]}]},    
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "13:30 | Fulham x Manchester United","image": "","stations": [
-      {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},      
-      {"name": "acestream ","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
+      {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},      
+      {"name": "acestream","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
     ]},
     {"name": "16:00 | Brentford x West Ham","image": "","stations": [
-      {"name": "acestream ","url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97"}   
+      {"name": "acestream","url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97"}   
     ]},
     {"name": "16:00 | Burnley x Crystal Palace","image": "","stations": [
       {"name": "web | con VPN (Sección Varios/Apps)","url": "https://es8.sportplus.live/football/apl/4907182/","embed": true},
@@ -62,124 +62,124 @@
       
     ]},
     {"name": "16:00 | Everton x Brighton","image": "","stations": [
-      {"name": "acestream ","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
-      {"name": "acestream ","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"} 
+      {"name": "acestream","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
+      {"name": "acestream","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"} 
     ]},
     {"name": "16:00 | Manchester City x AFC Bournemouth","image": "","stations": [
-      {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},      
-      {"name": "acestream ","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
+      {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},      
+      {"name": "acestream","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
     ]},
     {"name": "16:00 | Sheffield United x Wolverhampton Wanderers","image": "","stations": [
-      {"name": "acestream ","url": "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd"}
+      {"name": "acestream","url": "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd"}
     ]},
     {"name": "18:30 | Newcastle United x Arsenal","image": "","stations": [
-      {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},      
-      {"name": "acestream ","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
+      {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},      
+      {"name": "acestream","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
   ]}]},
   {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
     {"name": "15:00 | Salernitana x Napoli","image": "","stations": [
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
-      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+      {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
+      {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
     ]},
     {"name": "15:00 | Atalanta x Inter de Milán","image": "","stations": [
-      {"name": "acestream ","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
-      {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"} 
+      {"name": "acestream","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
+      {"name": "acestream","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"} 
     ]},
     {"name": "20:45 | AC Milan x Udinese","image": "","stations": [
-      {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
-      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+      {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
+      {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
+      {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
   ]}]},
   {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [ 
     {"name": "15:30 | Hoffenheim x Bayer Leverkusen","image": "","stations": [
-      {"name": "acestream ","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
-      {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"} 
+      {"name": "acestream","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
+      {"name": "acestream","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"} 
     ]},
     {"name": "15:30 | Mainz 05 x RB Leipzig","image": "","stations": [
-      {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
+      {"name": "acestream","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
     ]},
     {"name": "15:30 | FC Unión Berlín x Eintracht Frankfurt","image": "","stations": [
-      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}
+      {"name": "acestream","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}
     ]},
     {"name": "18:30 | Borussia Dortmund x Bayern de Múnich","image": "","stations": [
-      {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
-      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+      {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
+      {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
+      {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
 ]}]}  ]},
 
 {"name": "Domingo, 5","image": "","groups": [  
   {"name": "🏀 Liga Endesa","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Liga_Endesa_2019_logo.svg/175px-Liga_Endesa_2019_logo.svg.png","groups": [
     {"name": "12:30 | UCAM Murcia x BAXI Manresa","image": "","stations": [
-      {"name": "acestream ","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"}, 
-      {"name": "acestream ","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
+      {"name": "acestream","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"}, 
+      {"name": "acestream","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
     ]},
     {"name": "12:30 | Coviran Granada x Real Madrid Baloncesto","image": "","stations": [
-      {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
-      {"name": "acestream ","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"}
+      {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
+      {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"}
     ]},
     {"name": "17:00 | Río Breogán x Barça Basket","image": "","stations": [
-      {"name": "acestream ","url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"}
+      {"name": "acestream","url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"}
   ]}]},
   {"name": "🤾‍♂️ Balonmano Golden League","image": "https://www.los-deportes.info/images/epreuves/8813.png","groups": [
     {"name": "16:45 | Noruega x España","image": "","stations": [
-      {"name": "acestream ","url": ""}    
+      {"name": "acestream","url": ""}    
   ]}]},
   {"name": "🏎 Automovilismo F1","image": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg","groups": [
     {"name": "15:00 | G.P.Brasil (Interlagos) Carrera","image": "","stations": [
-      {"name": "acestream ","url": "acestream://5789ca155323664edd293b848606688edf803f4d"},
-      {"name": "acestream ","url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"},
-      {"name": "acestream ","url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"},
-      {"name": "acestream ","url": "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e"}
+      {"name": "acestream","url": "acestream://5789ca155323664edd293b848606688edf803f4d"},
+      {"name": "acestream","url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"},
+      {"name": "acestream","url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"},
+      {"name": "acestream","url": "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e"}
   ]}]},
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "14:00 | Alavés x Almería","image": "","stations": [
-      {"name": "acestream ","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
-      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
-      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
+      {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
+      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
+      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
     ]},
     {"name": "16:15 | Valencia CF x Granada","image": "","stations": [
-      {"name": "acestream ","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
-      {"name": "acestream ","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
-      {"name": "acestream ","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"}
+      {"name": "acestream","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
+      {"name": "acestream","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
+      {"name": "acestream","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"}
     ]},
     {"name": "18:30 | Villarreal x Athletic Club","image": "","stations": [
-      {"name": "acestream ","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
-      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
-      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
+      {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
+      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
+      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
     ]},
     {"name": "21:00 | Real Madrid x Rayo Vallecano","image": "","stations": [
-      {"name": "acestream ","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
-      {"name": "acestream ","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
-      {"name": "acestream ","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"}
+      {"name": "acestream","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
+      {"name": "acestream","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
+      {"name": "acestream","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"}
   ]}]},
   {"name": "🏀 Basketball NBA Liga Regular","image": "https://cdn.nba.com/next/fallback.jpg","groups": [
     {"name": "21:30 | San Antonio x Toronto Raptors","image": "","stations": [
-      {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}, 
-      {"name": "acestream ","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"}
+      {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}, 
+      {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"}
   ]}]},
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [    
     {"name": "(14:00) Racing Ferrol x FC Andorra | (16:15) Amorebieta x SD Huesca | (18:30) Alcorcón x Racing de Santander | (18:30) Cartagena x Leganés | (21:00) Eldense x Burgos CF","image": "","stations": [
-      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}, 
-      {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+      {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}, 
+      {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
   ]}]},
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "(15:00) Nottingham Forest x Aston Villa | (17:30) Luton Town x Liverpool","image": "","stations": [
-      {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},      
-      {"name": "acestream ","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}   
+      {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},      
+      {"name": "acestream","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}   
   ]}]},  
   {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
     {"name": "20:45 | ACF Fiorentina x Juventus","image": "","stations": [
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
-      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+      {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
+      {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
   ]}]},
   {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [ 
     {"name": "17:30 | Heidenheim x Stuttgart","image": "","stations": [
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
-      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+      {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
+      {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
   ]}]},  
   {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
     {"name": "17:05 | AS Mónaco x Stade Brestois 29","image": "","stations": [
-      {"name": "acestream ","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}   
+      {"name": "acestream","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}   
 ]}]}  ]},
 
 {"name": "Lunes, 6","image": "","groups": [  
@@ -204,78 +204,78 @@
 {"name": "Martes, 7","image": "","groups": [
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [        
     {"name": "(18:45) Shaktar Donetsk x FC Barcelona - (21:00) Atlético de Madrid x Celtic FC","image": "","stations": [
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
-      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
-      {"name": "acestream ","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
-      {"name": "acestream ","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"},
-      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}
+      {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
+      {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
+      {"name": "acestream","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"},
+      {"name": "acestream","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}
 ]}]}  ]},
 
 {"name": "Miércoles, 8","image": "","groups": [
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [        
     {"name": "(18:45) Real Sociedad x Benfica - (21:00) Arsenal x Sevilla FC - (21:00) Real Madrid xBraga","image": "","stations": [
-      {"name": "acestream ","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},   
-      {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},         
-      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
-      {"name": "acestream ","url": "acestream://f2df4f96b23388b45e75d848a48a510cf8af560f"},
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
-      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
-      {"name": "acestream ","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
-      {"name": "acestream ","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"}
+      {"name": "acestream","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},   
+      {"name": "acestream","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},         
+      {"name": "acestream","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
+      {"name": "acestream","url": "acestream://f2df4f96b23388b45e75d848a48a510cf8af560f"},
+      {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
+      {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
+      {"name": "acestream","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"}
 ]}]}  ]},
 
 {"name": "Jueves, 9","image": "","groups": [
   {"name": "⚽️ Europa League","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png","groups": [      
     {"name": "(18:45) Maccabi Haifa x Villarreal - (18:45) Real Betis x Aris Limassol","image": "","stations": [
-      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
-      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
-      {"name": "acestream ","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
-      {"name": "acestream ","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"}, 
-      {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
-      {"name": "acestream ","url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"}
+      {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
+      {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
+      {"name": "acestream","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"}, 
+      {"name": "acestream","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
+      {"name": "acestream","url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"}
 ]}]}  ]},
 
 {"name": "Viernes, 10","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "21:00 | Athletic Club x Celta de Vigo","image": "","stations": [
-      {"name": "acestream ","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
-      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
-      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
-      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
-      {"name": "acestream ","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"},
+      {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
+      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
+      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
+      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"},
       {"name": "web","url": "https://www.goltelevision.com/en-directo","embed": true}
   ]}]},    
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [    
     {"name": "(20:30) Leganés x Levante - (18:30) Levante x Mirandés | (18:30) Real Valladolid x Tenerife | (21:00) Albacete x Elche","image": "","stations": [
-      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}, 
-      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-      {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},        
-      {"name": "acestream ","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"}      
+      {"name": "acestream","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}, 
+      {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},        
+      {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"}      
 ]}]}  ]},
 
 {"name": "Sábado, 11","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "14:00 | Rayo Vallecano x Girona","image": "","stations": [
-      {"name": "acestream ","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
-      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
-      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
-      {"name": "acestream ","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
+      {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
+      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
+      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
+      {"name": "acestream","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
     ]},
     {"name": "16:15 | Almería x Real Sociedad","image": "","stations": [
-      {"name": "acestream ","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
-      {"name": "acestream ","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
-      {"name": "acestream ","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},
-      {"name": "acestream ","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
+      {"name": "acestream","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
+      {"name": "acestream","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
+      {"name": "acestream","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},
+      {"name": "acestream","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
     ]},
     {"name": "18:30 | Granada x Getafe","image": "","stations": [
-      {"name": "acestream ","url": "acestream://0950c37fe1ea817fc561c611ae943d58505f7a79"}
+      {"name": "acestream","url": "acestream://0950c37fe1ea817fc561c611ae943d58505f7a79"}
     ]},
     {"name": "18:30 | Osasuna x UD Las Palmas","image": "","stations": [
-      {"name": "acestream ","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
-      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
-      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
-      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
-      {"name": "acestream ","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
+      {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
+      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
+      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
+      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
     ]},
     {"name": "21:00 | Real Madrid x Valencia CF","image": "","stations": [
       {"name": "acestream","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
@@ -284,8 +284,15 @@
       {"name": "acestream","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"},
       {"name": "acestream","url": "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10"},
       {"name": "acestream","url": "acestream://0950c37fe1ea817fc561c611ae943d58505f7a79"}
-      
-      
+]}]}  ]},
+
+{"name": "Domingo, 12","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "14:00 | RCD Mallorca x Cádiz","image": "","stations": [
+      {"name": "acestream","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
+      {"name": "acestream","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
+      {"name": "acestream","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},
+      {"name": "acestream","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}    
 ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
