@@ -203,11 +203,12 @@
 
 {"name": "Martes, 7","image": "","groups": [
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [        
-    {"name": "(18:45) Shaktar Donetsk x FC Barcelona","image": "","stations": [
+    {"name": "(18:45) Shaktar Donetsk x FC Barcelona - (21:00) Atlético de Madrid x Celtic FC","image": "","stations": [
       {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
       {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
       {"name": "acestream ","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
-      {"name": "acestream ","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"}
+      {"name": "acestream ","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"},
+      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}
       
       
       
