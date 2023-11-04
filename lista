@@ -242,7 +242,9 @@
       {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
       {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
       {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
-      {"name": "acestream ","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
+      {"name": "acestream ","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"},
+      {"name": "web","url": "https://www.goltelevision.com/en-directo","embed": true}
+      
       
       
   
