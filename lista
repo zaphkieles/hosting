@@ -244,8 +244,13 @@
       {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
       {"name": "acestream ","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"},
       {"name": "web","url": "https://www.goltelevision.com/en-directo","embed": true}
-      
-      
+  ]}]},    
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [    
+    {"name": "(20:30) Leganés x Levante - (18:30) Levante x Mirandés | (18:30) Real Valladolid x Tenerife | (21:00) Albacete x Elche","image": "","stations": [
+      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}, 
+      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},        
+      {"name": "acestream ","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"}      
       
   
 ]}]} ]}]},
