@@ -164,6 +164,14 @@
     {"name": "14:00 Burgos x Alcorcón | 16:15 FC Andorra x Eldense | 18:30 SD Eibar x Albacete | 18:30 SD Huesca x RCD Espanyol | 18:30 Tenerife x Villarreal B","image": "","stations": [
       {"name": "alcorcón | andorra | albacete | espanyol","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
       {"name": "tenerife","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
+  ]}]},      
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "15:00 Aston Villa x Fulham | 15:00 Liverpool x Brentford | 15:00 West Ham x Nottingham Forest | 15:00 Brighton x Sheffield United | 17:30 Chelsea x Manchester City","image": "","stations": [
+      {"name": "aston","url": ""},
+      {"name": "liverpool","url": ""},
+      {"name": "west ham","url": ""},
+      {"name": "brighton","url": ""},
+      {"name": "chelsea","url": ""}
       
 ]}]} ]}]},
 
