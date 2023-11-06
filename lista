@@ -55,16 +55,15 @@
 {"name": "Miércoles, 8","image": "","groups": [
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [        
     {"name": "18:45 Real Sociedad x Benfica - 21:00 Arsenal x Sevilla FC - 21:00 Bayern de Múnich x Galatasaray - 21:00 FC Copenhague x Manchester United - 21:00 Napoli x FC Unión Berlín - 21:00 PSV Eindhoven x RC Lens - 21:00 Real Madrid xBraga - 21:00 Red Bull Salzburgo x Inter de Milán","image": "","stations": [
-      {"name": "sociedad, manchester udt.","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
-      {"name": "sociedad, manchester udt.","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "sociedad, madrid ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
+      {"name": "sociedad, madrid","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
       {"name": "sevilla","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},   
       {"name": "sevilla","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},         
-      {"name": "sevilla, bayern","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
+      {"name": "sevilla, bayern, manchester udt., lens, madrid, Inter","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
       {"name": "bayern","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"},
-      {"name": "lazio, oporto","url": "acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d"},
-      {"name": "acestream","url": "acestream://f2df4f96b23388b45e75d848a48a510cf8af560f"},
-      {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
-      {"name": "acestream","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"}
+      {"name": "lazio, oporto, manchester udt.","url": "acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d"},
+      {"name": "napoli","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
+      {"name": "lens","url": "acestream://fdd9e3660059051660dbd7857443c2b807f258d0"}
 ]}]}  ]},
 
 {"name": "Jueves, 9","image": "","groups": [
