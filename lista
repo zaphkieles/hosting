@@ -33,8 +33,13 @@
 ]}]}  ]},
 
 {"name": "Martes, 7","image": "","groups": [
-  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [        
+  {"name": "⚽️ Amistoso Femenino","image": "https://estaticos-cdn.sport.es/clip/e1871120-090c-464b-82a8-29fe66ec8a4b_source-aspect-ratio_default_0.jpg","groups": [
     {"name": "(18:45) Shaktar Donetsk x FC Barcelona - (21:00) Atlético de Madrid x Celtic FC","image": "","stations": [
+      {"name": "acestream","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"},
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true}  
+  ]}]},    
+  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [        
+    {"name": "(18:30) España x Portugal","image": "","stations": [
       {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
       {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
       {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
