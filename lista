@@ -128,10 +128,11 @@
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
     {"name": "13:30 Wolverhampton Wanderers x Tottenham Hotspur | 16:00 Arsenal x Burnley | 16:00 Manchester United x Luton Town | 16:00 Crystal Palace x Everton | 18:30 AFC Bournemouth x Newcastle United","image": "","stations": [
       {"name": "tottenham","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"},
-      {"name": "arsenal","url": ""},
-      {"name": "manchester utd.","url": ""},
-      {"name": "everton","url": ""},
-      {"name": "arsenal","url": ""},
+      {"name": "arsenal","url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},
+      {"name": "arsenal","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"},
+      {"name": "manchester utd.","url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"},
+      {"name": "manchester utd.","url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"},
+      {"name": "everton","url": "acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707"},
       {"name": "newcastle","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"},
       {"name": "newcastle","url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"}
   ]}]},   
