@@ -159,7 +159,11 @@
       {"name": "barcelona | atlético","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
       {"name": "barcelona | atlético","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
       {"name": "barcelona | atlético","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
- 
+  ]}]},          
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [    
+    {"name": "14:00 Burgos x Alcorcón | 16:15 FC Andorra x Eldense | 18:30 SD Eibar x Albacete | 18:30 SD Huesca x RCD Espanyol | 18:30 Tenerife x Villarreal B","image": "","stations": [
+      {"name": "alcorcón | andorra | albacete | espanyol","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "tenerife","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
       
 ]}]} ]}]},
 
