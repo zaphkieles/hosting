@@ -84,7 +84,7 @@
 
 {"name": "Viernes, 10","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "21:00 | Athletic Club x Celta de Vigo","image": "","stations": [
+    {"name": "21:00 Athletic Club x Celta de Vigo","image": "","stations": [
       {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
       {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
       {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
@@ -92,11 +92,16 @@
       {"name": "web","url": "https://www.goltelevision.com/en-directo","embed": true}
   ]}]},    
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [    
-    {"name": "(20:30) Leganés x Levante - (18:30) Levante x Mirandés | (18:30) Real Valladolid x Tenerife | (21:00) Albacete x Elche","image": "","stations": [
+    {"name": "20:30 Leganés x Levante","image": "","stations": [
       {"name": "acestream","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}, 
       {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
       {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},        
       {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"}      
+  ]}]},
+  {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
+    {"name": "21:00 Blackburn Rovers x Preston North End","image": "","stations": [
+      {"name": "acestream","url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"},
+      {"name": "acestream","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"} 
 ]}]}  ]},
 
 {"name": "Sábado, 11","image": "","groups": [
