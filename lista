@@ -173,7 +173,12 @@
       {"name": "brighton","url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"},
       {"name": "west ham | chelsea","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"},
       {"name": "west ham | chelsea","url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"}
-      
+  ]}]},   
+  {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [   
+    {"name": "19:30 RB Leipzig x Friburgo","image": "","stations": [
+      {"name": "","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},      
+      {"name": "","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"}
+
 ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
