@@ -144,8 +144,8 @@
   ]}]},   
   {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [   
     {"name": "15:30 Stuttgart x Borussia Dortmund","image": "","stations": [
-      {"name": "milan","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},      
-      {"name": "milan","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"}
+      {"name": "","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},      
+      {"name": "","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"}
 ]}]}  ]},
 
 {"name": "Domingo, 12","image": "","groups": [
