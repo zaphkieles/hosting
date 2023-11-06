@@ -54,7 +54,7 @@
 
 {"name": "Miércoles, 8","image": "","groups": [
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [        
-    {"name": "18:45 Real Sociedad x Benfica - 21:00 Arsenal x Sevilla FC - 21:00 Bayern de Múnich x Galatasaray - 21:00 FC Copenhague x Manchester United - 21:00 Napoli x FC Unión Berlín - 21:00 PSV Eindhoven x RC Lens - (21:00) Real Madrid xBraga - 21:00 Red Bull Salzburgo x Inter de Milán","image": "","stations": [
+    {"name": "18:45 Real Sociedad x Benfica - 21:00 Arsenal x Sevilla FC - 21:00 Bayern de Múnich x Galatasaray - 21:00 FC Copenhague x Manchester United - 21:00 Napoli x FC Unión Berlín - 21:00 PSV Eindhoven x RC Lens - 21:00 Real Madrid xBraga - 21:00 Red Bull Salzburgo x Inter de Milán","image": "","stations": [
       {"name": "sociedad, manchester udt.","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
       {"name": "sociedad, manchester udt.","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
       {"name": "sevilla","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},   
