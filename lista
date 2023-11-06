@@ -150,29 +150,16 @@
 
 {"name": "Domingo, 12","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "14:00 | RCD Mallorca x Cádiz","image": "","stations": [
-      {"name": "acestream","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
-      {"name": "acestream","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
-      {"name": "acestream","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},
-      {"name": "acestream","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
-    ]},
-    {"name": "16:15 | Barcelona x Alavés","image": "","stations": [
-      {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
-      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
-      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
-      {"name": "acestream","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
-    ]},
-    {"name": "18:30 | Sevilla x Real Betis","image": "","stations": [
-      {"name": "acestream","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
-      {"name": "acestream","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
-      {"name": "acestream","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},
-      {"name": "acestream","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
-    ]},
-    {"name": "21:00 | Atlético de Madrid x Villarreal","image": "","stations": [
-      {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
-      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
-      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
-      {"name": "acestream","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
+    {"name": "14:00 RCD Mallorca x Cádiz | 16:15 Barcelona x Alavés | 18:30 Sevilla x Real Betis | 21:00 Atlético de Madrid x Villarreal","image": "","stations": [
+      {"name": "mallorca | sevilla","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}, 
+      {"name": "mallorca | sevilla","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"}, 
+      {"name": "mallorca | sevilla","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},
+      {"name": "mallorca | sevilla","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"},
+      {"name": "barcelona | atlético","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
+      {"name": "barcelona | atlético","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"}, 
+      {"name": "barcelona | atlético","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
+      {"name": "barcelona | atlético","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
+ 
       
 ]}]} ]}]},
 
