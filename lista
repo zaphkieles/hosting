@@ -75,6 +75,11 @@
       {"name": "acestream","url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"}, 
       {"name": "acestream","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
       {"name": "acestream","url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"}
+    ]}]},
+  {"name": "⚽️ Copa de la Reina","image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Copa_de_la_Reina_2021.png","groups": [
+    {"name": "20:00 Granada Femenino x Athletic Femenino","image": "","stations": [
+      {"name": "acestream","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"},
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true}
 ]}]}  ]},
 
 {"name": "Viernes, 10","image": "","groups": [
