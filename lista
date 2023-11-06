@@ -68,7 +68,7 @@
 
 {"name": "Jueves, 9","image": "","groups": [
   {"name": "⚽️ Europa League","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png","groups": [      
-    {"name": "(18:45) Maccabi Haifa x Villarreal - (18:45) Real Betis x Aris Limassol","image": "","stations": [
+    {"name": "18:45 Maccabi Haifa x Villarreal | 18:45 Real Betis x Aris Limassol","image": "","stations": [
       {"name": "acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
       {"name": "acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
       {"name": "acestream","url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
