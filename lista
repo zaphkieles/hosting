@@ -9,6 +9,11 @@
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
 {"name": "Miércoles, 8","image": "","groups": [
+  {"name": "🎾 Billie Jean King Cup","image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Rolex_Paris_Masters_tournament_logo.jpg/200px-Rolex_Paris_Masters_tournament_logo.jpg","groups": [
+    {"name": "20:00 España x Canada","image": "","stations": [
+      {"name": "","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"},
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true}
+   ]}]}, 
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [        
     {"name": "18:45 Real Sociedad x Benfica - 21:00 Arsenal x Sevilla FC - 21:00 Bayern de Múnich x Galatasaray - 21:00 FC Copenhague x Manchester United - 21:00 Napoli x FC Unión Berlín - 21:00 PSV Eindhoven x RC Lens - 21:00 Real Madrid xBraga - 21:00 Red Bull Salzburgo x Inter de Milán","image": "","stations": [
       {"name": "sociedad, madrid ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},      
