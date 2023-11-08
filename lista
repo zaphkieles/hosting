@@ -9,7 +9,7 @@
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
 {"name": "Miércoles, 8","image": "","groups": [
-  {"name": "🎾 Billie Jean King Cup","image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Rolex_Paris_Masters_tournament_logo.jpg/200px-Rolex_Paris_Masters_tournament_logo.jpg","groups": [
+  {"name": "🎾 Billie Jean King Cup","image": "https://revistatenisgrandslam.es/wp-content/uploads/85688369.jpg","groups": [
     {"name": "20:00 España x Canada","image": "","stations": [
       {"name": "","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"},
       {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true}
