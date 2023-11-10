@@ -9,6 +9,11 @@
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
 {"name": "Viernes, 10","image": "","groups": [
+  {"name": "🎾 Billie Jean King Cup","image": "https://revistatenisgrandslam.es/wp-content/uploads/85688369.jpg","groups": [
+      {"name": "(16:00, 18:00, 20:00) España x Polonia","image": "","stations": [
+        {"name": "acestream","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}, 
+        {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true}
+  ]}]},
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "21:00 Athletic Club x Celta de Vigo","image": "","stations": [
       {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"}, 
