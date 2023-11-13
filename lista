@@ -24,6 +24,14 @@
     {"name": "(21:00) Real Madrid Femenino x Chelsea Femenino","image": "","stations": [
       {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
       {"name": "acestream","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
+]}]}  ]},
+
+{"name": "Jueves, 16","image": "","groups": [
+  {"name": "⚽️ Copa Mundial FIFA 2026","image": "https://www.mundodeportivo.com/us/files/image_948_465/uploads/2022/07/10/62ca8e4b32299.jpeg","groups": [
+    {"name": "(10:00) Uzbekistán x España (gol play en abierto)","image": "","stations": [
+      {"name": "web","url": "https://www.goltelevision.com/en-directo","embed": true},
+      {"name": "acestream","url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"}
+      
 
 ]}]} ]}]},
 
