@@ -31,8 +31,12 @@
     {"name": "(10:00) Uzbekistán x España (gol play en abierto)","image": "","stations": [
       {"name": "web","url": "https://www.goltelevision.com/en-directo","embed": true},
       {"name": "acestream","url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"}
-      
-
+  ]}]},
+  {"name": "⚽️ Eurocopa 2024","image": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/10/logotipo-Eurocopa-Alemania-Foto-Archivo-696x497.jpg","groups": [
+    {"name": "(18:00) Chipre x España (La 1 TVE en abierto)","image": "","stations": [
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},
+      {"name": "acestream","url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"}
+    
 ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
