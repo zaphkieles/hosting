@@ -56,6 +56,16 @@
     {"name": "(14:00) Racing Ferrol x Burgos | (16:15) Real Oviedo x SD Eibar | (16:15) Eldense x Mirandés | (18:30) Cartagena x Albacete | (18:30) Villarreal B x FC Andorra","image": "","stations": [
       {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
       {"name": "eldense, andorra","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
+  ]}]},
+  {"name": "⚽️ Eurocopa 2024","image": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/10/logotipo-Eurocopa-Alemania-Foto-Archivo-696x497.jpg","groups": [
+    {"name": "(20:45) España x Georgia (La 1 TVE en abierto)","image": "","stations": [
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},
+      {"name": "acestream","url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"}
+  ]}]},
+  {"name": "⚽️ Liga F (femenina)","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Liga_F_icon.svg/640px-Liga_F_icon.svg.png","groups": [      
+    {"name": "(12:00) FC Barcelona Femenino x Real Madrid Femenino | (14:00) Granada Femenino x Villarreal Femenino | (16:00) Madrid CFF x Atlético Madrid Femenino | (18:00) Real Betis Femenino x Levante Las Planas","image": "","stations": [
+      {"name": "web | con chrome y extensión m3u8","url": "","embed": true},
+      {"name": "acestream","url": ""}
       
 ]}]} ]}]},
 
