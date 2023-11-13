@@ -6,8 +6,20 @@
   {"name": "Zaphkiel_ES","image": "https://definicion.de/wp-content/uploads/2010/10/cartulina.jpg","url": "https://zaphkieles.github.io/hosting/","embed": true}
 ]},
 
-{"name": "Eventos diarios | sin eventos","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
-]},
+{"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
+
+{"name": "Martes, 14","image": "","groups": [
+  {"name": "⚽️ Copa del Rey","image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif","groups": [
+    {"name": "(20:00) Atzeneta x Real Zaragoza","image": "","stations": [
+      {"name": "web | con chrome y extensión m3u8","url": "https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8","embed": true}
+  ]}]},
+  {"name": "⚽️ Champions League Femenina","image": "https://estaticos-cdn.sport.es/clip/e1871120-090c-464b-82a8-29fe66ec8a4b_source-aspect-ratio_default_0.jpg","groups": [
+    {"name": "(21:00) FC Barcelona Femenino x Benfica Femenino","image": "","stations": [
+      {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "acestream","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
+      
+  
+]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
   {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
