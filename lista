@@ -8,13 +8,6 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Miércoles, 15","image": "","groups": [
-  {"name": "⚽️ Champions League Femenina","image": "https://estaticos-cdn.sport.es/clip/e1871120-090c-464b-82a8-29fe66ec8a4b_source-aspect-ratio_default_0.jpg","groups": [
-    {"name": "(21:00) Real Madrid Femenino x Chelsea Femenino","image": "","stations": [
-      {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
-      {"name": "acestream","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
-]}]}  ]},
-
 {"name": "Jueves, 16","image": "","groups": [
   {"name": "⚽️ Copa Mundial FIFA 2026","image": "https://www.mundodeportivo.com/us/files/image_948_465/uploads/2022/07/10/62ca8e4b32299.jpeg","groups": [
     {"name": "(10:00) Uzbekistán x España (gol play en abierto)","image": "","stations": [
