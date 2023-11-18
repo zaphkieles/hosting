@@ -12,13 +12,11 @@
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [ 
     {"name": "(16:15) Alcorcón x Sporting Gijón | (18:30) Amorebieta x Tenerife | (18:30) Real Zaragoza x SD Huesca | (21:00) RCD Espanyol x Elche","image": "","stations": [
       {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
-
-  }]},
+  ]}]},
   {"name": "🏍 Moto GP","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/2560px-Moto_Gp_logo.svg.png","groups": [
     {"name": "G.P.Qatar (Losail) (13:40) Clasificación | (18:00) Sprint","image": "","stations": [       
       {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
-      {"name": "acestream","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}  
-      
+      {"name": "acestream","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}
   ]}]},
   {"name": "🎾 ATP Finals Semifinal 2","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Nitto_ATP_Finals_logo.jpg/1280px-Nitto_ATP_Finals_logo.jpg","groups": [  
     {"name": "(21:00) C.Alcaraz x N.Djokovic","image": "","stations": [       
