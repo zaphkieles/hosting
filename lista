@@ -8,25 +8,6 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Jueves, 16","image": "","groups": [
-  {"name": "⚽️ Copa Mundial FIFA 2026","image": "https://www.mundodeportivo.com/us/files/image_948_465/uploads/2022/07/10/62ca8e4b32299.jpeg","groups": [
-    {"name": "(10:00) Uzbekistán x España (gol play en abierto)","image": "","stations": [
-      {"name": "web","url": "https://www.goltelevision.com/en-directo","embed": true},
-      {"name": "acestream","url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"}
-  ]}]},
-  {"name": "⚽️ Eurocopa 2024","image": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/10/logotipo-Eurocopa-Alemania-Foto-Archivo-696x497.jpg","groups": [
-    {"name": "(18:00) Chipre x España (La 1 TVE en abierto)","image": "","stations": [
-      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},
-      {"name": "acestream","url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"}
-]}]}  ]},
-
-{"name": "Viernes, 17","image": "","groups": [
-  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [ 
-    {"name": "(21:00) Real Valladolid x Leganés","image": "","stations": [
-      {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-      {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
-]}]}  ]},
-
 {"name": "Sábado, 18","image": "","groups": [
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [ 
     {"name": "(16:15) Alcorcón x Sporting Gijón | (18:30) Amorebieta x Tenerife | (18:30) Real Zaragoza x SD Huesca | (21:00) RCD Espanyol x Elche","image": "","stations": [
