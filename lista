@@ -25,6 +25,21 @@
     {"name": "21:00 - Eintracht Fráncfort Femenino x FC Barcelona Femenino","image": "","stations": [
       {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
       {"name": "acestream ","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
+]}]}  ]},
+
+{"name": "Jueves, 23","image": "","groups": [
+  {"name": "⚽️ Champions League Femenina","image": "https://estaticos-cdn.sport.es/clip/e1871120-090c-464b-82a8-29fe66ec8a4b_source-aspect-ratio_default_0.jpg","groups": [
+    {"name": "18:45 - Häcken Femenino x Real Madrid Femenino","image": "","stations": [
+      {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "acestream ","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
+]}]}  ]},
+
+{"name": "Viernes, 24","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "21:00 - Alavés x Granada","image": "","stations": [
+      {"name": "acestream ","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},
+      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
 
 
 ]}]} ]}]},
