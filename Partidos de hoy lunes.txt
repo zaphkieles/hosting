@@ -1,49 +1,4 @@
 
-Serie A Italia
-15:00
-25
-SalernitanaSalernitana
-LazioLazio
-M+ Dial 62
-
-Bundesliga
-15:30
-25
-Borussia DortmundBorussia Dortmund
-Borussia M'gladbach
-Liga de Campeones
-M+ Diales ...
-15:30
-25
-VfL WolfsburgoVfL Wolfsburgo
-RB LeipzigRB Leipzig
-Liga de Campeones
-M+ Diales ...
-18:30
-25
-Eintracht FrankfurtEintracht Frankfurt
-StuttgartStuttgart
-Liga de Campeones
-M+ Diales ...
-
-Liga F
-12:00
-25
-Real Sociedad FemeninoReal Sociedad Femenino
-Valencia CF FemeninoValencia CF Femenino
-12:00
-25
-Villarreal FemeninoVillarreal Femenino
-Costa Adeje TenerifeCosta Adeje Tenerife
-16:00
-25
-Levante FemeninoLevante Femenino
-Eibar FemeninoEibar Femenino
-20:30
-25
-Sevilla FemeninoSevilla Femenino
-Real Betis FemeninoReal Betis Femenino
-
 Partidos televisados el domingo, 26 de noviembre
 LaLiga EA Sports
 14:00
