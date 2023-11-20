@@ -161,12 +161,14 @@
       {"name": "elche","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
   ]}]},     
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
-    {"name": "15:00 - Tottenham Hotspur x Aston Villa","image": "","stations": [
-      {"name": "acestream ","url": ""}
-    ]},
-    {"name": "17:30 - Everton x Manchester United","image": "","stations": [
-      {"name": "acestream ","url": ""}
-       
+    {"name": "(15:00) Tottenham Hotspur x Aston Villa | (17:30) Everton x Manchester United","image": "","stations": [
+      {"name": "acestream ","url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},
+      {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"}
+  ]}]},     
+  {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
+    {"name": "20:45 - Juventus x Inter Milan","image": "","stations": [
+      {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+      
       
 
 
