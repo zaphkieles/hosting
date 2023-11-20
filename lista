@@ -168,6 +168,19 @@
   {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
     {"name": "20:45 - Juventus x Inter Milan","image": "","stations": [
       {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+  ]}]}, 
+  {"name": "⚽️ Liga F (femenina)","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Liga_F_icon.svg/640px-Liga_F_icon.svg.png","groups": [
+    {"name": "12:00 - Atlético Madrid Femenino x Granada Femenino","image": "","stations": [
+      {"name": "web gol play en abierto","url": "https://www.goltelevision.com/en-directo","embed": true},
+    ]},
+    {"name": "14:00 - Real Madrid Femenino x Sporting Huelva","image": "","stations": [
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "16:00 - Levante Las Planas x Madrid CFF","image": "","stations": [
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "18:00 - Athletic Femenino x FC Barcelona Femenino","image": "","stations": [
+      {"name": "acestream ","url": ""}
       
       
 
