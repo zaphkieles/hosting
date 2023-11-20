@@ -6,42 +6,9 @@
   {"name": "Zaphkiel_ES","image": "https://definicion.de/wp-content/uploads/2010/10/cartulina.jpg","url": "https://zaphkieles.github.io/hosting/","embed": true}
 ]},
 
-{"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
+{"name": "Eventos diarios (sin eventos)","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Sábado, 18","image": "","groups": [
-  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [ 
-    {"name": "(16:15) Alcorcón x Sporting Gijón | (18:30) Amorebieta x Tenerife | (18:30) Real Zaragoza x SD Huesca | (21:00) RCD Espanyol x Elche","image": "","stations": [
-      {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
-  ]}]},
-  {"name": "🏍 Moto GP","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/2560px-Moto_Gp_logo.svg.png","groups": [
-    {"name": "G.P.Qatar (Losail) (13:40) Clasificación | (18:00) Sprint","image": "","stations": [       
-      {"name": "acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
-      {"name": "acestream","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}
-  ]}]},
-  {"name": "🎾 ATP Finals Semifinal 2","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Nitto_ATP_Finals_logo.jpg/1280px-Nitto_ATP_Finals_logo.jpg","groups": [  
-    {"name": "(21:00) C.Alcaraz x N.Djokovic","image": "","stations": [       
-      {"name": "acestream","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"},
-      {"name": "acestream","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"},
-      {"name": "acestream","url": "acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c"}
-]}]}  ]},
-
-{"name": "Domingo, 19","image": "","groups": [
-  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [ 
-    {"name": "(14:00) Racing Ferrol x Burgos | (16:15) Real Oviedo x SD Eibar | (16:15) Eldense x Mirandés | (18:30) Cartagena x Albacete | (18:30) Villarreal B x FC Andorra","image": "","stations": [
-      {"name": "acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-      {"name": "eldense, andorra","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
-  ]}]},
-  {"name": "⚽️ Eurocopa 2024","image": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2021/10/logotipo-Eurocopa-Alemania-Foto-Archivo-696x497.jpg","groups": [
-    {"name": "(20:45) España x Georgia (La 1 TVE en abierto)","image": "","stations": [
-      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1688877.m3u8","embed": true},
-      {"name": "acestream","url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"}
-  ]}]},
-  {"name": "⚽️ Liga F (femenina)","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Liga_F_icon.svg/640px-Liga_F_icon.svg.png","groups": [      
-    {"name": "(12:00) FC Barcelona Femenino x Real Madrid Femenino | (14:00) Granada Femenino x Villarreal Femenino | (16:00) Madrid CFF x Atlético Madrid Femenino | (18:00) Real Betis Femenino x Levante Las Planas","image": "","stations": [
-      {"name": "web | con chrome y extensión m3u8","url": "","embed": true},
-      {"name": "acestream","url": ""}
-      
-]}]} ]}]},
+]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
   {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
