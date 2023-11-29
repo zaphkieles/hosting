@@ -10,12 +10,30 @@
 
 {"name": "Lunes, 29","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "21:00 RCD Mallorca x Cádiz","image": "","stations": [
+    {"name": "(21:00) RCD Mallorca x Cádiz","image": "","stations": [
       {"name": "acestream ","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},
       {"name": "acestream ","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},
       {"name": "acestream ","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},
       {"name": "acestream ","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
-
+  ]}]},
+  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
+    {"name": "(21:00) Arsenal x Lens","image": "","stations": [
+      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
+      {"name": "acestream ","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"}
+    ]},
+    {"name": "(21:00) Bayern de Múnich x FC Copenhague","image": "","stations": [
+      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
+      {"name": "acestream ","url": "acestream://5932623d2fd7ed16b01787251b418e4f59a01cda"}
+    ]},
+    {"name": "(21:00) Benfica x Inter de Milán","image": "","stations": [
+      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
+      {"name": "acestream ","url": "acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d"}
+    ]},
+    {"name": "(21:00) Real Madrid x Napoli","image": "","stations": [
+      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
+      {"name": "acestream ","url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"}
 
 ]}]} ]}]},
    
