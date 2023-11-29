@@ -42,8 +42,14 @@
     {"name": "(21:00) Braga x Unión Berlín","image": "","stations": [
       {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
       {"name": "acestream ","url": "acestream://fdd9e3660059051660dbd7857443c2b807f258d0"}
+  ]}]},    
+  {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
+    {"name": "(21:00) Ipswich Town x Millwall","image": "","stations": [
+      {"name": "acestream ","url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"},
+      {"name": "acestream ","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"}
+  
 
-]}]} ]}]},
+    ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
   {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
