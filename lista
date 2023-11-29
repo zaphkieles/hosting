@@ -38,6 +38,10 @@
     {"name": "(21:00) Real Sociedad x Red Bull Salzburg","image": "","stations": [
       {"name": "acestream ","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
       {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}
+    ]},
+    {"name": "(21:00) Braga x Unión Berlín","image": "","stations": [
+      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
+      {"name": "acestream ","url": "acestream://fdd9e3660059051660dbd7857443c2b807f258d0"}
 
 ]}]} ]}]},
    
