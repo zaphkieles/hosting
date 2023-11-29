@@ -1,73 +1,4 @@
-Partidos televisados mañana jueves
-Europa League
-18:45
-30
-AtalantaAtalanta
-Sporting de LisboaSporting de Lisboa
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 4
-M+ Dial 180
-18:45
-30
-AEK AtenasAEK Atenas
-BrightonBrighton
-Liga de Campeones 2
-M+ Dial 61
-Liga de Campeones 3
-M+ Dial 62
-18:45
-30
-Backa TopolaBacka Topola
-West HamWest Ham
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 8
-M+ Dial 184
-18:45
-30
-FriburgoFriburgo
-OlympiacosOlympiacos
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 6
-M+ Dial 182
-18:45
-30
-Maccabi HaifaMaccabi Haifa
-RennesRennes
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 5
-M+ Dial 181
-18:45
-30
-Sparta PragaSparta Praga
-Real BetisReal Betis
-LaLiga TV BAR
-M+ Dial 300
-Movistar Plus+
-Dial 7
-Liga de Campeones
-M+ Dial 60
-Liga de Campeones 3
-M+ Dial 62
-18:45
-30
-Sturm GrazSturm Graz
-Raków CzestochowaRaków Czestochowa
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 7
-M+ Dial 183
-21:00
-30
-ToulouseToulouse
-Saint-GilloiseSaint-Gilloise
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 8
-M+ Dial 184
+
 21:00
 30
 VillarrealVillarreal
@@ -81,14 +12,7 @@ Liga de Campeones
 M+ Dial 60
 Liga de Campeones 3
 M+ Dial 62
-21:00
-30
-HackenHacken
-Bayer LeverkusenBayer Leverkusen
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 6
-M+ Dial 182
+
 21:00
 30
 LiverpoolLiverpool
@@ -97,141 +21,8 @@ Liga de Campeones 2
 M+ Dial 61
 Liga de Campeones 3
 M+ Dial 62
-21:00
-30
-MarsellaMarsella
-AjaxAjax
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 4
-M+ Dial 180
-21:00
-30
-MoldeMolde
-QuarabagQuarabag
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 9
-M+ Dial 185
-21:00
-30
-RangersRangers
-Aris LimassolAris Limassol
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 5
-M+ Dial 181
-21:00
-30
-Servette GenèveServette Genève
-AS RomaAS Roma
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 7
-M+ Dial 183
-21:00
-30
-Sheriff TiraspolSheriff Tiraspol
-Slavia PragaSlavia Praga
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 10
-M+ Dial 186
+
 Conference League
-16:30
-30
-AstanaAstana
-Dinamo ZagrebDinamo Zagreb
-Liga de Campeones 2
-M+ Dial 61
-18:45
-30
-AZ AlkmaarAZ Alkmaar
-Zrinjski MostarZrinjski Mostar
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 12
-M+ Dial 188
-18:45
-30
-BallkaniBallkani
-Viktoria PlzenViktoria Plzen
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 15
-Movistar Plus+ Disp.
-18:45
-30
-BesiktasBesiktas
-Club BrujasClub Brujas
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 11
-M+ Dial 187
-18:45
-30
-Bodo GlimtBodo Glimt
-LuganoLugano
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 14
-Movistar Plus+ Disp.
-18:45
-30
-GentGent
-ZoryaZorya
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 16
-Movistar Plus+ Disp.
-18:45
-30
-HJK HelsinkiHJK Helsinki
-AberdeenAberdeen
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 13
-M+ Dial 189
-18:45
-30
-KÍ KlaksvíkKÍ Klaksvík
-Slovan BratislavaSlovan Bratislava
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 10
-M+ Dial 186
-18:45
-30
-Olimpija LjubljanaOlimpija Ljubljana
-Lille LOSCLille LOSC
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 9
-M+ Dial 185
-21:00
-30
-Aston VillaAston Villa
-Legia VarsoviaLegia Varsovia
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 12
-M+ Dial 188
-21:00
-30
-Eintracht FrankfurtEintracht Frankfurt
-PAOK SalónicaPAOK Salónica
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 14
-Movistar Plus+ Disp.
-21:00
-30
-ACF FiorentinaACF Fiorentina
-GenkGenk
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 11
-M+ Dial 187
 21:00
 30
 BreidablikBreidablik
@@ -240,30 +31,7 @@ Liga de Campeones 3
 M+ Dial 62
 Liga de Campeones 17
 Movistar Plus+ Disp.
-21:00
-30
-CukarickiCukaricki
-FerencvarosFerencvaros
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 15
-Movistar Plus+ Disp.
-21:00
-30
-NordsjaellandNordsjaelland
-FenerbahçeFenerbahçe
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 13
-M+ Dial 189
-21:00
-30
-Spartak TrnavaSpartak Trnava
-LudogoretsLudogorets
-Liga de Campeones 3
-M+ Dial 62
-Liga de Campeones 16
-Movistar Plus+ Disp.
+
 Liga Colombiana
 02:30
 30
@@ -271,6 +39,7 @@ Deportivo CaliDeportivo Cali
 Deportes TolimaDeportes Tolima
 Canal RCN
 En Abierto
+
 Partidos televisados el viernes, 1 de diciembre
 LaLiga EA Sports
 21:00

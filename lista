@@ -8,47 +8,13 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Lunes, 29","image": "","groups": [
-  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "(21:00) RCD Mallorca x Cádiz","image": "","stations": [
-      {"name": "acestream ","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},
-      {"name": "acestream ","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},
-      {"name": "acestream ","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},
-      {"name": "acestream ","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
-  ]}]},
-  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
-    {"name": "(21:00) Arsenal x Lens","image": "","stations": [
-      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
-      {"name": "acestream ","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"}
-    ]},
-    {"name": "(21:00) Bayern de Múnich x FC Copenhague","image": "","stations": [
-      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
-      {"name": "acestream ","url": "acestream://5932623d2fd7ed16b01787251b418e4f59a01cda"}
-    ]},
-    {"name": "(21:00) Benfica x Inter de Milán","image": "","stations": [
-      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
-      {"name": "acestream ","url": "acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d"}
-    ]},
-    {"name": "(21:00) Real Madrid x Napoli","image": "","stations": [
+{"name": "Jueves, 30","image": "","groups": [
+  {"name": "⚽️ Europa League","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png","groups": [
+    {"name": "(18:45) Sparta Praga x Real Betis","image": "","stations": [
       {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
       {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
-      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
-      {"name": "acestream ","url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"}
-    ]},
-    {"name": "(21:00) Real Sociedad x Red Bull Salzburg","image": "","stations": [
-      {"name": "acestream ","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
-      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}
-    ]},
-    {"name": "(21:00) Braga x Unión Berlín","image": "","stations": [
-      {"name": "acestream ","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
-      {"name": "acestream ","url": "acestream://fdd9e3660059051660dbd7857443c2b807f258d0"}
-  ]}]},    
-  {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
-    {"name": "(21:00) Ipswich Town x Millwall","image": "","stations": [
-      {"name": "acestream ","url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"},
-      {"name": "acestream ","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"}
-  
-
+      {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
+      
     ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
