@@ -86,10 +86,11 @@
       {"name": "burnley","url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97"},
       {"name": "burnley","url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"},
       {"name": "burnley","url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"},
-      {"name": "Nottingham","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
-      {"name": "Nottingham","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"},
+      {"name": "Nottingham | Newcastle","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "Nottingham | Newcastle","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"},
       {"name": "Nottingham","url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},
-      {"name": "Nottingham","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"}
+      {"name": "Nottingham","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"},
+      {"name": "Newcastle","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
 
 
       
