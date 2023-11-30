@@ -96,9 +96,15 @@
       {"name": "lazio","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
       {"name": "milan","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
       {"name": "milan","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
-
-
-      
+  ]}]},
+  {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [    
+    {"name": "(15:30) Bayern de Múnich x FC Unión Berlín | (15:30) RB Leipzig x Heidenheim | (18:30) Stuttgart x Werder Bremen","image": "","stations": [
+      {"name": "bayern","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
+      {"name": "Leipzig","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "Leipzig","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "Stuttgart","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
+      {"name": "Stuttgart","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
+    
       
      
 
