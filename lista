@@ -118,6 +118,11 @@
       {"name": "almeria | Barcelona","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
       {"name": "Barcelona","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
       {"name": "Barcelona","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "(14:00) FC Andorra x S.D. Huesca | (16:15) Alcorcón x Elche | (18:30) Mirandés x Racing de Santander | (18:30) Racing Ferrol x Albacete | (21:00) Amorebieta x Burgos","image": "","stations": [
+      {"name": "andorra | Alcorcón | Mirandés | Albacete | Amorebieta","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "Albacete","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
      
 
 ]}]} ]}]},
