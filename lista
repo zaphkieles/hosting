@@ -72,6 +72,17 @@
     {"name": "(16:15) Cartagena x Sporting Gijón | (16:15) Eldense x Tenerife | (18:30) Real Zaragoza x Leganés | (21:00) Levante x Real Valladolid","image": "","stations": [
       {"name": "cartagena | eldense | zaragoza | levante","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
       {"name": "eldense","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
+  ]}]},
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "(16:00) Arsenal x Wolverhampton Wanderers | (16:00) Brentford x Luton Town | (16:00) Burnley x Sheffield United | (18:30) Nottingham Forest x Everton | (21:00) Newcastle United x Manchester United","image": "","stations": [
+
+      {"name": "arsenal","url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},
+      {"name": "arsenal","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"},
+      {"name": "arsenal","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "arsenal","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"},
+      {"name": "brentford","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"},
+      {"name": "brentford","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
+      {"name": "brentford","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"}
       
      
 
