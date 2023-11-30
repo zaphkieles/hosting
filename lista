@@ -1,4 +1,4 @@
-{"name": "Zaphkiel_ES","author": "(Nov/2023 🔄 actualizar lista)","url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista","image": "https://avatars.githubusercontent.com/u/12897601?v=4","imageScale": "","telegram": "Zaphkiel_ES","info": "Lista Eventos Deportivos",
+{"name": "Zaphkiel_ES","author": "(Dic/2023 🔄 actualizar lista)","url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista","image": "https://avatars.githubusercontent.com/u/12897601?v=4","imageScale": "","telegram": "Zaphkiel_ES","info": "Lista Eventos Deportivos",
 
 "groups": [
 
@@ -20,6 +20,34 @@
   {"name": "⚽️ UEFA Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [    
     {"name": "(21:00) Breidablik x Maccabi Tel Aviv","image": "","stations": [
       {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
+]}]}  ]},
+
+{"name": "Viernes, 1","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "(21:00) UD Las Palmas x Getafe","image": "","stations": [
+      {"name": "betis | acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},
+      {"name": "betis | acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "betis | acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "(20:30) Real Oviedo x RCD Espanyol","image": "","stations": [
+      {"name": "betis | acestream","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "betis | acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+  ]}]},
+  {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
+    {"name": "(20:45) Monza x Juventus","image": "","stations": [
+      {"name": "betis | acestream","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "betis | acestream","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+  ]}]},
+  {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
+    {"name": "(21:00) Stade de Reims x Racing Estrasburgo","image": "","stations": [
+      {"name": "betis | acestream","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}
+  ]}]},
+  {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
+    {"name": "(21:00) Preston North End x Queens Park Rangers","image": "","stations": [
+      {"name": "betis | acestream","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "betis | acestream","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"},
+      {"name": "betis | acestream","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
 
 ]}]} ]}]},
    
