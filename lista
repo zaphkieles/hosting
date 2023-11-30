@@ -95,7 +95,7 @@
     {"name": "(18:00) Lazio x Cagliari | (20:45) AC Milan x Frosinone","image": "","stations": [
       {"name": "lazio","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
       {"name": "milan","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
-      {"name": "milan","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"}
+      {"name": "milan","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
 
 
       
