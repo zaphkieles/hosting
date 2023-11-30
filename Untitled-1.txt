@@ -1,21 +1,3 @@
-Serie A Italia
-18:00
-2
-LazioLazio
-CagliariCagliari
-#Vamos
-M+ Dial 8
-#Vamos BAR
-M+ Dial 304
-Movistar+ Lite
-20:45
-2
-AC MilanAC Milan
-FrosinoneFrosinone
-#Vamos BAR 2
-M+ Dial 305
-Liga de Campeones
-M+ Dial 60
 Bundesliga
 15:30
 2
@@ -42,31 +24,8 @@ Werder BremenWerder Bremen
 M+ Dial 306
 Liga de Campeones 2
 M+ Dial 61
-Segunda Federación
-15:45
-2
-Real Oviedo B
-CovadongaCovadonga
-YouTube "RealOviedo"
-16:30
-2
-Valladolid Promesas
-ZamoraZamora
-YouTube "Real Valladolid"
-Tercera Federación
-16:00
-2
-Real Madrid C
-RSD Alcalá
-Real Madrid TV
-Copa Mundial Sub-17 FIFA
-13:00
-2
-AlemaniaAlemania
-Final
-FranciaFrancia
-GOL PLAY
-En Abierto
+
+
 Partidos televisados el domingo, 3 de diciembre
 LaLiga EA Sports
 14:00
