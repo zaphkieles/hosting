@@ -1,35 +1,4 @@
-Partidos televisados el sábado, 2 de diciembre
-LaLiga EA Sports
-14:00
-2
-GironaGirona
-Valencia CFValencia CF
-DAZN LaLiga
-M+ Dial 55
-LaLiga TV BAR
-M+ Dial 300
-DAZN
-16:15
-2
-Athletic ClubAthletic Club
-Rayo VallecanoRayo Vallecano
-GOL PLAY
-En Abierto
-LaLiga TV
-M+ Dial 54
-LaLiga TV BAR
-M+ Dial 300
-18:30
-2
-Real MadridReal Madrid
-GranadaGranada
-DAZN LaLiga
-M+ Dial 55
-DAZN LaLiga 2
-M+ Dial 58
-LaLiga TV BAR
-M+ Dial 300
-DAZN
+
 21:00
 2
 OsasunaOsasuna
