@@ -1,61 +1,4 @@
-Bundesliga
-17:30
-3
-Bayer LeverkusenBayer Leverkusen
-DortmundDortmund
-#Vamos BAR 2
-M+ Dial 305
-Liga de Campeones
-M+ Dial 60
-19:30
-3
-AugsburgAugsburg
-Eintracht FrankfurtEintracht Frankfurt
-#Vamos BAR 2
-M+ Dial 305
-Liga de Campeones
-M+ Dial 60
-Liga de Campeones 3
-M+ Dial 62
-Primera Federación
-17:00
-3
-Barcelona AtléticBarcelona Atlétic
-Deportivo La CoruñaDeportivo La Coruña
-Esport3 Cataluña
-TVG2 Galicia
-19:00
-3
-Arenteiro
-SabadellSabadell
-TVG2 Galicia
-20:00
-3
-Real Madrid CastillaReal Madrid Castilla
-San Fernando
-Real Madrid TV
-Segunda Federación
-11:30
-3
-Sevilla AtléticoSevilla Atlético
-MarbellaMarbella
-Sevilla FC TV
-YouTube "SevillaFC"
-12:00
-3
-Cartagena B
-Estepona
-Telecartagena
-17:00
-3
-Pontevedra
-CompostelaCompostela
-TVG2 Galicia
-18:00
-3
-Real Sociedad C
-LogroñésLogroñés
-YouTube "Real Sociedad TV"
+
 Partidos televisados el lunes, 4 de diciembre
 LaLiga EA Sports
 21:00
@@ -77,6 +20,7 @@ M+ Dial 56
 LaLiga TV BAR 2
 M+ Dial 301
 Amazon Prime Video
+
 Partidos televisados el martes, 5 de diciembre
 Copa del Rey
 19:00
@@ -126,6 +70,7 @@ Teledeporte
 En Abierto
 RTVE Play
 En Abierto
+
 Partidos televisados el miércoles, 6 de diciembre
 Copa del Rey
 12:00
@@ -228,6 +173,7 @@ DAZN
 Manchester UnitedManchester United
 ChelseaChelsea
 DAZN
+
 Partidos televisados el jueves, 7 de diciembre
 Copa del Rey
 19:00
