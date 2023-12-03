@@ -1,68 +1,42 @@
-Partidos televisados el lunes, 4 de diciembre
-LaLiga EA Sports
-21:00
-4
-Celta de VigoCelta de Vigo
-CádizCádiz
-DAZN LaLiga
-M+ Dial 55
-LaLiga TV BAR
-M+ Dial 300
-DAZN
-LaLiga Hypermotion
-20:30
-4
-Villarreal BVillarreal B
-SD EibarSD Eibar
-LaLiga TV Hypermotion
-M+ Dial 56
-LaLiga TV BAR 2
-M+ Dial 301
-Amazon Prime Video
 
 Partidos televisados el martes, 5 de diciembre
+
 Copa del Rey
 19:00
-5
 AtzenetaAtzeneta
 Segunda Ronda
 GetafeGetafe
-Liga de Campeones 2
 M+ Dial 61
+
 21:00
-5
 RCD EspanyolRCD Espanyol
 Segunda Ronda
 Real ValladolidReal Valladolid
-Liga de Campeones 3
 M+ Dial 62
+
 21:00
-5
 ArosaArosa
 Segunda Ronda
 Valencia CFValencia CF
-Liga de Campeones 4
 M+ Dial 180
+
 21:00
-5
 CastellónCastellón
 Segunda Ronda
 Real OviedoReal Oviedo
 À Punt Com. Valenciana
+
 Premier League
 20:30
-5
 Wolverhampton WanderersWolverhampton Wanderers
 BurnleyBurnley
-DAZN
+
 21:15
-5
 Luton TownLuton Town
 ArsenalArsenal
-DAZN
+
 UEFA Nations League Femenina
 19:00
-5
 EspañaEspaña
 SueciaSuecia
 Teledeporte
@@ -71,53 +45,47 @@ RTVE Play
 En Abierto
 
 Partidos televisados el miércoles, 6 de diciembre
+
 Copa del Rey
 12:00
-6
 BarbastroBarbastro
 Segunda Ronda
 AlmeríaAlmería
-Liga de Campeones 2
 M+ Dial 61
+
 12:00
-6
 Yeclano
 Segunda Ronda
 Rayo VallecanoRayo Vallecano
 Liga de Campeones 3
 M+ Dial 62
+
 16:00
-6
 Andratx
 Segunda Ronda
 Real SociedadReal Sociedad
-Liga de Campeones 3
 M+ Dial 62
+
 16:00
-6
 TerrassaTerrassa
 Segunda Ronda
 AlavésAlavés
-Liga de Campeones 2
 M+ Dial 61
+
 19:00
-6
 Valle de Egüés
 Segunda Ronda
 RCD MallorcaRCD Mallorca
-Liga de Campeones 4
 M+ Dial 180
+
 19:00
-6
 Villanovense
 Segunda Ronda
 Real BetisReal Betis
-Movistar Plus+
 Dial 7
-Liga de Campeones 3
 M+ Dial 62
+
 21:00
-6
 Atlético Astorga
 Segunda Ronda
 Sevilla FCSevilla FC
@@ -125,72 +93,60 @@ Teledeporte
 En Abierto
 RTVE Play
 En Abierto
+
 21:00
-6
 TudelanoTudelano
 Segunda Ronda
 UD Las PalmasUD Las Palmas
-Liga de Campeones 2
 M+ Dial 61
+
 Europa League
 21:00
-6
 VillarrealVillarreal
 Maccabi HaifaMaccabi Haifa
-LaLiga TV BAR
-M+ Dial 300
-Liga de Campeones
 M+ Dial 60
+
 Premier League
 20:30
-6
 FulhamFulham
 Nottingham ForestNottingham Forest
-DAZN
+
 20:30
-6
 Sheffield UnitedSheffield United
 LiverpoolLiverpool
-DAZN
+
 20:30
-6
 BrightonBrighton
 BrentfordBrentford
-DAZN
+
 20:30
-6
 Crystal PalaceCrystal Palace
 BournemouthBournemouth
-DAZN
+
 21:15
-6
 Aston VillaAston Villa
 Manchester CityManchester City
-DAZN
+
 21:15
-6
 Manchester UnitedManchester United
 ChelseaChelsea
-DAZN
 
 Partidos televisados el jueves, 7 de diciembre
+
 Copa del Rey
 19:00
-7
 Arandina
 Segunda Ronda
 CádizCádiz
-Liga de Campeones 2
 M+ Dial 61
+
 21:00
-7
 Cayón
 Segunda Ronda
 Athletic ClubAthletic Club
-Liga de Campeones 4
 M+ Dial 180
+
 21:00
-7
 Orihuela
 Segunda Ronda
 GironaGirona
@@ -198,21 +154,18 @@ Teledeporte
 En Abierto
 RTVE Play
 En Abierto
+
 21:00
-7
 Sestao River
 Segunda Ronda
 Celta de VigoCelta de Vigo
-Liga de Campeones 3
 M+ Dial 62
+
 Premier League
 20:30
-7
 EvertonEverton
 Newcastle UnitedNewcastle United
-DAZN
+
 21:15
-7
 Tottenham HotspurTottenham Hotspur
 West HamWest Ham
-DAZN
