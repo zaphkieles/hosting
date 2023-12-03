@@ -83,7 +83,20 @@
   {"name": "⚽️ UEFA Women's Nations League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/UEFA_Women%27s_Nations_League_logo.svg/160px-UEFA_Women%27s_Nations_League_logo.svg.png","groups": [
     {"name": "(19:00) España x Suecia","image": "","stations": [
       {"name": "acestream","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"},
-      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true}
+]}]}  ]},
+
+{"name": "Miércoles, 6","image": "","groups": [
+  {"name": "⚽️ Copa del Rey","image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif","groups": [
+    {"name": "(12:00) Barbastro (Segunda Ronda) Almería | (12:00) Yeclano (Segunda Ronda) Rayo Vallecano | (21:00) Arosa (Segunda Ronda) Valencia CF","image": "","stations": [
+      {"name": "almería","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
+      {"name": "almería","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
+      {"name": "rayo","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
+
+      
+      
+
+  
 
 ]}]} ]}]},
    
