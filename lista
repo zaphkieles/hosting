@@ -8,61 +8,6 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Sábado, 2","image": "","groups": [
-  {"name": "🎾 ATP Maspalomas y WTA Andorra","image": "https://canaltenis.com/wp-content/uploads/2022/09/atp-challenger-tour-990x743.jpg","groups": [
-    {"name": "(11:00) D.Rincon x K.Feldbausch | (12:30) P.Martinez x F.Misolic | (18:00) M.Bassols x A.Cornet","image": "","stations": [
-      {"name": "acestream","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}
-  ]}]},    
-  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "(14:00) Girona x Valencia CF | (18:30) Real Madrid x Granada","image": "","stations": [
-      {"name": "acestream","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},
-      {"name": "acestream","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},
-      {"name": "acestream","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},
-      {"name": "acestream","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
-    ]},
-    {"name": "(16:15) Athletic Club x Rayo Vallecano | (21:00) Osasuna x Real Sociedad","image": "","stations": [
-      {"name": "acestream","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},
-      {"name": "acestream","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
-      {"name": "acestream","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
-  ]}]},
-  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-    {"name": "(16:15) Cartagena x Sporting Gijón | (16:15) Eldense x Tenerife | (18:30) Real Zaragoza x Leganés | (21:00) Levante x Real Valladolid","image": "","stations": [
-      {"name": "cartagena | eldense | zaragoza | levante","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-      {"name": "eldense","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
-  ]}]},
-  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
-    {"name": "(16:00) Arsenal x Wolverhampton Wanderers | (16:00) Brentford x Luton Town | (16:00) Burnley x Sheffield United | (18:30) Nottingham Forest x Everton | (21:00) Newcastle United x Manchester United","image": "","stations": [
-      {"name": "arsenal","url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},
-      {"name": "arsenal","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"},
-      {"name": "arsenal","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
-      {"name": "arsenal","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"},
-      {"name": "brentford","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"},
-      {"name": "brentford","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
-      {"name": "brentford","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"},
-      {"name": "burnley","url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97"},
-      {"name": "burnley","url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"},
-      {"name": "burnley","url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"},
-      {"name": "Nottingham | Newcastle","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
-      {"name": "Nottingham | Newcastle","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"},
-      {"name": "Nottingham","url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},
-      {"name": "Nottingham","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"},
-      {"name": "Newcastle","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
-  ]}]},
-  {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
-    {"name": "(18:00) Lazio x Cagliari | (20:45) AC Milan x Frosinone","image": "","stations": [
-      {"name": "lazio","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
-      {"name": "milan","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
-      {"name": "milan","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
-  ]}]},
-  {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [    
-    {"name": "(15:30) Bayern de Múnich x FC Unión Berlín | (15:30) RB Leipzig x Heidenheim | (18:30) Stuttgart x Werder Bremen","image": "","stations": [
-      {"name": "bayern","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
-      {"name": "Leipzig","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
-      {"name": "Leipzig","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
-      {"name": "Stuttgart","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
-      {"name": "Stuttgart","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
-]}]}  ]},
-
 {"name": "Domingo, 3","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "(14:00) Real Mallorca x Alavés | (16:15) Almería x Real Betis | (18:30) Sevilla x Villarreal | (21:00) FC Barcelona x Atlético de Madrid           ","image": "","stations": [
@@ -103,7 +48,7 @@
       {"name": "Dortmund | Augsburg","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
       {"name": "Dortmund | Augsburg","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
       {"name": "Dortmund | Augsburg","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
-      
+
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
