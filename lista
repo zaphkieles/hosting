@@ -88,10 +88,13 @@
 
 {"name": "Miércoles, 6","image": "","groups": [
   {"name": "⚽️ Copa del Rey","image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif","groups": [
-    {"name": "(12:00) Barbastro (Segunda Ronda) Almería | (12:00) Yeclano (Segunda Ronda) Rayo Vallecano | (16:00) Andratx (Segunda Ronda) Real Sociedad","image": "","stations": [
-      {"name": "almería","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
-      {"name": "almería","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
-      {"name": "rayo | sociedad","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
+    {"name": "(12:00) Barbastro x Almería | (12:00) Yeclano x Rayo Vallecano | (16:00) Andratx x Real Sociedad | (16:00) Terrassa x Alavés | (19:00)  Valle de Egüés x RCD Mallorca | (19:00) Villanovense x Real Betis | (21:00) Atlético Astorga x Sevilla FC","image": "","stations": [
+      {"name": "almería | alavés","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
+      {"name": "almería | alavés","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
+      {"name": "rayo | sociedad | betis","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
+      {"name": "mallorca","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
+      {"name": "sevilla","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"},
+      {"name": "sevilla (web | con chrome y extensión m3u8)","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true}
 
       
       
