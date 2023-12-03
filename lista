@@ -88,17 +88,39 @@
 
 {"name": "Miércoles, 6","image": "","groups": [
   {"name": "⚽️ Copa del Rey","image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif","groups": [
-    {"name": "(12:00) Barbastro x Almería | (12:00) Yeclano x Rayo Vallecano | (16:00) Andratx x Real Sociedad | (16:00) Terrassa x Alavés | (19:00)  Valle de Egüés x RCD Mallorca | (19:00) Villanovense x Real Betis | (21:00) Atlético Astorga x Sevilla FC","image": "","stations": [
-      {"name": "almería | alavés","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
-      {"name": "almería | alavés","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
+    {"name": "(12:00) Deportivo La Coruña x CD Tenerife | (12:00) Antequera x S.D. Huesca | (12:00) Barbastro x Almería | (12:00) Yeclano x Rayo Vallecano | (16:00) Andratx x Real Sociedad | (16:00) Terrassa x Alavés | (19:00) Valle de Egüés x RCD Mallorca | (19:00) Villanovense x Real Betis | (21:00) Atlético Astorga x Sevilla FC | (21:00) Tudelano x UD Las Palmas","image": "","stations": [
+      {"name": "depor","url": "acestream://dfbeae99e6da47a8f10be96e28ae1ba600cd84bc"},
+      {"name": "huesca | con chrome y extensión m3u8","url": "https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8","embed": true},
+      {"name": "huesca | con chrome y extensión m3u8","url": "https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8","embed": true},
+      {"name": "depor","url": "acestream://dfbeae99e6da47a8f10be96e28ae1ba600cd84bc"},
+      {"name": "almeria | alavés | palmas","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
+      {"name": "almeria | alavés | palmas","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
       {"name": "rayo | sociedad | betis","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
       {"name": "mallorca","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
       {"name": "sevilla","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"},
       {"name": "sevilla (web | con chrome y extensión m3u8)","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true}
-
+  ]}]},
+  {"name": "⚽️ Europa League","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png","groups": [ 
+    {"name": "(21:00) Villarreal x Maccabi Haifa","image": "","stations": [
+      {"name": "villarreal","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "villarreal","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}    
+  ]}]},
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "(20:30) Fulham x Nottingham Forest | (20:30) Sheffield United x Liverpool | (20:30) Brighton x Brentford | (20:30) Crystal Palace x Bournemouth | (21:15) Aston Villa x Manchester City | (21:15) Manchester United x Chelsea","image": "","stations": [
+      {"name": "fulham","url": "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd"},
+      {"name": "fulham","url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"},
+      {"name": "fulham","url": "acestream://0f32c0131a2d9444996410801f4e18b04384db98"},
+      {"name": "liverpool","url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97"},
+      {"name": "liverpool","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"},
+      {"name": "brighton","url": "acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a"},
+      {"name": "Manchester City","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "Manchester City","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"},
+      {"name": "chelsea","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
+      {"name": "chelsea","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"}
       
-      
 
+
+     
   
 
 ]}]} ]}]},
