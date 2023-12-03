@@ -66,11 +66,24 @@
 
 {"name": "Martes, 5","image": "","groups": [
   {"name": "⚽️ Copa del Rey","image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif","groups": [
-    {"name": "(19:00) Atzeneta (Segunda Ronda) Getafe | (21:00) RCD Espanyol (Segunda Ronda) Real Valladolid","image": "","stations": [
+    {"name": "(19:00) Atzeneta (Segunda Ronda) Getafe | (21:00) RCD Espanyol (Segunda Ronda) Real Valladolid | (21:00) Arosa (Segunda Ronda) Valencia CF","image": "","stations": [
       {"name": "getafe","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
       {"name": "getafe","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
-      {"name": "espanyol","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
-    
+      {"name": "espanyol","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
+      {"name": "valencia","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"}
+  ]}]},
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [  
+    {"name": "(20:30) Wolverhampton Wanderers x Burnley | (21:15) Luton Town x Arsenal","image": "","stations": [
+      {"name": "burnley","url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97"},
+      {"name": "burnley","url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"},
+      {"name": "burnley","url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"},
+      {"name": "luton","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "luton","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}
+  ]}]},
+  {"name": "⚽️ UEFA Women's Nations League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/UEFA_Women%27s_Nations_League_logo.svg/160px-UEFA_Women%27s_Nations_League_logo.svg.png","groups": [
+    {"name": "(19:00) España x Suecia","image": "","stations": [
+      {"name": "acestream","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"},
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
 
 ]}]} ]}]},
    
