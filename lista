@@ -50,7 +50,7 @@
       {"name": "Dortmund | Augsburg","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
 ]}]}  ]},
 
-{"name": "Domingo, 3","image": "","groups": [
+{"name": "Lunes, 4","image": "","groups": [
   {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
     {"name": "(21:00) Celta de Vigo x Cádiz","image": "","stations": [
       {"name": "","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},
@@ -61,6 +61,16 @@
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [ 
     {"name": "(20:30) Villarreal B x SD Eibar","image": "","stations": [
       {"name": "","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
+
+]}]}  ]},
+
+{"name": "Martes, 5","image": "","groups": [
+  {"name": "⚽️ Copa del Rey","image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif","groups": [
+    {"name": "(19:00) Atzeneta (Segunda Ronda) Getafe | (21:00) RCD Espanyol (Segunda Ronda) Real Valladolid","image": "","stations": [
+      {"name": "getafe","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
+      {"name": "getafe","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
+      {"name": "espanyol","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
+    
 
 ]}]} ]}]},
    
