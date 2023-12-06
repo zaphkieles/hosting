@@ -85,7 +85,25 @@
       {"name": "ES","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"},
       {"name": "EN","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"},
       {"name": "EN","url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"}
+]}]}  ]},
 
+{"name": "Sábado, 9","image": "","groups": [  
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "(14:00) Alavés x UD Las Palmas | (16:15) Real Betis x Real Madrid | (18:30) Villarreal x Real Sociedad | (21:00) Real Mallorca x Sevilla    ","image": "","stations": [
+      {"name": "palmas | Villarreal","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},
+      {"name": "palmas | Villarreal","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},
+      {"name": "palmas | Villarreal","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},
+      {"name": "palmas | Villarreal","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"},
+      {"name": "madrid | Sevilla","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},
+      {"name": "madrid | Sevilla","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "madrid | Sevilla","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
+      {"name": "madrid","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
+      {"name": "madrid","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "(16:15) Real Valladolid x Amorebieta | (18:30) Sporting Gijón x Levante | (21:00) Burgos x Mirandés","image": "","stations": [
+      {"name": "","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
+  
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
