@@ -39,10 +39,20 @@
     {"name": "21:00 Sunderland x Leeds United","image": "","stations": [
       {"name": "ES","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
       {"name": "EN","url": ""}
-      
-      
-    
+]}]}  ]},
 
+{"name": "Miércoles, 13","image": "","groups": [  
+  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
+    {"name": "18:45 Red Bull Salzburgo x BSC Young Boys | 18:45 Estrella Roja x Manchester City | 21:00 Dortmund x PSG | 21:00 Celtic F.C. x Feyenoord | 21:00 Antwerp x FC Barcelona | 21:00 Atlético Madrid x Lazio | 21:00 Newcastle United x AC Milan | 21:00 Oporto x Shaktar Donetsk","image": "","stations": [
+      {"name": "Salzburgo | Dortmund","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
+      {"name": "Estrella| Barcelona","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
+      {"name": "Estrella| Barcelona","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
+      {"name": "Dortmund | Feyenoord | Barcelona | Lazio | Newcastle | Oporto","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
+      {"name": "Estrella","url": "acestream://5932623d2fd7ed16b01787251b418e4f59a01cda"},
+      {"name": "Lazio","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "Lazio","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "Newcastle","url": "acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d"},
+      {"name": "Oporto","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"}
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
