@@ -60,6 +60,14 @@
       {"name": "EN","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"},
       {"name": "CAT web | con chrome y extensión m3u8","url": "https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8","embed": true},
       {"name": "ES web | con chrome y extensión m3u8","url": "https://directes-tv-es.ccma.cat/live-origin/tv3-hls/master.m3u8","embed": true}
+]}]}  ]},
+
+{"name": "Jueves, 14","image": "","groups": [  
+  {"name": "⚽️ Europa League","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png","groups": [
+    {"name": "18:45 Rennes X Villarreal | 21:00 Real Betis X Glasgow Rangers","image": "","stations": [
+      {"name": "","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
       
 ]}]} ]}]},
    
