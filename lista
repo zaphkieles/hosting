@@ -98,7 +98,12 @@
     {"name": "15:30 Augsburg x Dortmund | 18:30 RB Leipzig x Hoffenheim","image": "","stations": [
       {"name": "","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
       {"name": "","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}       
-  
+  ]}]}, 
+  {"name": "⚽️ Liga F (femenina)","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Liga_F_icon.svg/640px-Liga_F_icon.svg.png","groups": [
+    {"name": "12:00 Atlético de Madrid Femenino x Real Sociedad Femenino","image": "","stations": [    
+      {"name": "atletico | gol play en abierto","url": "https://www.goltelevision.com/en-directo","embed": true}
+
+
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
