@@ -89,8 +89,15 @@
       {"name": "City","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}, 
       {"name": "Fulham","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"}, 
       {"name": "Fulham","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"}
-      
-        
+  ]}]},
+  {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
+    {"name": "18:00 Napoli x Cagliari","image": "","stations": [
+      {"name": "","url": "acestream://5f966c123759de46dff29c379266b7a403452033"}
+  ]}]}, 
+  {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
+    {"name": "15:30 Augsburg x Dortmund | 18:30 RB Leipzig x Hoffenheim","image": "","stations": [
+      {"name": "","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}       
   
 ]}]} ]}]},
    
