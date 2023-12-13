@@ -80,7 +80,19 @@
     {"name": "14:00 Eldense x Racing de Santander | 16:15 FC Andorra x RCD Espanyol | 18:30 Sporting Gijón x Leganés | 18:30 Cartagena x Burgos | 21:00 Mirandés x Albacete","image": "","stations": [
       {"name": "","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},  
       {"name": "cartagena","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"}
-    
+  ]}]},
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "16:00 Bournemouth x Luton Town | 16:00 Chelsea x Sheffield United | 16:00 Manchester City x Crystal Palace M+ Dial 70 DAZN BAR 1 | 16:00 Newcastle United x Fulham | 18:30 Burnley x Everton M+ Dial 70 DAZN BAR 1
+    ","image": "","stations": [
+      {"name": "luton","url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97"}, 
+      {"name": "Chelsea","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}, 
+      {"name": "City","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"}, 
+      {"name": "City","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}, 
+      {"name": "Fulham","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"}, 
+      {"name": "Fulham","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"}, 
+      
+        
+  
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
