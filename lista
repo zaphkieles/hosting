@@ -8,39 +8,6 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-{"name": "Lunes, 11","image": "","groups": [  
-  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "(21:00) Rayo Vallecano x Celta de Vigo | (21:00) Granada CF x Athletic Club","image": "","stations": [
-      {"name": "palmas | Villarreal","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},
-      {"name": "palmas | Villarreal","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},
-      {"name": "palmas | Villarreal","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},
-      {"name": "palmas | Villarreal","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
-  ]}]},
-  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-    {"name": "(21:00 Tenerife x Alcorcón","image": "","stations": [
-      {"name": "","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
-  
-]}]}  ]},
-{"name": "Martes, 12","image": "","groups": [  
-  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
-    {"name": "18:45 PSV Eindhoven x Arsenal | 18:45 Lens x Sevilla FC | 21:00 FC Copenhague x Galatasaray | 21:00 Manchester United x Bayern de Múnich | 21:00 Napoli x Braga | 21:00 Red Bull Salzburgo x Benfica | 21:00 Inter Milan x Real Sociedad | 21:00 Union Berlin x Real Madrid","image": "","stations": [
-      {"name": "arsenal","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
-      {"name": "lens | Madrid","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
-      {"name": "lens | Madrid","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
-      {"name": "Copenhague | Bayern | braga | Benfica | Milan | Madrid","url": "acestream://1b48d5881337c87b89e1edefff6688fe2271d222"},
-      {"name": "Copenhague","url": "acestream://5932623d2fd7ed16b01787251b418e4f59a01cda"},
-      {"name": "Bayern","url": "acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7"},
-      {"name": "braga","url": "acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d"},
-      {"name": "benfica","url": "acestream://fdd9e3660059051660dbd7857443c2b807f258d0"},
-      {"name": "Milan","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
-      {"name": "Milan","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
-  ]}]},     
-  {"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
-    {"name": "21:00 Sunderland x Leeds United","image": "","stations": [
-      {"name": "ES","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
-      {"name": "EN","url": ""}
-]}]}  ]},
-
 {"name": "Miércoles, 13","image": "","groups": [  
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
     {"name": "18:45 Red Bull Salzburgo x BSC Young Boys | 18:45 Estrella Roja x Manchester City | 21:00 Dortmund x PSG | 21:00 Celtic F.C. x Feyenoord | 21:00 Antwerp x FC Barcelona | 21:00 Atlético Madrid x Lazio | 21:00 Newcastle United x AC Milan | 21:00 Oporto x Shaktar Donetsk","image": "","stations": [
