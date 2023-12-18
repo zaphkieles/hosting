@@ -67,7 +67,20 @@
   {"name": "⚽️ Copa Mundial de Clubes FIFA","image": "https://fotografias.larazon.es/clipping/cmsimages01/2023/02/02/FEEB35E4-B0BF-4998-804C-1B1E2986FD15/97.jpg?crop=665,374,x0,y22&width=1600&height=900&optimize=low&format=webply","groups": [
     {"name": "19:00 Urawa Red x Manchester City","image": "","stations": [
       {"name": "EN","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
-      
+]}]}  ]},      
+
+{"name": "Miércoles, 20","image": "","groups": [  
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "19:00 FC Barcelona x Almería | 21:30 Villarreal x Celta | 21:30 Athletic Club x UD Las Palmas","image": "","stations": [ 
+      {"name": "barcelona | palmas","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},  
+      {"name": "barcelona | palmas","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},  
+      {"name": "barcelona | palmas","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
+      {"name": "barcelona","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
+      {"name": "celta","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},  
+      {"name": "celta","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},  
+      {"name": "celta","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},  
+      {"name": "celta","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
+
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
