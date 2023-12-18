@@ -93,11 +93,21 @@
       {"name": "colonia | bayern","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
       {"name": "bayern","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"},
       {"name": "Leverkusen","url": "acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9"},
-      {"name": "Leverkusen","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
-      
-      
-      
-   
+      {"name": "Leverkusen","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}   
+  ]}]},
+  {"name": "⚽️ Carabao Cup","image": "https://www.themillers.co.uk/siteassets/image/efl/efl-logos/carabao-cup-2018-19.jpg","groups": [
+    {"name": "21:00 Liverpool x West Ham","image": "","stations": [
+      {"name": "","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
+      {"name": "","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"}
+  ]}]},
+  {"name": "⚽️ Champions League Femenina","image": "https://estaticos-cdn.sport.es/clip/e1871120-090c-464b-82a8-29fe66ec8a4b_source-aspect-ratio_default_0.jpg","groups": [
+    {"name": "21:00 Real Madrid Femenino x Paris FC Femenino","image": "","stations": [
+      {"name": "","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"}
+  ]}]},
+  {"name": "⚽️ copa italiana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCPL4bRL9l39JaKoqoKVe2-NFnmxLTuTQdYmWuCasg2iWDuEJt","groups": [
+    {"name": "21:00 Inter de Milán x Bolonia","image": "","stations": [
+      {"name": "","url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97"}
+    
   
 ]}]} ]}]},
    
