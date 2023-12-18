@@ -45,7 +45,14 @@
     {"name": "19:00 Albacete x Eldense | 19:00 Racing de Santander x Andorra | 21:30 Elche x Mirandés | 21:30 RCD Espanyol x Burgos","image": "","stations": [
       {"name": "eldense | mirandes","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
       {"name": "andorra | espanyol","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
-  
+  ]}]},
+  {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
+    {"name": "18:30 Werder Bremen x RB Leipzig | 20:30 Dortmund x Mainz 05","image": "","stations": [
+      {"name": "leipzig","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
+      {"name": "dortmund","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "dortmund","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+
+
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
