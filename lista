@@ -112,8 +112,18 @@
   {"name": "⚽️ copa italiana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCPL4bRL9l39JaKoqoKVe2-NFnmxLTuTQdYmWuCasg2iWDuEJt","groups": [
     {"name": "21:00 Inter de Milán x Bolonia","image": "","stations": [
       {"name": "","url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97"}
-    
-  
+]}]}  ]},      
+
+{"name": "Jueves, 21","image": "","groups": [  
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "19:00 Cádiz x Real Sociedad | 19:00 Real Betis x Girona | 21:30 Alavés x Real Madrid | 21:30 RCD Mallorca x Osasuna","image": "","stations": [ 
+      {"name": "cádiz | madrid","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},  
+      {"name": "cádiz | madrid","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},  
+      {"name": "cádiz | madrid","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},  
+      {"name": "cádiz | madrid","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"},
+      {"name": "betis | Osasuna","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},  
+      {"name": "betis | Osasuna","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},  
+      {"name": "betis | Osasuna","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
