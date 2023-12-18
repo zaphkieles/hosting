@@ -58,9 +58,16 @@
       {"name": "port","url": "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd"},
       {"name": "chelsea","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
       {"name": "chelsea EN","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
-    
-
-
+  ]}]},
+  {"name": "⚽️ copa italiana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCPL4bRL9l39JaKoqoKVe2-NFnmxLTuTQdYmWuCasg2iWDuEJt","groups": [
+    {"name": "21:00 Napoli x Frosinone Calcio","image": "","stations": [
+      {"name": "","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
+      {"name": "","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"}
+  ]}]},
+  {"name": "⚽️ Copa Mundial de Clubes FIFA","image": "https://fotografias.larazon.es/clipping/cmsimages01/2023/02/02/FEEB35E4-B0BF-4998-804C-1B1E2986FD15/97.jpg?crop=665,374,x0,y22&width=1600&height=900&optimize=low&format=webply","groups": [
+    {"name": "19:00 Urawa Red x Manchester City","image": "","stations": [
+      {"name": "EN","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
+      
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
