@@ -1,29 +1,119 @@
+Bundesliga
+18:30 Werder Bremen x RB Leipzig
+M+ Dial 8
+20:30 Dortmund x Mainz 05
+M+ Dial 60
 
+Carabao Cup
+20:45 Everton x Fulham
+M+ Dial 196
+20:45 Port Vale x Middlesbrough
+M+ Dial 197
+21:00 Chelsea x Newcastle
+M+ Dial 70
+DAZN BAR 1
 
+Copa Italiana
+21:00 Napoli x Frosinone Calcio
+M+ Dial 71
 
-Partidos televisados mañana martes
+Copa Mundial de Clubes FIFA
+19:00 Urawa Red x Manchester City
+
+Partidos televisados el miércoles, 20 de diciembre
 LaLiga EA Sports
-19:00
-19
-Rayo VallecanoRayo Vallecano
-Valencia CFValencia CF
-DAZN LaLiga
-M+ Dial 55
-LaLiga TV BAR
-M+ Dial 300
-DAZN
-21:30
-19
-GranadaGranada
-Sevilla FCSevilla FC
-LaLiga TV
+19:00 FC Barcelona x Almería
 M+ Dial 54
-LaLiga TV BAR 2
-M+ Dial 301
-21:30
-19
+M+ Dial 57
+21:30 Villarreal x Celta
+M+ Dial 55
+21:30 Athletic Club x UD Las Palmas
+M+ Dial 54
+
+LaLiga Hypermotion
+19:00 Real Zaragoza x Levante
+M+ Dial 56
+21:30 SD Eibar x Sporting Gijón
+M+ Dial 56
+M+ Dial 8
+21:30 Leganés x CD Tenerife
+M+ Dial 59
+
+Bundesliga
+18:30 Union Berlin x Colonia
+M+ Dial 60
+20:30 Wolfsburg x Bayern
+M+ Dial 60
+M+ Dial 62
+20:30 Leverkusen x Bochum
+M+ Dial 61
+
+Carabao Cup
+21:00 Liverpool x West Ham
+M+ Dial 71
+
+Champions League Femenina
+21:00 Real Madrid Femenino x Paris FC Femenino
+M+ Dial 70
+
+Copa Italiana
+21:00 Inter de Milán x Bolonia
+M+ Dial 196
+
+Partidos televisados el jueves, 21 de diciembre
+LaLiga EA Sports
+19:00 Cádiz x Real Sociedad
+M+ Dial 55
+19:00 Real Betis x Girona
+M+ Dial 54
+21:30 Alavés x Real Madrid
+M+ Dial 55
+M+ Dial 58
+21:30 RCD Mallorca x Osasuna
+M+ Dial 54
+
+LaLiga Hypermotion
+19:00 S.D. Huesca x Cartagena
+M+ Dial 59
+19:00 Villarreal B x Real Oviedo
+M+ Dial 56
+21:30 Amorebieta x Alcorcón
+M+ Dial 59
+21:30 Real Valladolid x Racing Ferrol
+M+ Dial 56
+
+Premier League
+21:00 Crystal Palace x Brighton
+
+Champions League Femenina
+21:00 FC Barcelona Femenino x Rosengard
+M+ Dial 70
+DAZN BAR 1
+TV3 Cataluña
+En Abierto
+
+Partidos televisados el viernes, 22 de diciembre
+Premier League
+21:00 Aston Villa x Sheffield United
+
+Serie A Italia
+18:30 Empoli x Lazio
+20:45 Salernitana x AC Milan
+
+Partidos Amistosos
+03:00
+22
+Club América
+FC BarcelonaFC Barcelona
+Canales Pendientes
+Se disputará en el histórico Cotton Bowl Stadium de Dallas y entrarán en acción tanto las estrellas del Barcelona como la plantilla al completo del Club América (líder de la Liga MX). Una parte de los beneficios irán a parar a los damnificados por el huracán en Acapulco.
+
+Partidos televisados el sábado, 23 de diciembre
+LaLiga EA Sports
+16:15
+23
 Atlético MadridAtlético Madrid
-GetafeGetafe
+Sevilla FCSevilla FC
 DAZN LaLiga
 M+ Dial 55
 DAZN LaLiga 2
@@ -31,364 +121,333 @@ M+ Dial 58
 LaLiga TV BAR
 M+ Dial 300
 DAZN
-
-
-00:00
- / 
-00:40
-
-LaLiga Hypermotion
-19:00
-19
-AlbaceteAlbacete
-EldenseEldense
-LaLiga TV Hypermotion 2
-M+ Dial 59
-LaLiga TV BAR 3
-M+ Dial 302
-Amazon Prime Video
-19:00
-19
-Racing de SantanderRacing de Santander
-AndorraAndorra
-LaLiga TV Hypermotion
-M+ Dial 56
-LaLiga TV BAR 4
-M+ Dial 303
-Amazon Prime Video
-21:30
-19
-ElcheElche
-MirandésMirandés
-LaLiga TV Hypermotion 2
-M+ Dial 59
-LaLiga TV BAR 3
-M+ Dial 302
-Amazon Prime Video
-21:30
-19
-RCD EspanyolRCD Espanyol
-BurgosBurgos
-LaLiga TV Hypermotion
-M+ Dial 56
-LaLiga TV BAR 4
-M+ Dial 303
-Amazon Prime Video
-Bundesliga
+Premier League
+13:30
+23
+West HamWest Ham
+Manchester UnitedManchester United
+DAZN
+16:00
+23
+FulhamFulham
+BurnleyBurnley
+DAZN
+16:00
+23
+Manchester CityManchester City
+BrentfordBrentford
+Aplazado
+16:00
+23
+Nottingham ForestNottingham Forest
+BournemouthBournemouth
+DAZN
+16:00
+23
+Tottenham HotspurTottenham Hotspur
+EvertonEverton
+DAZN
+16:00
+23
+Luton TownLuton Town
+Newcastle UnitedNewcastle United
+DAZN
 18:30
-19
-Werder BremenWerder Bremen
-RB LeipzigRB Leipzig
+23
+LiverpoolLiverpool
+ArsenalArsenal
+DAZN
+Serie A Italia
+18:00
+23
+Inter de MilánInter de Milán
+LecceLecce
 #Vamos
 M+ Dial 8
 #Vamos BAR
 M+ Dial 304
 Movistar+ Lite
-20:30
-19
-DortmundDortmund
-Mainz 05Mainz 05
-#Vamos BAR 2
-M+ Dial 305
-Liga de Campeones
-M+ Dial 60
-Carabao Cup
-20:45
-19
-EvertonEverton
-Cuartos de Final
-FulhamFulham
-DAZN 3
-M+ Dial 196
-DAZN
-20:45
-19
-Port ValePort Vale
-Cuartos de Final
-MiddlesbroughMiddlesbrough
-DAZN 4
-M+ Dial 197
-DAZN
-21:00
-19
+Liga Saudí Profesional
+19:00
+23
+Al IttihadAl Ittihad
+Al RaedAl Raed
+Marca.com
+Partidos televisados el domingo, 24 de diciembre
+Premier League
+14:00
+24
+Wolverhampton WanderersWolverhampton Wanderers
 ChelseaChelsea
-Cuartos de Final
+DAZN
+Partidos televisados el martes, 26 de diciembre
+Premier League
+13:30
+26
 NewcastleNewcastle
-DAZN 1
-M+ Dial 70
-DAZN BAR 1
-M+ Dial 148
+Nottingham ForestNottingham Forest
 DAZN
-Copa Italiana
-21:00
-19
-NapoliNapoli
-Frosinone CalcioFrosinone Calcio
-DAZN 2
-M+ Dial 71
-DAZN BAR 2
-M+ Dial 149
+16:00
+26
+BournemouthBournemouth
+FulhamFulham
 DAZN
-Copa Mundial de Clubes FIFA
-19:00
-19
-Urawa Red
-Semifinales
-Manchester CityManchester City
-FIFA+
-Partidos televisados el miércoles, 20 de diciembre
-LaLiga EA Sports
-19:00
-20
-FC BarcelonaFC Barcelona
-AlmeríaAlmería
-LaLiga TV
-M+ Dial 54
-LaLiga TV BAR
-M+ Dial 300
-LaLiga TV 2
-M+ Dial 57
-21:30
-20
-VillarrealVillarreal
-CeltaCelta
-DAZN LaLiga
-M+ Dial 55
-LaLiga TV BAR 2
-M+ Dial 301
+16:00
+26
+Sheffield UnitedSheffield United
+Luton TownLuton Town
 DAZN
-21:30
-20
-Athletic ClubAthletic Club
-UD Las PalmasUD Las Palmas
-GOL PLAY
-En Abierto
-LaLiga TV
-M+ Dial 54
-LaLiga TV BAR
-M+ Dial 300
-LaLiga Hypermotion
-19:00
-20
-Real ZaragozaReal Zaragoza
-LevanteLevante
-LaLiga TV Hypermotion
-M+ Dial 56
-LaLiga TV BAR 3
-M+ Dial 302
-Movistar Plus+
-Dial 7
-Amazon Prime Video
-21:30
-20
-SD EibarSD Eibar
-Sporting GijónSporting Gijón
-LaLiga TV Hypermotion
-M+ Dial 56
-#Vamos
-M+ Dial 8
-LaLiga TV BAR 3
-M+ Dial 302
-Movistar+ Lite
-Amazon Prime Video
-21:30
-20
-LeganésLeganés
-CD TenerifeCD Tenerife
-LaLiga TV Hypermotion 2
-M+ Dial 59
-LaLiga TV BAR 4
-M+ Dial 303
-Movistar Plus+
-Dial 7
-Amazon Prime Video
-Bundesliga
 18:30
-20
-Union BerlinUnion Berlin
-ColoniaColonia
-#Vamos BAR 2
-M+ Dial 305
-Liga de Campeones
-M+ Dial 60
+26
+BurnleyBurnley
+LiverpoolLiverpool
+DAZN
+21:00
+26
+Manchester UnitedManchester United
+Aston VillaAston Villa
+DAZN
+Liga Saudí Profesional
+19:00
+26
+Al IttihadAl Ittihad
+Al NassrAl Nassr
+Marca.com
+Partidos televisados el miércoles, 27 de diciembre
+Premier League
 20:30
-20
-WolfsburgWolfsburg
-BayernBayern
-#Vamos BAR 2
-M+ Dial 305
-Liga de Campeones
-M+ Dial 60
-Liga de Campeones 3
-M+ Dial 62
+27
+BrentfordBrentford
+Wolverhampton WanderersWolverhampton Wanderers
+DAZN
 20:30
-20
-LeverkusenLeverkusen
-BochumBochum
+27
+ChelseaChelsea
+Crystal PalaceCrystal Palace
+DAZN
+21:15
+27
+EvertonEverton
+Manchester CityManchester City
+DAZN
+Partidos televisados el jueves, 28 de diciembre
+Premier League
+20:30
+28
+BrightonBrighton
+Tottenham HotspurTottenham Hotspur
+DAZN
+21:15
+28
+ArsenalArsenal
+West HamWest Ham
+DAZN
+Partidos televisados el viernes, 29 de diciembre
+Serie A Italia
+20:45
+29
+LazioLazio
+FrosinoneFrosinone
 #Vamos BAR 3
 M+ Dial 306
 Liga de Campeones 2
 M+ Dial 61
-Carabao Cup
-21:00
-20
-LiverpoolLiverpool
-Cuartos de Final
-West HamWest Ham
-DAZN 2
-M+ Dial 71
-DAZN BAR 2
-M+ Dial 149
-DAZN
-Champions League Femenina
-18:45
-20
-Ajax FemeninoAjax Femenino
-Bayern FemeninoBayern Femenino
-DAZN
-18:45
-20
-AS Roma FemeninoAS Roma Femenino
-PSG FemeninoPSG Femenino
-DAZN
-YouTube "DAZN Women's Football"
-21:00
-20
-Häcken FemeninoHäcken Femenino
-Chelsea FemeninoChelsea Femenino
-DAZN
-21:00
-20
-Real Madrid FemeninoReal Madrid Femenino
-Paris FC FemeninoParis FC Femenino
-DAZN 1
-M+ Dial 70
-DAZN BAR 1
-M+ Dial 148
-DAZN
-Copa Italiana
-21:00
-20
-Inter de MilánInter de Milán
-Octavos de Final
-BoloniaBolonia
-DAZN 3
-M+ Dial 196
-DAZN
-Partidos televisados el jueves, 21 de diciembre
-LaLiga EA Sports
-19:00
-21
-CádizCádiz
-Real SociedadReal Sociedad
-DAZN LaLiga
-M+ Dial 55
-LaLiga TV BAR 2
-M+ Dial 301
-DAZN
-19:00
-21
-Real BetisReal Betis
-GironaGirona
-LaLiga TV
-M+ Dial 54
-LaLiga TV BAR
-M+ Dial 300
-Movistar Plus+
-Dial 7
-21:30
-21
-AlavésAlavés
-Real MadridReal Madrid
-DAZN LaLiga
-M+ Dial 55
-DAZN LaLiga 2
-M+ Dial 58
-LaLiga TV BAR
-M+ Dial 300
-DAZN
-21:30
-21
-RCD MallorcaRCD Mallorca
-OsasunaOsasuna
-LaLiga TV
-M+ Dial 54
-LaLiga TV BAR 3
-M+ Dial 302
-LaLiga Hypermotion
-19:00
-21
-S.D. HuescaS.D. Huesca
-CartagenaCartagena
-LaLiga TV Hypermotion 2
-M+ Dial 59
-LaLiga TV BAR 3
-M+ Dial 302
-Amazon Prime Video
-19:00
-21
-Villarreal BVillarreal B
-Real OviedoReal Oviedo
-LaLiga TV Hypermotion
-M+ Dial 56
-LaLiga TV BAR 4
-M+ Dial 303
-Amazon Prime Video
-21:30
-21
-AmorebietaAmorebieta
-AlcorcónAlcorcón
-LaLiga TV Hypermotion 2
-M+ Dial 59
-LaLiga TV BAR 4
-M+ Dial 303
-Amazon Prime Video
-21:30
-21
-Real ValladolidReal Valladolid
-Racing FerrolRacing Ferrol
-LaLiga TV Hypermotion
-M+ Dial 56
-LaLiga TV BAR 2
-M+ Dial 301
-Amazon Prime Video
-Premier League
-21:00
-21
-Crystal PalaceCrystal Palace
-BrightonBrighton
-DAZN
-Champions League Femenina
-18:45
-21
-Brann FemeninoBrann Femenino
-Lyon FemeninoLyon Femenino
-DAZN
-18:45
-21
-Eintracht Fráncfort FemeninoEintracht Fráncfort Femenino
-Benfica Feminino
-DAZN
-21:00
-21
-FC Barcelona FemeninoFC Barcelona Femenino
-RosengardRosengard
-DAZN 1
-M+ Dial 70
-DAZN BAR 1
-M+ Dial 148
-DAZN
-TV3 Cataluña
-En Abierto
-21:00
-21
-Slavia Praga FemeninoSlavia Praga Femenino
-St. Polten FemeninoSt. Polten Femenino
-DAZN
 Liga Saudí Profesional
 19:00
-21
-Al HilalAl Hilal
-Abha Club
+29
+Al AhliAl Ahli
+Khaleej FC
+DAZN
+Partidos televisados el sábado, 30 de diciembre
+Premier League
+13:30
+30
+Luton TownLuton Town
+ChelseaChelsea
+DAZN
+16:00
+30
+Aston VillaAston Villa
+BurnleyBurnley
+DAZN
+16:00
+30
+Manchester CityManchester City
+Sheffield UnitedSheffield United
+DAZN
+16:00
+30
+Wolverhampton WanderersWolverhampton Wanderers
+EvertonEverton
+DAZN
+16:00
+30
+Crystal PalaceCrystal Palace
+BrentfordBrentford
+DAZN
+18:30
+30
+Nottingham ForestNottingham Forest
+Manchester UnitedManchester United
+DAZN
+Serie A Italia
+20:45
+30
+JuventusJuventus
+AS RomaAS Roma
+#Vamos
+M+ Dial 8
+#Vamos BAR
+M+ Dial 304
+Movistar+ Lite
+Liga Saudí Profesional
+16:00
+30
+Al-Tai FC
+Al IttihadAl Ittihad
 Marca.com
-Pulsa el botón para ver más partidos de los próximos días
+19:00
+30
+Al Taawoun FC
+Al NassrAl Nassr
+Marca.com
+Partidos televisados el domingo, 31 de diciembre
+Premier League
+15:00
+31
+FulhamFulham
+ArsenalArsenal
+DAZN
+15:00
+31
+Tottenham HotspurTottenham Hotspur
+BournemouthBournemouth
+DAZN
+Partidos televisados el lunes, 1 de enero
+Premier League
+21:00
+1
+LiverpoolLiverpool
+NewcastleNewcastle
+DAZN
+Partidos televisados el sábado, 6 de enero
+Copa del Rey
+16:00
+6
+CD LugoCD Lugo
+16º de Final
+Atlético MadridAtlético Madrid
+Liga de Campeones
+M+ Dial 60
+17:00
+6
+RCD EspanyolRCD Espanyol
+16º de Final
+GetafeGetafe
+Liga de Campeones
+M+ Dial 60
+18:00
+6
+ElcheElche
+16º de Final
+GironaGirona
+Liga de Campeones
+M+ Dial 60
+19:00
+6
+S.D. HuescaS.D. Huesca
+16º de Final
+Rayo VallecanoRayo Vallecano
+Liga de Campeones
+M+ Dial 60
+20:00
+6
+AlavésAlavés
+16º de Final
+Real BetisReal Betis
+Liga de Campeones
+M+ Dial 60
+21:30
+6
+ArandinaArandina
+16º de Final
+Real MadridReal Madrid
+La 1
+En Abierto
+RTVE Play
+En Abierto
+Partidos televisados el domingo, 7 de enero
+Copa del Rey
+12:00
+7
+AmorebietaAmorebieta
+16º de Final
+Celta de VigoCelta de Vigo
+Liga de Campeones
+M+ Dial 60
+12:00
+7
+BurgosBurgos
+16º de Final
+RCD MallorcaRCD Mallorca
+Liga de Campeones
+M+ Dial 60
+16:00
+7
+CastellónCastellón
+16º de Final
+OsasunaOsasuna
+Liga de Campeones
+M+ Dial 60
+16:00
+7
+Racing FerrolRacing Ferrol
+16º de Final
+Sevilla FCSevilla FC
+Liga de Campeones
+M+ Dial 60
+18:00
+7
+UnionistasUnionistas
+16º de Final
+VillarrealVillarreal
+Liga de Campeones
+M+ Dial 60
+19:00
+7
+SD EibarSD Eibar
+16º de Final
+Athletic ClubAthletic Club
+Liga de Campeones
+M+ Dial 60
+19:00
+7
+CartagenaCartagena
+16º de Final
+Valencia CFValencia CF
+Liga de Campeones
+M+ Dial 60
+21:00
+7
+MálagaMálaga
+16º de Final
+Real SociedadReal Sociedad
+La 2
+Teledeporte
+En Abierto
+RTVE Play
+En Abierto
+21:00
+7
+TenerifeTenerife
+16º de Final
+UD Las PalmasUD Las Palmas
+Liga de Campeones
+M+ Dial 60
+21:00
+7
+BarbastroBarbastro
+16º de Final
+FC BarcelonaFC Barcelona
+Liga de Campeones
+M+ Dial 60

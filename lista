@@ -28,7 +28,24 @@
     {"name": "19:00 Fluminense x Al Ahly","image": "","stations": [
       {"name": "web | con VPN (Sección Varios/Apps)","url": "https://v3.sportsonline.so/channels/hd/hd2.php","embed": true},
       {"name": "web | con VPN (Sección Varios/Apps)","url": "https://v3.sportsonline.so/channels/pt/sporttv3.php","embed": true}
-      
+]}]}  ]},      
+
+{"name": "Martes, 19","image": "","groups": [  
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "19:00 Rayo Vallecano x Valencia CF | 21:30 Granada x Sevilla FC | 21:30 Atlético Madrid x Getafe","image": "","stations": [ 
+      {"name": "rayo | getafe","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"},  
+      {"name": "rayo | getafe","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},  
+      {"name": "rayo | getafe","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},  
+      {"name": "rayo | getafe","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"},
+      {"name": "granada","url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"},  
+      {"name": "granada","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},  
+      {"name": "granada","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}  
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "19:00 Albacete x Eldense | 19:00 Racing de Santander x Andorra | 21:30 Elche x Mirandés | 21:30 RCD Espanyol x Burgos","image": "","stations": [
+      {"name": "eldense | mirandes","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
+      {"name": "andorra | espanyol","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
+  
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
