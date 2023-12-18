@@ -129,9 +129,19 @@
     {"name": "19:00 S.D. Huesca x Cartagena | 19:00 Villarreal B x Real Oviedo | 21:30 Amorebieta x Alcorcón | 21:30 Real Valladolid x Racing Ferrol","image": "","stations": [
       {"name": "huesca | amorebieta","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
       {"name": "oviedo | ferrol","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"}
-  
-
-
+  ]}]},
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "21:00 Crystal Palace x Brighton","image": "","stations": [
+      {"name": "EN","url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},
+      {"name": "EN","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"}
+  ]}]},
+  {"name": "⚽️ Champions League Femenina","image": "https://estaticos-cdn.sport.es/clip/e1871120-090c-464b-82a8-29fe66ec8a4b_source-aspect-ratio_default_0.jpg","groups": [
+    {"name": "21:00 FC Barcelona Femenino x Rosengard","image": "","stations": [
+      {"name": "","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "EN","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"},
+      {"name": "CAT | con chrome y extensión m3u8","url": "https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8","embed": true},
+      {"name": "ES | con chrome y extensión m3u8","url": "https://directes-tv-es.ccma.cat/live-origin/tv3-hls/master.m3u8","embed": true}
+      
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
