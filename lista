@@ -87,6 +87,11 @@
       {"name": "levante | eibar","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
       {"name": "eibar","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
   ]}]},
+  {"name": "⚽️ Copa Mundial FutSal","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trofeo_del_mundial_de_Futsal%2C_visit%C3%B3_comando_de_la_Polic%C3%ADa_en_Cali_%2828282635893%29.jpg/120px-Trofeo_del_mundial_de_Futsal%2C_visit%C3%B3_comando_de_la_Polic%C3%ADa_en_Cali_%2828282635893%29.jpg","groups": [
+    {"name": "18:30 Italia x España","image": "","stations": [
+      {"name": "","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"},
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true}
+  ]}]},
   {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
     {"name": "18:30 Union Berlin x Colonia | 20:30 Wolfsburg x Bayern | 20:30 Leverkusen x Bochum","image": "","stations": [
       {"name": "colonia | bayern","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
