@@ -80,7 +80,14 @@
       {"name": "celta","url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"},  
       {"name": "celta","url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"},  
       {"name": "celta","url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"}
-
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "19:00 Real Zaragoza x Levante | 21:30 SD Eibar x Sporting Gijón | 21:30 Leganés x CD Tenerife","image": "","stations": [
+      {"name": "tenerife","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
+      {"name": "levante | eibar","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "eibar","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+      
+  
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
