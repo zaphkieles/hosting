@@ -51,6 +51,14 @@
       {"name": "leipzig","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
       {"name": "dortmund","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
       {"name": "dortmund","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+  ]}]},
+  {"name": "⚽️ Carabao Cup","image": "https://www.themillers.co.uk/siteassets/image/efl/efl-logos/carabao-cup-2018-19.jpg","groups": [
+    {"name": "20:45 Everton x Fulham | 20:45 Port Vale x Middlesbrough | 21:00 Chelsea x Newcastle","image": "","stations": [
+      {"name": "fulham","url": "acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97"},
+      {"name": "port","url": "acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd"},
+      {"name": "chelsea","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "chelsea EN","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"}
+    
 
 
 ]}]} ]}]},
