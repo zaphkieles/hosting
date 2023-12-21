@@ -35,7 +35,21 @@
       {"name": "EN","url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"},
       {"name": "CAT | con chrome y extensión m3u8","url": "https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8","embed": true},
       {"name": "ES | con chrome y extensión m3u8","url": "https://directes-tv-es.ccma.cat/live-origin/tv3-hls/master.m3u8","embed": true}
-      
+]}]}  ]},
+{"name": "Viernes, 22","image": "","groups": [  
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "21:00 Aston Villa x Sheffield United","image": "","stations": [ 
+      {"name": "ES","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},  
+      {"name": "EN","url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"},
+      {"name": "EN","url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"}
+  ]}]},    
+  {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
+    {"name": "18:30 Empoli x Lazio | 20:45 Salernitana x AC Milan","image": "","stations": [ 
+      {"name": "lazio | milan","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},  
+      {"name": "lazio | milan","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+  
+        
+
 ]}]} ]}]},
    
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
