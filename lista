@@ -47,8 +47,12 @@
     {"name": "18:30 Empoli x Lazio | 20:45 Salernitana x AC Milan","image": "","stations": [ 
       {"name": "lazio | milan","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},  
       {"name": "lazio | milan","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+]}]}  ]},
+{"name": "Sábado, 23","image": "","groups": [  
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "19:00 Cádiz x Real Sociedad | 19:00 Real Betis x Girona | 21:30 Alavés x Real Madrid | 21:30 RCD Mallorca x Osasuna","image": "","stations": [ 
+      {"name": "cádiz | madrid","url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"}
   
-        
 
 ]}]} ]}]},
    
