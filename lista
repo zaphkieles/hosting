@@ -2,7 +2,7 @@
 
 "groups": [
 
-{"name": "Ficha Telegram","image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/imagencabecera.png","info": "Programación, enlaces web y acestream","stations": [
+{"name": "Ficha Telegram","image": "https://raw.githubusercontent.com/zaphkieles/zaphkiel/gh-pages/zaphkiel2.jpg","info": "Programación, enlaces web y acestream","stations": [
   {"name": "Zaphkiel_ES","image": "https://definicion.de/wp-content/uploads/2010/10/cartulina.jpg","url": "https://zaphkieles.github.io/hosting/","embed": true}
 ]},
 
